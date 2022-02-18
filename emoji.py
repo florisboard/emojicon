@@ -6,37 +6,38 @@ from dataclasses import dataclass, field
 import io
 
 GROUPS = {
-    "smileys_emotion":  "Smileys & Emotion",
-    "people_body":      "People & Body",
-    "animals_nature":   "Animals & Nature",
-    "food_drink":       "Food & Drink",
-    "travel_places":    "Travel & Places",
-    "activities":       "Activities",
-    "objects":          "Objects",
-    "symbols":          "Symbols",
-    "flags":            "Flags",
+    "smileys_emotion": "Smileys & Emotion",
+    "people_body": "People & Body",
+    "animals_nature": "Animals & Nature",
+    "food_drink": "Food & Drink",
+    "travel_places": "Travel & Places",
+    "activities": "Activities",
+    "objects": "Objects",
+    "symbols": "Symbols",
+    "flags": "Flags",
 }
 
-COMMENT_IDENTIFIER        = "#"
-GROUP_IDENTIFIER          = "# group:"
-EOF_IDENTIFIER            = "#EOF"
+COMMENT_IDENTIFIER = "#"
+GROUP_IDENTIFIER = "# group:"
+EOF_IDENTIFIER = "#EOF"
 
-GROUP_COMPONENT           = "component"
-FULLY_QUALIFIED           = "fully-qualified"
+GROUP_COMPONENT = "component"
+FULLY_QUALIFIED = "fully-qualified"
 
 VARIATIONS = {
-    "light_skin_tone":          0x1F3FB,
-    "medium_light_skin_tone":   0x1F3FC,
-    "medium_skin_tone":         0x1F3FD,
-    "medium_dark_skin_tone":    0x1F3FE,
-    "dark_skin_tone":           0x1F3FF,
-    "red_hair":                 0x1F9B0,
-    "curly_hair":               0x1F9B1,
-    "white_hair":               0x1F9B2,
-    "bald":                     0x1F9B3,
+    "light_skin_tone": 0x1F3FB,
+    "medium_light_skin_tone": 0x1F3FC,
+    "medium_skin_tone": 0x1F3FD,
+    "medium_dark_skin_tone": 0x1F3FE,
+    "dark_skin_tone": 0x1F3FF,
+    "red_hair": 0x1F9B0,
+    "curly_hair": 0x1F9B1,
+    "white_hair": 0x1F9B2,
+    "bald": 0x1F9B3,
 }
 
 SPECIAL_CP = 0xFE0F
+
 
 @dataclass
 class Emoji:
@@ -46,6 +47,7 @@ class Emoji:
     name: str = ""
     keywords: list[str] = field(default_factory=list)
 
+    @staticmethod
     def from_code_points(code_points: list[int]) -> Emoji:
         return Emoji(
             qualified="".join(map(lambda cp: chr(cp), code_points)),
@@ -53,7 +55,8 @@ class Emoji:
         )
 
     def serialize(self) -> str:
-        return self.qualified + "\t" + self.name + "\t" + ",".join(self.keywords)
+        return self.qualified + ";" + self.name + ";" + "|".join(self.keywords)
+
 
 @dataclass
 class EmojiSet:
@@ -61,22 +64,25 @@ class EmojiSet:
     variations: list[Emoji] = field(default_factory=list)
 
     def serialize(self) -> str:
-        ret = "\t" + self.base.serialize() + "\n"
+        ret = self.base.serialize() + "\n"
         for variation in self.variations:
-            "\t\t" + variation.serialize() + "\n"
+            ret += "\t" + variation.serialize() + "\n"
         return ret
+
 
 def find_group_id(group_name: str) -> str | None:
     for id, name in GROUPS.items():
-        if (name == group_name):
+        if name == group_name:
             return id
     return None
+
 
 def make_stats(data_path: str):
     with io.open(data_path, encoding="utf-8") as f_data:
         for line in f_data.readlines():
-            if (line.startswith("# group: ")):
+            if line.startswith("# group: "):
                 print(line, end="")
+
 
 def parse_emoji_test_file(path: str) -> dict[str, list[EmojiSet]]:
     emoji_data: dict[str, list[EmojiSet]] = dict()
@@ -98,7 +104,7 @@ def parse_emoji_test_file(path: str) -> dict[str, list[EmojiSet]]:
                 else:
                     # Ignore comment line
                     pass
-            elif len(line.strip()) == 0 or current_group_id == None:
+            elif len(line.strip()) == 0 or current_group_id is None:
                 # Empty line or no current group id specified
                 continue
             else:
@@ -116,15 +122,15 @@ def parse_emoji_test_file(path: str) -> dict[str, list[EmojiSet]]:
                             emoji_data[current_group_id].append(EmojiSet(base=emoji))
                     else:
                         emoji_data[current_group_id].append(EmojiSet(base=emoji))
-                except Exception as e:
-                    print(e)
+                except AssertionError:
                     pass
     return emoji_data
+
 
 def write_emoji_data_file(path: str, emoji_data: dict[str, list[EmojiSet]]):
     with io.open(path, "w", encoding="utf-8") as f_emoji_data:
         for group_id, emoji_sets in emoji_data.items():
-            f_emoji_data.write("begin group " + group_id + ":\n")
+            f_emoji_data.write("[" + group_id + "]:\n")
             for emoji_set in emoji_sets:
                 f_emoji_data.write(emoji_set.serialize())
-            f_emoji_data.write("end group\n\n")
+            f_emoji_data.write("\n")
