@@ -5,6 +5,8 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 import io
 
+from cldr_annotations import CldrAnnotationInfo
+
 GROUPS = {
     "smileys_emotion": "Smileys & Emotion",
     "people_body": "People & Body",
@@ -44,9 +46,6 @@ class Emoji:
     qualified: str
     unqualified: str
 
-    name: str = ""
-    keywords: list[str] = field(default_factory=list)
-
     @staticmethod
     def from_code_points(code_points: list[int]) -> Emoji:
         return Emoji(
@@ -54,8 +53,10 @@ class Emoji:
             unqualified="".join(map(lambda cp: chr(cp), filter(lambda cp: cp != SPECIAL_CP, code_points))),
         )
 
-    def serialize(self) -> str:
-        return self.qualified + ";" + self.name + ";" + "|".join(self.keywords)
+    def serialize(self, info: CldrAnnotationInfo | None = None) -> str:
+        name = info.name if info is not None else ""
+        keywords = "|".join(info.keywords) if info is not None else ""
+        return f"{self.qualified};{name};{keywords}"
 
 
 @dataclass
@@ -63,10 +64,10 @@ class EmojiSet:
     base: Emoji
     variations: list[Emoji] = field(default_factory=list)
 
-    def serialize(self) -> str:
-        ret = self.base.serialize() + "\n"
+    def serialize(self, cldr_annotations: dict[str, CldrAnnotationInfo]) -> str:
+        ret = self.base.serialize(cldr_annotations.get(self.base.unqualified)) + "\n"
         for variation in self.variations:
-            ret += "\t" + variation.serialize() + "\n"
+            ret += "\t" + variation.serialize(cldr_annotations.get(variation.unqualified)) + "\n"
         return ret
 
 
@@ -127,10 +128,14 @@ def parse_emoji_test_file(path: str) -> dict[str, list[EmojiSet]]:
     return emoji_data
 
 
-def write_emoji_data_file(path: str, emoji_data: dict[str, list[EmojiSet]]):
+def write_emoji_data_file(
+    path: str,
+    emoji_data: dict[str, list[EmojiSet]],
+    cldr_annotations: dict[str, CldrAnnotationInfo],
+):
     with io.open(path, "w", encoding="utf-8") as f_emoji_data:
         for group_id, emoji_sets in emoji_data.items():
-            f_emoji_data.write("[" + group_id + "]:\n")
+            f_emoji_data.write(f"[{group_id}]\n")
             for emoji_set in emoji_sets:
-                f_emoji_data.write(emoji_set.serialize())
+                f_emoji_data.write(emoji_set.serialize(cldr_annotations))
             f_emoji_data.write("\n")
