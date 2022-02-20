@@ -8,11 +8,11 @@ import io
 from src.cldr_annotations import CldrAnnotationInfo
 
 GROUPS = {
-    "smileys_and_emotion": "Smileys & Emotion",
-    "people__and_body": "People & Body",
+    "smileys_emotion": "Smileys & Emotion",
+    "people_body": "People & Body",
     "animals_nature": "Animals & Nature",
-    "food_and_drink": "Food & Drink",
-    "travel_and_places": "Travel & Places",
+    "food_drink": "Food & Drink",
+    "travel_places": "Travel & Places",
     "activities": "Activities",
     "objects": "Objects",
     "symbols": "Symbols",

@@ -1,4 +1,4 @@
-[smileys_and_emotion]
+[smileys_emotion]
 😀;;
 😃;;
 😄;;
@@ -163,7 +163,7 @@
 💭;;
 💤;;
 
-[people__and_body]
+[people_body]
 👋;;
 	👋🏻;;
 	👋🏼;;
@@ -2447,7 +2447,7 @@
 🪹;;
 🪺;;
 
-[food_and_drink]
+[food_drink]
 🍇;;
 🍈;;
 🍉;;
@@ -2581,7 +2581,7 @@
 🫙;;
 🏺;;
 
-[travel_and_places]
+[travel_places]
 🌍;;
 🌎;;
 🌏;;
