@@ -79,7 +79,10 @@ def main(argv: list[str]):
                 os.makedirs(out_dir)
             for lang_code, mapping in cldr_annotation_mappings.items():
                 out_path = f"{out_dir}/{lang_code}.txt"
-                write_emoji_data_file(out_path, emoji_data, mapping)
+                if lang_code == LANG_CODE_ROOT:
+                    write_emoji_data_file(out_path, emoji_data, CldrAnnotationMapping())
+                else:
+                    write_emoji_data_file(out_path, emoji_data, mapping)
         case "clean":
             shutil.rmtree("prebuilt")
         case _:
