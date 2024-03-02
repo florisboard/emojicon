@@ -10,8 +10,7 @@ encoded in UTF-8.
 
 `./emojicon.py <action> [<options...>]`
 
-To use this tool, make sure you have Python 3.10 or newer installed in your system and that you
-ran `git submodule update --init --recursive` to initialize the CLDR git submodule.
+To use this tool, make sure you have Python 3.10 or newer installed in your system.
 
 ### Actions
 
@@ -40,7 +39,7 @@ src/                The Python source code of the Emojicon tool.
 ## License
 
 ```
-Copyright 2022 Patrick Goldinger
+Copyright 2022-2024 Patrick Goldinger
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
