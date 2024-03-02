@@ -31,8 +31,7 @@ This project is structured in the following:
 cldr/               Git submodule of the Unicode CLDR repository, checked out on a specific
                     release, mostly the latest stable release.
 prebuilt/           Pre-built emoji mapping files, which are intended for usage in the main
-                    FlorisBoard repository (https://github.com/florisboard/florisboard), for
-                    now only root.txt though. (Usage of names and keywords planned later)
+                    FlorisBoard repository (https://github.com/florisboard/florisboard)
 src/                The Python source code of the Emojicon tool.
 ```
 

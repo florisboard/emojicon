@@ -12,7 +12,7 @@ from src.emoji import parse_emoji_test_file, write_emoji_data_file
 
 BUILD_PATH = "build"
 CLDR_PATH = f"{BUILD_PATH}/cldr"
-CLDR_VERSION = "44.1" # write version in format major or major.minor
+CLDR_VERSION = "44.1" # specify version in format major or major.minor
 
 ANNOTATIONS_DIR_PATH = f"{CLDR_PATH}/common/annotations"
 ANNOTATIONS_DERIVED_DIR_PATH = f"{CLDR_PATH}/common/annotationsDerived"
