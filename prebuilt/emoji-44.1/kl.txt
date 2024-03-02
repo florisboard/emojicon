@@ -1,0 +1,3791 @@
+[smileys_emotion]
+😀;grinende ansigt;glad|grinende ansigt|smilende ansigt|smiley
+😃;smilende ansigt med åben mund;glad|smilende ansigt med åben mund|smiler|smiley
+😄;smilende ansigt med åben mund og smilende øjne;glad|smil|smilende ansigt med åben mund og smilende øjne|smileøjne|smiley
+😁;grinende ansigt med smilende øjne;ansigt der griner|glad|grinende ansigt med smilende øjne|smiley
+😆;smilende ansigt med åben mund og lukkede øjne;glad|lukkede øjne|smil|smil med lukkede øjne|smilende ansigt med åben mund og lukkede øjne
+😅;smilende ansigt med åben mund og koldsved;smil med koldsved|smilende ansigt med åben mund og koldsved
+🤣;ruller rundt på gulvet af grin;ansigt|grine|griner|gulv|latter|ler|ruller|ruller rundt på gulvet af grin|vrider sig
+😂;ansigt med glædestårer;ansigt med glædestårer|glad|glæde|tårer
+🙂;let smilende ansigt;ansigt|let smilende ansigt|smil
+🙃;omvendt ansigt;ansigt|omvendt
+🫠;;
+😉;blinkende ansigt;ansigt|ansigt der blinker|blink|blinkende ansigt
+😊;smilende ansigt og øjne;smil med smileøjne|smilende ansigt og øjne|smileøjne
+😇;smilende ansigt med glorie;ansigt|glorie|smil|smilende ansigt med glorie
+🥰;;
+😍;smilende ansigt med hjertøjne;hjerteøjne|hjerter|kærlighed|smilende ansigt med hjertøjne
+🤩;;
+😘;kyssende ansigt;ansigt|kyssende ansigt|sender kys
+😗;kysseansigt;ansigt|kys|kysseansigt|kysser
+☺️;smilende ansigt;smil|smilende ansigt
+😚;kysseansigt med lukkede øjne;ansigt|kys|kysseansigt med lukkede øjne|lukkede øjne
+😙;kysseansigt med smilende øjne;ansigt|kysseansigt med smilende øjne|smilende øjne
+🥲;;
+😋;nydende ansigt;ansigt|god mad|nydende ansigt|smil
+😛;ansigt med tungen ude;ansigt|ansigt med tungen ude
+😜;ansigt med tungen ude og blinkende øje;ansigt|ansigt med tungen ude og blinkende øje|blink|driller
+🤪;;
+😝;ansigt med tungen ude og sammenknebne øjne;ansigt|ansigt med tungen ude og sammenknebne øjne|rækker tunge
+🤑;ansigt med dollartegn;ansigt|ansigt med dollartegn|mund|penge
+🤗;krammende ansigt;ansigt|knus|knuser|kram|kramme|krammende ansigt
+🤭;;
+🫢;;
+🫣;;
+🤫;;
+🤔;tænkende ansigt;ansigt|tænkende|tanker
+🫡;;
+🤐;ansigt med lynlåsmund;ansigt|ansigt med lynlåsmund|lynlås|mund
+🤨;;
+😐;neutralt ansigt;ingen kommentar|neutralt ansigt|pokeransigt
+😑;udtryksløst ansigt;ingen kommentar|pokeransigt|udtryksløst ansigt
+😶;ansigt uden mund;ansigt|ansigt uden mund|mund|stille|tavs
+🫥;;
+😶‍🌫️;;
+😏;ansigt med smørret grin;ansigt|ansigt med smørret grin|smørret
+😒;uimponeret ansigt;ansigt|ikke glad|uimponeret ansigt
+🙄;ansigt med rullende øjne;ansigt|ansigt med rullende øjne|øjne|rullende
+😬;sammenbidt ansigt;ansigt|lave grimasse|sammenbidt ansigt
+😮‍💨;;
+🤥;løgneransigt;ansigt|lang næse|løgn|løgneransigt|lyver|pinocchio
+🫨;;
+🙂‍↔️;;
+🙂‍↕️;;
+😌;lettet ansigt;ansigt|lettelse|lettet ansigt
+😔;eftertænksomt ansigt;ansigt|eftertænksom|eftertænksomt ansigt|nedslået
+😪;dyb søvn;ansigt|dyb søvn|træt
+🤤;savlende ansigt;ansigt|savl|savlende ansigt|savler
+😴;sovende ansigt;ansigt|sove|sovende ansigt|søvn
+😷;ansigt med maske;ansigt|ansigt med maske|doktor|forkølelse|maske|medicin|syg
+🤒;ansigt med termometer;ansigt|ansigt med termometer|syg|termometer
+🤕;ansigt med bandage;ansigt|ansigt med bandage|bandage|skade|smerte
+🤢;ansigt med kvalme;ansigt|ansigt med kvalme|bræk|kaster op|kvalme|kvalmeansigt|opkast|syg|sygdom
+🤮;;
+🤧;nysende ansigt;forkølet|lommetørklæde|nys|nysende ansigt|nyser|prosit|pudser næse|syg|sygdom
+🥵;;
+🥶;;
+🥴;;
+😵;svimmelt ansigt;ansigt|ør|svimmel|svimmelt ansigt
+😵‍💫;;
+🤯;;
+🤠;cowboyhat ansigt;ansigt|cowboyhat|cowgirl|hat
+🥳;;
+🥸;;
+😎;smilende ansigt med solbriller;ansigt|sej|smil med solbriller|smilende ansigt med solbriller|solbriller
+🤓;nørdansigt;ansigt|nørd|nørdansigt
+🧐;;
+😕;forvirret ansigt;ansigt|forvirret ansigt
+🫤;;
+😟;bekymret ansigt;ansigt|bekymret|bekymring
+🙁;lidt trist ansigt;ansigt|lidt trist ansigt|trist
+☹️;trist ansigt;ansigt|trist
+😮;ansigt med åben mund;ansigt|ansigt med åben mund
+😯;tavst ansigt;stille ansigt|tavst ansigt
+😲;overrasket ansigt;chokeret|overrasket ansigt
+😳;rødmende ansigt;røde kinder|rødmende ansigt
+🥺;;
+🥹;;
+😦;måbende ansigt med åben mund;åben mund|ansigt|måbende ansigt med åben mund|rynkede bryn
+😧;forpint ansigt;ansigt|forpint ansigt|lider|smerte
+😨;bange ansigt;bange ansigt|frygt
+😰;ansigt med åben mund og koldsved;åben mund|ansigt med åben mund og koldsved|blå i ansigtet|koldsved
+😥;skuffet men lettet ansigt;skuffet men lettet|skuffet men lettet ansigt
+😢;grædende ansigt;ansigt|grædende ansigt|ked af det|tårer
+😭;grådkvalt ansigt;grådkvalt ansigt|græder|tårer
+😱;skrigende ansigt;angst|skrigende ansigt
+😖;forbistret ansigt;ansigt|forbandet|forbistret ansigt
+😣;stædigt ansigt;stædigt ansigt|udholdenhed
+😞;skuffet ansigt;ansigt|skuffet ansigt
+😓;ansigt med koldsved;ansigt|ansigt med koldsved
+😩;udmattet ansigt;udkørt|udmattet|udmattet ansigt
+😫;træt ansigt;ansigt|træt ansigt
+🥱;;
+😤;fnysende ansigt;fnysende ansigt|jeg vandt
+😡;surt ansigt;rød|surt ansigt|vred|vredt ansigt
+😠;vredt ansigt;ansigt|vredt ansigt
+🤬;;
+😈;smilende ansigt med horn;ansigt|horn|smil|smilende ansigt med horn
+👿;lilla djævel;lilla djævel|lille djævel
+💀;kranium;dødningehoved|kranium
+☠️;kranie og korslagte knogler;ansigt|død|korslagte knogler|kranie|kranie og korslagte knogler|kranium|krop|monster
+💩;bæ;bæ|bunke bæ
+🤡;klovneansigt;ansigt|klovn|klovneansigt
+👹;trold;japansk uhyre|monster|trold
+👺;ånd;ånd|japansk ånd
+👻;spøgelse;ansigt|eventyr|fantasi|gespenst|monster|spøgelse|væsen
+👽;rumvæsen;rumvæsen
+👾;alien-monster;alien|alien-monster|ansigt|eventyr|fantasi|rummet|rumvæsen|ufo
+🤖;robotansigt;ansigt|monster|robotansigt
+😺;kat smiler;glad kat|kat smiler
+😸;kat griner;kat|kat griner
+😹;kat med glædestårer;kat|kat med glædestårer
+😻;glad kat med hjerter;glad kat med hjerter|kat smiler
+😼;kat med ironisk smil;ironisk kat|kat med ironisk smil
+😽;kyssende kat med lukkede øjne;kat|kyssende kat med lukkede øjne|kysser
+🙀;træt kat;overrasket kat|træt kat
+😿;grædende kat;grædende kat|kat græder
+😾;sur kat;sur kat|surmulende kat
+🙈;ikke se;ikke se|tre vise aber
+🙉;ikke høre;ikke høre|tre vise aber
+🙊;ikke tale;ikke tale|tre vise aber
+💌;kærlighedsbrev;brev med hjerte|kærlighedsbrev
+💘;hjerte med pil;følelser|hjerte|hjerte med pil|kærlighed|pil
+💝;hjerte med bånd;bånd|følelser|hjerte|hjerte med bånd
+💖;hjerte med stjerner;følelser|gnister|hjerte med stjerner|kærlighed
+💗;voksende hjerte;følelser|hjerte|kærlighed|nervøs|voksende hjerte
+💓;bankende hjerte;bankende hjerte|hjerte|kærlighed|romantik
+💞;roterende hjerter;følelser|hjerter|roterende hjerter
+💕;to hjerter;kærlighed|romantik|to hjerter
+💟;hjertedekoration;hjerte|hjertedekoration
+❣️;hjerte som udråbstegn;hjerte|hjerte som udråbstegn|tegnsætning|udråbstegn
+💔;knust hjerte;knust hjerte|ulykkelig kærlighed
+❤️‍🔥;;
+❤️‍🩹;;
+❤️;rødt hjerte;hjerte|rødt hjerte
+🩷;;
+🧡;;
+💛;gult hjerte;følelser|gul|gult hjerte|hjerte
+💚;grønt hjerte;følelser|grøn|grønt hjerte|hjerte
+💙;blåt hjerte;blå|blåt hjerte|følelser|hjerte
+🩵;;
+💜;violet hjerte;følelser|hjerte|violet
+🤎;;
+🖤;sort hjerte;hjerte|ondskab|ondt|sort
+🩶;;
+🤍;;
+💋;læbeaftryk;læbeaftryk|læber|romantik
+💯;100 point;100 point|alle rigtige|hundrede|point
+💢;vrede;følelse|tegn for vrede|vrede
+💥;kollision;følelser|kollision|kollitionstegn
+💫;svimmel;følelser|se stjerner|svimmel
+💦;sveddråber;følelser|sveddråber
+💨;smutter;er løbet|følelser|løber væk|smutter
+🕳️;hul;hul|sort
+💬;taleboble;tale|taleboble
+👁️‍🗨️;øje i taleboble;øje|øje i taleboble|se|taleboble|vidne
+🗨️;taleboble til venstre;dialog|snak|tale|taleboble til venstre
+🗯️;vred taleboble til højre;ballon|boble|mad|vred|vred taleboble til højre
+💭;tankeboble;tanke|tankeboble
+💤;søvnig;følelse|snorke|sove|søvnig
+
+[people_body]
+👋;vinker;hånd|vinker
+	👋🏻;;
+	👋🏼;;
+	👋🏽;;
+	👋🏾;;
+	👋🏿;;
+🤚;løftet baghånd;baghånd|hånd|krop|løftet
+	🤚🏻;;
+	🤚🏼;;
+	🤚🏽;;
+	🤚🏾;;
+	🤚🏿;;
+🖐️;hånd med spredte fingre;hånd|hånd med spredte fingre|krop|spredte
+	🖐🏻;;
+	🖐🏼;;
+	🖐🏽;;
+	🖐🏾;;
+	🖐🏿;;
+✋;løftet hånd;hånd|krop|løftet hånd
+	✋🏻;;
+	✋🏼;;
+	✋🏽;;
+	✋🏾;;
+	✋🏿;;
+🖖;vulcan-hilsen;finger|hånd|krop|vulcan-hilsen
+	🖖🏻;;
+	🖖🏼;;
+	🖖🏽;;
+	🖖🏾;;
+	🖖🏿;;
+🫱;;
+	🫱🏻;;
+	🫱🏼;;
+	🫱🏽;;
+	🫱🏾;;
+	🫱🏿;;
+🫲;;
+	🫲🏻;;
+	🫲🏼;;
+	🫲🏽;;
+	🫲🏾;;
+	🫲🏿;;
+🫳;;
+	🫳🏻;;
+	🫳🏼;;
+	🫳🏽;;
+	🫳🏾;;
+	🫳🏿;;
+🫴;;
+	🫴🏻;;
+	🫴🏼;;
+	🫴🏽;;
+	🫴🏾;;
+	🫴🏿;;
+🫷;;
+	🫷🏻;;
+	🫷🏼;;
+	🫷🏽;;
+	🫷🏾;;
+	🫷🏿;;
+🫸;;
+	🫸🏻;;
+	🫸🏼;;
+	🫸🏽;;
+	🫸🏾;;
+	🫸🏿;;
+👌;ok-tegn;OK-håndtegn|OK-tegn
+	👌🏻;;
+	👌🏼;;
+	👌🏽;;
+	👌🏾;;
+	👌🏿;;
+🤌;;
+	🤌🏻;;
+	🤌🏼;;
+	🤌🏽;;
+	🤌🏾;;
+	🤌🏿;;
+🤏;;
+	🤏🏻;;
+	🤏🏼;;
+	🤏🏽;;
+	🤏🏾;;
+	🤏🏿;;
+✌️;v-tegn;V-tegn|yeah
+	✌🏻;;
+	✌🏼;;
+	✌🏽;;
+	✌🏾;;
+	✌🏿;;
+🤞;krydsede fingre;finger|håb|hånd|held og lykke|krop|krydsede fingre|krydser fingre
+	🤞🏻;;
+	🤞🏼;;
+	🤞🏽;;
+	🤞🏾;;
+	🤞🏿;;
+🫰;;
+	🫰🏻;;
+	🫰🏼;;
+	🫰🏽;;
+	🫰🏾;;
+	🫰🏿;;
+🤟;;
+	🤟🏻;;
+	🤟🏼;;
+	🤟🏽;;
+	🤟🏾;;
+	🤟🏿;;
+🤘;djævletegn;djævletegn|finger|hånd|heavy metal|horn|krop
+	🤘🏻;;
+	🤘🏼;;
+	🤘🏽;;
+	🤘🏾;;
+	🤘🏿;;
+🤙;ring til mig-hånd;hånd|krop|opringning|ring til mig-hånd|ringer|telefonhånd
+	🤙🏻;;
+	🤙🏼;;
+	🤙🏽;;
+	🤙🏾;;
+	🤙🏿;;
+👈;venstre;finger|finger peger til venstre|pegefinger|peger til venstre|venstre
+	👈🏻;;
+	👈🏼;;
+	👈🏽;;
+	👈🏾;;
+	👈🏿;;
+👉;højre;finger|finger peger til højre|højre|pegefinger|peger til højre
+	👉🏻;;
+	👉🏼;;
+	👉🏽;;
+	👉🏾;;
+	👉🏿;;
+👆;finger peger op;finger|finger peger op|pegefinger|peger op
+	👆🏻;;
+	👆🏼;;
+	👆🏽;;
+	👆🏾;;
+	👆🏿;;
+🖕;langefinger;finger|hånd|krop|langefinger
+	🖕🏻;;
+	🖕🏼;;
+	🖕🏽;;
+	🖕🏾;;
+	🖕🏿;;
+👇;ned;finger|finger peger ned|ned|pegefinger|peger ned
+	👇🏻;;
+	👇🏼;;
+	👇🏽;;
+	👇🏾;;
+	👇🏿;;
+☝️;opadvendt pegefinger;finger|hånd|krop|op|opadvendt|pege|pegefinger
+	☝🏻;;
+	☝🏼;;
+	☝🏽;;
+	☝🏾;;
+	☝🏿;;
+🫵;;
+	🫵🏻;;
+	🫵🏼;;
+	🫵🏽;;
+	🫵🏾;;
+	🫵🏿;;
+👍;tommelfinger op;håndtegn|tommelfinger op
+	👍🏻;;
+	👍🏼;;
+	👍🏽;;
+	👍🏾;;
+	👍🏿;;
+👎;tommelfinger ned;håndtegn|tommelfinger ned
+	👎🏻;;
+	👎🏼;;
+	👎🏽;;
+	👎🏾;;
+	👎🏿;;
+✊;løftet knytnæve;hånd|knytnæve|knyttet|krop|løftet knytnæve|slå
+	✊🏻;;
+	✊🏼;;
+	✊🏽;;
+	✊🏾;;
+	✊🏿;;
+👊;knytnæve;hånd|knytnæve|knyttet hånd
+	👊🏻;;
+	👊🏼;;
+	👊🏽;;
+	👊🏾;;
+	👊🏿;;
+🤛;venstrevendt knytnæve;hånd|hånd knyttet mod venstre|knytnæve|knyttet hånd|krop|venstre|venstrevendt
+	🤛🏻;;
+	🤛🏼;;
+	🤛🏽;;
+	🤛🏾;;
+	🤛🏿;;
+🤜;højrevendt knytnæve;hånd|hånd knyttet mod højre|højre|højrevendt|knytnæve|knyttet hånd|krop
+	🤜🏻;;
+	🤜🏼;;
+	🤜🏽;;
+	🤜🏾;;
+	🤜🏿;;
+👏;hænder klapper;hænder klapper|håndtegn|klapper
+	👏🏻;;
+	👏🏼;;
+	👏🏽;;
+	👏🏾;;
+	👏🏿;;
+🙌;hurra;begge hænder oppe|hurra
+	🙌🏻;;
+	🙌🏼;;
+	🙌🏽;;
+	🙌🏾;;
+	🙌🏿;;
+🫶;;
+	🫶🏻;;
+	🫶🏼;;
+	🫶🏽;;
+	🫶🏾;;
+	🫶🏿;;
+👐;åbne hænder;åbne hænder|åbne hænder-tegn|håndtegn
+	👐🏻;;
+	👐🏼;;
+	👐🏽;;
+	👐🏾;;
+	👐🏿;;
+🤲;;
+	🤲🏻;;
+	🤲🏼;;
+	🤲🏽;;
+	🤲🏾;;
+	🤲🏿;;
+🤝;håndtryk;enighed|hænder|hånd|håndtryk|hilsen|hilser|krop|mødes
+	🤝🏻;;
+	🤝🏼;;
+	🤝🏽;;
+	🤝🏾;;
+	🤝🏿;;
+	🫱🏻‍🫲🏼;;
+	🫱🏻‍🫲🏽;;
+	🫱🏻‍🫲🏾;;
+	🫱🏻‍🫲🏿;;
+	🫱🏼‍🫲🏻;;
+	🫱🏼‍🫲🏽;;
+	🫱🏼‍🫲🏾;;
+	🫱🏼‍🫲🏿;;
+	🫱🏽‍🫲🏻;;
+	🫱🏽‍🫲🏼;;
+	🫱🏽‍🫲🏾;;
+	🫱🏽‍🫲🏿;;
+	🫱🏾‍🫲🏻;;
+	🫱🏾‍🫲🏼;;
+	🫱🏾‍🫲🏽;;
+	🫱🏾‍🫲🏿;;
+	🫱🏿‍🫲🏻;;
+	🫱🏿‍🫲🏼;;
+	🫱🏿‍🫲🏽;;
+	🫱🏿‍🫲🏾;;
+🙏;foldede hænder;bøn|foldede hænder
+	🙏🏻;;
+	🙏🏼;;
+	🙏🏽;;
+	🙏🏾;;
+	🙏🏿;;
+✍️;skrivende hånd;hånd|krop|skrive|skrivende hånd
+	✍🏻;;
+	✍🏼;;
+	✍🏽;;
+	✍🏾;;
+	✍🏿;;
+💅;neglelak;kosmetik|negle|neglelak
+	💅🏻;;
+	💅🏼;;
+	💅🏽;;
+	💅🏾;;
+	💅🏿;;
+🤳;selfie;arm|foto|fotograf|fotograferer|fotografi|kamera|mobil|mobiltelefon|selfie|tager billeder|telefon
+	🤳🏻;;
+	🤳🏼;;
+	🤳🏽;;
+	🤳🏾;;
+	🤳🏿;;
+💪;armmuskler;armmuskler|muskel|stærk
+	💪🏻;;
+	💪🏼;;
+	💪🏽;;
+	💪🏾;;
+	💪🏿;;
+🦾;;
+🦿;;
+🦵;;
+	🦵🏻;;
+	🦵🏼;;
+	🦵🏽;;
+	🦵🏾;;
+	🦵🏿;;
+🦶;;
+	🦶🏻;;
+	🦶🏼;;
+	🦶🏽;;
+	🦶🏾;;
+	🦶🏿;;
+👂;øre;høre|krop|øre
+	👂🏻;;
+	👂🏼;;
+	👂🏽;;
+	👂🏾;;
+	👂🏿;;
+🦻;;
+	🦻🏻;;
+	🦻🏼;;
+	🦻🏽;;
+	🦻🏾;;
+	🦻🏿;;
+👃;næse;dufte|krop|lugte ansigt|næse
+	👃🏻;;
+	👃🏼;;
+	👃🏽;;
+	👃🏾;;
+	👃🏿;;
+🧠;;
+🫀;;
+🫁;;
+🦷;;
+🦴;;
+👀;øjne;ansigt|øjne|se
+👁️;øje;krop|øje
+👅;tunge;krop|smage|tunge
+👄;mund;ansigt|krop|læber|mund
+🫦;;
+👶;baby;baby|barn|menneske
+	👶🏻;;
+	👶🏼;;
+	👶🏽;;
+	👶🏾;;
+	👶🏿;;
+🧒;;
+	🧒🏻;;
+	🧒🏼;;
+	🧒🏽;;
+	🧒🏾;;
+	🧒🏿;;
+👦;dreng;dreng|menneske|person
+	👦🏻;;
+	👦🏼;;
+	👦🏽;;
+	👦🏾;;
+	👦🏿;;
+👧;pige;menneske|person|pige
+	👧🏻;;
+	👧🏼;;
+	👧🏽;;
+	👧🏾;;
+	👧🏿;;
+🧑;;
+	🧑🏻;;
+	🧑🏼;;
+	🧑🏽;;
+	🧑🏾;;
+	🧑🏿;;
+👱;person;blond person|menneske|person
+	👱🏻;;
+	👱🏼;;
+	👱🏽;;
+	👱🏾;;
+	👱🏿;;
+👨;mand;mand|menneske|person
+	👨🏻;;
+	👨🏼;;
+	👨🏽;;
+	👨🏾;;
+	👨🏿;;
+🧔;;
+	🧔🏻;;
+	🧔🏼;;
+	🧔🏽;;
+	🧔🏾;;
+	🧔🏿;;
+🧔‍♂️;;
+	🧔🏻‍♂️;;
+	🧔🏼‍♂️;;
+	🧔🏽‍♂️;;
+	🧔🏾‍♂️;;
+	🧔🏿‍♂️;;
+🧔‍♀️;;
+	🧔🏻‍♀️;;
+	🧔🏼‍♀️;;
+	🧔🏽‍♀️;;
+	🧔🏾‍♀️;;
+	🧔🏿‍♀️;;
+👨‍🦰;;
+	👨🏻‍🦰;;
+	👨🏼‍🦰;;
+	👨🏽‍🦰;;
+	👨🏾‍🦰;;
+	👨🏿‍🦰;;
+👨‍🦱;;
+	👨🏻‍🦱;;
+	👨🏼‍🦱;;
+	👨🏽‍🦱;;
+	👨🏾‍🦱;;
+	👨🏿‍🦱;;
+👨‍🦳;;
+	👨🏻‍🦳;;
+	👨🏼‍🦳;;
+	👨🏽‍🦳;;
+	👨🏾‍🦳;;
+	👨🏿‍🦳;;
+👨‍🦲;;
+	👨🏻‍🦲;;
+	👨🏼‍🦲;;
+	👨🏽‍🦲;;
+	👨🏾‍🦲;;
+	👨🏿‍🦲;;
+👩;kvinde;kvinde|menneske|person
+	👩🏻;;
+	👩🏼;;
+	👩🏽;;
+	👩🏾;;
+	👩🏿;;
+👩‍🦰;;
+	👩🏻‍🦰;;
+	👩🏼‍🦰;;
+	👩🏽‍🦰;;
+	👩🏾‍🦰;;
+	👩🏿‍🦰;;
+🧑‍🦰;;
+	🧑🏻‍🦰;;
+	🧑🏼‍🦰;;
+	🧑🏽‍🦰;;
+	🧑🏾‍🦰;;
+	🧑🏿‍🦰;;
+👩‍🦱;;
+	👩🏻‍🦱;;
+	👩🏼‍🦱;;
+	👩🏽‍🦱;;
+	👩🏾‍🦱;;
+	👩🏿‍🦱;;
+🧑‍🦱;;
+	🧑🏻‍🦱;;
+	🧑🏼‍🦱;;
+	🧑🏽‍🦱;;
+	🧑🏾‍🦱;;
+	🧑🏿‍🦱;;
+👩‍🦳;;
+	👩🏻‍🦳;;
+	👩🏼‍🦳;;
+	👩🏽‍🦳;;
+	👩🏾‍🦳;;
+	👩🏿‍🦳;;
+🧑‍🦳;;
+	🧑🏻‍🦳;;
+	🧑🏼‍🦳;;
+	🧑🏽‍🦳;;
+	🧑🏾‍🦳;;
+	🧑🏿‍🦳;;
+👩‍🦲;;
+	👩🏻‍🦲;;
+	👩🏼‍🦲;;
+	👩🏽‍🦲;;
+	👩🏾‍🦲;;
+	👩🏿‍🦲;;
+🧑‍🦲;;
+	🧑🏻‍🦲;;
+	🧑🏼‍🦲;;
+	🧑🏽‍🦲;;
+	🧑🏾‍🦲;;
+	🧑🏿‍🦲;;
+👱‍♀️;blond kvinde;blond kvinde|blondine|kvinde|lyshåret
+	👱🏻‍♀️;;
+	👱🏼‍♀️;;
+	👱🏽‍♀️;;
+	👱🏾‍♀️;;
+	👱🏿‍♀️;;
+👱‍♂️;blond mand;blond|lyshåret|mand
+	👱🏻‍♂️;;
+	👱🏼‍♂️;;
+	👱🏽‍♂️;;
+	👱🏾‍♂️;;
+	👱🏿‍♂️;;
+🧓;;
+	🧓🏻;;
+	🧓🏼;;
+	🧓🏽;;
+	🧓🏾;;
+	🧓🏿;;
+👴;gammel mand;gammel mand|mand|menneske
+	👴🏻;;
+	👴🏼;;
+	👴🏽;;
+	👴🏾;;
+	👴🏿;;
+👵;gammel kvinde;gammel kvinde|kvinde|menneske
+	👵🏻;;
+	👵🏼;;
+	👵🏽;;
+	👵🏾;;
+	👵🏿;;
+🙍;rynkede bryn;rynkede bryn|udtryk|utilfreds
+	🙍🏻;;
+	🙍🏼;;
+	🙍🏽;;
+	🙍🏾;;
+	🙍🏿;;
+🙍‍♂️;mand rynker panden;mand|mand rynker panden|rynke panden|rynkede bryn|rynket pande|utilfreds
+	🙍🏻‍♂️;;
+	🙍🏼‍♂️;;
+	🙍🏽‍♂️;;
+	🙍🏾‍♂️;;
+	🙍🏿‍♂️;;
+🙍‍♀️;kvinde rynker panden;kvinde|kvinde rynker panden|rynke panden|rynkede bryn|rynket pande|utilfreds
+	🙍🏻‍♀️;;
+	🙍🏼‍♀️;;
+	🙍🏽‍♀️;;
+	🙍🏾‍♀️;;
+	🙍🏿‍♀️;;
+🙎;surmulende person;gestus|surmule|surmulende person
+	🙎🏻;;
+	🙎🏼;;
+	🙎🏽;;
+	🙎🏾;;
+	🙎🏿;;
+🙎‍♂️;mand surmuler;mand|mand surmuler|sur|surmule|utilfreds
+	🙎🏻‍♂️;;
+	🙎🏼‍♂️;;
+	🙎🏽‍♂️;;
+	🙎🏾‍♂️;;
+	🙎🏿‍♂️;;
+🙎‍♀️;kvinde surmuler;kvinde|kvinde surmuler|sur|surmule|utilfreds
+	🙎🏻‍♀️;;
+	🙎🏼‍♀️;;
+	🙎🏽‍♀️;;
+	🙎🏾‍♀️;;
+	🙎🏿‍♀️;;
+🙅;signalerer nej;forbudt|nej|signalerer nej
+	🙅🏻;;
+	🙅🏼;;
+	🙅🏽;;
+	🙅🏾;;
+	🙅🏿;;
+🙅‍♂️;mand signalerer nej;forbudt|gestus|ikke i orden|mand|mand signalerer nej|nej
+	🙅🏻‍♂️;;
+	🙅🏼‍♂️;;
+	🙅🏽‍♂️;;
+	🙅🏾‍♂️;;
+	🙅🏿‍♂️;;
+🙅‍♀️;kvinde signalerer nej;forbudt|gestus|ikke i orden|kvinde|kvinde signalerer nej|nej
+	🙅🏻‍♀️;;
+	🙅🏼‍♀️;;
+	🙅🏽‍♀️;;
+	🙅🏾‍♀️;;
+	🙅🏿‍♀️;;
+🙆;signalerer ok;allright|ansigt|signalerer ok
+	🙆🏻;;
+	🙆🏼;;
+	🙆🏽;;
+	🙆🏾;;
+	🙆🏿;;
+🙆‍♂️;mand signalerer ok;gestus|i orden|mand|mand signalerer ok|ok|tilladt
+	🙆🏻‍♂️;;
+	🙆🏼‍♂️;;
+	🙆🏽‍♂️;;
+	🙆🏾‍♂️;;
+	🙆🏿‍♂️;;
+🙆‍♀️;kvinde signalerer ok;gestus|i orden|kvinde|kvinde signalerer ok|ok|tilladt
+	🙆🏻‍♀️;;
+	🙆🏼‍♀️;;
+	🙆🏽‍♀️;;
+	🙆🏾‍♀️;;
+	🙆🏿‍♀️;;
+💁;information;hjælp|information
+	💁🏻;;
+	💁🏼;;
+	💁🏽;;
+	💁🏾;;
+	💁🏿;;
+💁‍♂️;mand vender håndfladen op;flabet|hjælp|information|mand|mand vender håndfladen op
+	💁🏻‍♂️;;
+	💁🏼‍♂️;;
+	💁🏽‍♂️;;
+	💁🏾‍♂️;;
+	💁🏿‍♂️;;
+💁‍♀️;kvinde vender håndfladen op;flabet|håndflade|hjælp|information|kvinde|kvinde vender håndfladen op
+	💁🏻‍♀️;;
+	💁🏼‍♀️;;
+	💁🏽‍♀️;;
+	💁🏾‍♀️;;
+	💁🏿‍♀️;;
+🙋;glad person;glad person|hej|løftet hånd
+	🙋🏻;;
+	🙋🏼;;
+	🙋🏽;;
+	🙋🏾;;
+	🙋🏿;;
+🙋‍♂️;mand med løftet hånd;gestus|hej|hilsen|løftet hånd|mand|mand med løftet hånd
+	🙋🏻‍♂️;;
+	🙋🏼‍♂️;;
+	🙋🏽‍♂️;;
+	🙋🏾‍♂️;;
+	🙋🏿‍♂️;;
+🙋‍♀️;kvinde med løftet hånd;gestus|hej|hilsen|kvinde|kvinde med løftet hånd|løftet hånd
+	🙋🏻‍♀️;;
+	🙋🏼‍♀️;;
+	🙋🏽‍♀️;;
+	🙋🏾‍♀️;;
+	🙋🏿‍♀️;;
+🧏;;
+	🧏🏻;;
+	🧏🏼;;
+	🧏🏽;;
+	🧏🏾;;
+	🧏🏿;;
+🧏‍♂️;;
+	🧏🏻‍♂️;;
+	🧏🏼‍♂️;;
+	🧏🏽‍♂️;;
+	🧏🏾‍♂️;;
+	🧏🏿‍♂️;;
+🧏‍♀️;;
+	🧏🏻‍♀️;;
+	🧏🏼‍♀️;;
+	🧏🏽‍♀️;;
+	🧏🏾‍♀️;;
+	🧏🏿‍♀️;;
+🙇;;
+	🙇🏻;;
+	🙇🏼;;
+	🙇🏽;;
+	🙇🏾;;
+	🙇🏿;;
+🙇‍♂️;mand bukker dybt;buk|mand|mand bukker dybt|undskyld|undskyldning
+	🙇🏻‍♂️;;
+	🙇🏼‍♂️;;
+	🙇🏽‍♂️;;
+	🙇🏾‍♂️;;
+	🙇🏿‍♂️;;
+🙇‍♀️;kvinde bukker dybt;buk|kvinde|kvinde bukker dybt|undskyld|undskyldning
+	🙇🏻‍♀️;;
+	🙇🏼‍♀️;;
+	🙇🏽‍♀️;;
+	🙇🏾‍♀️;;
+	🙇🏿‍♀️;;
+🤦;facepalm;ansigt|dumt|facepalm|hånd|håndflade|irritation|irriteret|skepsis
+	🤦🏻;;
+	🤦🏼;;
+	🤦🏽;;
+	🤦🏾;;
+	🤦🏿;;
+🤦‍♂️;mand slår sig for panden;facepalm|græmmes|håndflade|irritation|irriteret|mand|mand slår sig for panden|skepsis
+	🤦🏻‍♂️;;
+	🤦🏼‍♂️;;
+	🤦🏽‍♂️;;
+	🤦🏾‍♂️;;
+	🤦🏿‍♂️;;
+🤦‍♀️;kvinde slår sig for panden;facepalm|græmmes|håndflade|irritation|irriteret|kvinde|kvinde slår sig for panden|skepsis
+	🤦🏻‍♀️;;
+	🤦🏼‍♀️;;
+	🤦🏽‍♀️;;
+	🤦🏾‍♀️;;
+	🤦🏿‍♀️;;
+🤷;trækker på skuldrene;aner det ikke|ligeglad|ligegyldighed|ligegyldigt|pas|skulder|skuldre|træk|trækker på skuldrene|tvivl|uvidenhed|ved det ikke|ved ikke
+	🤷🏻;;
+	🤷🏼;;
+	🤷🏽;;
+	🤷🏾;;
+	🤷🏿;;
+🤷‍♂️;mand trækker på skuldrene;ingen anelse|ligeglad|ligegyldighed|mand|mand trækker på skuldrene|pas|skuldre|tvivl|uvidenhed
+	🤷🏻‍♂️;;
+	🤷🏼‍♂️;;
+	🤷🏽‍♂️;;
+	🤷🏾‍♂️;;
+	🤷🏿‍♂️;;
+🤷‍♀️;kvinde trækker på skuldrene;ingen anelse|kvinde|kvinde trækker på skuldrene|ligeglad|ligegyldighed|pas|skuldre|tvivl|uvidenhed
+	🤷🏻‍♀️;;
+	🤷🏼‍♀️;;
+	🤷🏽‍♀️;;
+	🤷🏾‍♀️;;
+	🤷🏿‍♀️;;
+🧑‍⚕️;;
+	🧑🏻‍⚕️;;
+	🧑🏼‍⚕️;;
+	🧑🏽‍⚕️;;
+	🧑🏾‍⚕️;;
+	🧑🏿‍⚕️;;
+👨‍⚕️;mandlig sundhedsperson;kittel|læge|mand|mandlig sundhedsperson|sygeplejerske
+	👨🏻‍⚕️;;
+	👨🏼‍⚕️;;
+	👨🏽‍⚕️;;
+	👨🏾‍⚕️;;
+	👨🏿‍⚕️;;
+👩‍⚕️;kvindelig sundhedsperson;kittel|kvinde|kvindelig sundhedsperson|læge|sygeplejerske
+	👩🏻‍⚕️;;
+	👩🏼‍⚕️;;
+	👩🏽‍⚕️;;
+	👩🏾‍⚕️;;
+	👩🏿‍⚕️;;
+🧑‍🎓;;
+	🧑🏻‍🎓;;
+	🧑🏼‍🎓;;
+	🧑🏽‍🎓;;
+	🧑🏾‍🎓;;
+	🧑🏿‍🎓;;
+👨‍🎓;studerende;dimittend|eksamenshat|mand|studerende
+	👨🏻‍🎓;;
+	👨🏼‍🎓;;
+	👨🏽‍🎓;;
+	👨🏾‍🎓;;
+	👨🏿‍🎓;;
+👩‍🎓;kvindelig studerende;dimittend|eksamenshat|kvinde|kvindelig studerende|studerende
+	👩🏻‍🎓;;
+	👩🏼‍🎓;;
+	👩🏽‍🎓;;
+	👩🏾‍🎓;;
+	👩🏿‍🎓;;
+🧑‍🏫;;
+	🧑🏻‍🏫;;
+	🧑🏼‍🏫;;
+	🧑🏽‍🏫;;
+	🧑🏾‍🏫;;
+	🧑🏿‍🏫;;
+👨‍🏫;lærer;lærer|mand|professor|underviser
+	👨🏻‍🏫;;
+	👨🏼‍🏫;;
+	👨🏽‍🏫;;
+	👨🏾‍🏫;;
+	👨🏿‍🏫;;
+👩‍🏫;kvindelig lærer;kvinde|kvindelig lærer|lærerinde|professor|underviser
+	👩🏻‍🏫;;
+	👩🏼‍🏫;;
+	👩🏽‍🏫;;
+	👩🏾‍🏫;;
+	👩🏿‍🏫;;
+🧑‍⚖️;;
+	🧑🏻‍⚖️;;
+	🧑🏼‍⚖️;;
+	🧑🏽‍⚖️;;
+	🧑🏾‍⚖️;;
+	🧑🏿‍⚖️;;
+👨‍⚖️;dommer;dommer|jura|lov|mand|retfærdighed
+	👨🏻‍⚖️;;
+	👨🏼‍⚖️;;
+	👨🏽‍⚖️;;
+	👨🏾‍⚖️;;
+	👨🏿‍⚖️;;
+👩‍⚖️;kvindelig dommer;jura|kvinde|kvindelig dommer|lov|retfærdighed
+	👩🏻‍⚖️;;
+	👩🏼‍⚖️;;
+	👩🏽‍⚖️;;
+	👩🏾‍⚖️;;
+	👩🏿‍⚖️;;
+🧑‍🌾;;
+	🧑🏻‍🌾;;
+	🧑🏼‍🌾;;
+	🧑🏽‍🌾;;
+	🧑🏾‍🌾;;
+	🧑🏿‍🌾;;
+👨‍🌾;landmand;bonde|bondemand|gartner|landmand|mand
+	👨🏻‍🌾;;
+	👨🏼‍🌾;;
+	👨🏽‍🌾;;
+	👨🏾‍🌾;;
+	👨🏿‍🌾;;
+👩‍🌾;kvindelig landmand;bonde|gartner|kvinde|kvindelig landmand|landmand
+	👩🏻‍🌾;;
+	👩🏼‍🌾;;
+	👩🏽‍🌾;;
+	👩🏾‍🌾;;
+	👩🏿‍🌾;;
+🧑‍🍳;;
+	🧑🏻‍🍳;;
+	🧑🏼‍🍳;;
+	🧑🏽‍🍳;;
+	🧑🏾‍🍳;;
+	🧑🏿‍🍳;;
+👨‍🍳;kok;kok|madlavning|mand|stegepande
+	👨🏻‍🍳;;
+	👨🏼‍🍳;;
+	👨🏽‍🍳;;
+	👨🏾‍🍳;;
+	👨🏿‍🍳;;
+👩‍🍳;kvindelig kok;kok|kvinde|kvindelig kok|madlavning|stegepande
+	👩🏻‍🍳;;
+	👩🏼‍🍳;;
+	👩🏽‍🍳;;
+	👩🏾‍🍳;;
+	👩🏿‍🍳;;
+🧑‍🔧;;
+	🧑🏻‍🔧;;
+	🧑🏼‍🔧;;
+	🧑🏽‍🔧;;
+	🧑🏾‍🔧;;
+	🧑🏿‍🔧;;
+👨‍🔧;mekaniker;håndværker|mand|mekaniker|skruenøgle|værktøj
+	👨🏻‍🔧;;
+	👨🏼‍🔧;;
+	👨🏽‍🔧;;
+	👨🏾‍🔧;;
+	👨🏿‍🔧;;
+👩‍🔧;kvindelig mekaniker;håndværker|kvinde|kvindelig mekaniker|mekaniker|skruenøgle|værktøj
+	👩🏻‍🔧;;
+	👩🏼‍🔧;;
+	👩🏽‍🔧;;
+	👩🏾‍🔧;;
+	👩🏿‍🔧;;
+🧑‍🏭;;
+	🧑🏻‍🏭;;
+	🧑🏼‍🏭;;
+	🧑🏽‍🏭;;
+	🧑🏾‍🏭;;
+	🧑🏿‍🏭;;
+👨‍🏭;fabriksarbejder;arbejder|fabrik|fabriksarbejder|industri|mand
+	👨🏻‍🏭;;
+	👨🏼‍🏭;;
+	👨🏽‍🏭;;
+	👨🏾‍🏭;;
+	👨🏿‍🏭;;
+👩‍🏭;kvindelig fabriksarbejder;arbejder|fabrik|industri|kvinde|kvindelig fabriksarbejder
+	👩🏻‍🏭;;
+	👩🏼‍🏭;;
+	👩🏽‍🏭;;
+	👩🏾‍🏭;;
+	👩🏿‍🏭;;
+🧑‍💼;;
+	🧑🏻‍💼;;
+	🧑🏼‍💼;;
+	🧑🏽‍💼;;
+	🧑🏾‍💼;;
+	🧑🏿‍💼;;
+👨‍💼;kontoransat;business|jakkesæt|kontor|kontoransat|kontormand|mappe
+	👨🏻‍💼;;
+	👨🏼‍💼;;
+	👨🏽‍💼;;
+	👨🏾‍💼;;
+	👨🏿‍💼;;
+👩‍💼;kvindelig kontoransat;business|kontor|kvinde|kvindelig kontoransat|mappe
+	👩🏻‍💼;;
+	👩🏼‍💼;;
+	👩🏽‍💼;;
+	👩🏾‍💼;;
+	👩🏿‍💼;;
+🧑‍🔬;;
+	🧑🏻‍🔬;;
+	🧑🏼‍🔬;;
+	🧑🏽‍🔬;;
+	🧑🏾‍🔬;;
+	🧑🏿‍🔬;;
+👨‍🔬;forsker;forsker|naturvidenskab|naturvidenskabsmand|videnskab|videnskabsmand
+	👨🏻‍🔬;;
+	👨🏼‍🔬;;
+	👨🏽‍🔬;;
+	👨🏾‍🔬;;
+	👨🏿‍🔬;;
+👩‍🔬;kvindelig forsker;kvinde|kvindelig forsker|naturvidenskab|videnskab|videnskabsmand
+	👩🏻‍🔬;;
+	👩🏼‍🔬;;
+	👩🏽‍🔬;;
+	👩🏾‍🔬;;
+	👩🏿‍🔬;;
+🧑‍💻;;
+	🧑🏻‍💻;;
+	🧑🏼‍💻;;
+	🧑🏽‍💻;;
+	🧑🏾‍💻;;
+	🧑🏿‍💻;;
+👨‍💻;IT-medarbejder;computer|it|IT-medarbejder|mand|pc|programmør|skærm|software|teknologi|udvikler
+	👨🏻‍💻;;
+	👨🏼‍💻;;
+	👨🏽‍💻;;
+	👨🏾‍💻;;
+	👨🏿‍💻;;
+👩‍💻;kvindelig IT-medarbejder;computer|it|kvinde|kvindelig IT-medarbejder|pc|programmør|skærm|software|udvikler
+	👩🏻‍💻;;
+	👩🏼‍💻;;
+	👩🏽‍💻;;
+	👩🏾‍💻;;
+	👩🏿‍💻;;
+🧑‍🎤;;
+	🧑🏻‍🎤;;
+	🧑🏼‍🎤;;
+	🧑🏽‍🎤;;
+	🧑🏾‍🎤;;
+	🧑🏿‍🎤;;
+👨‍🎤;sanger;entertainer|karaoke|mand|sang|sanger|skuespiller|stjerne|synge
+	👨🏻‍🎤;;
+	👨🏼‍🎤;;
+	👨🏽‍🎤;;
+	👨🏾‍🎤;;
+	👨🏿‍🎤;;
+👩‍🎤;sangerinde;entertainer|karaoke|kvinde|sang|sangerinde|skuespiller|stjerne|synge
+	👩🏻‍🎤;;
+	👩🏼‍🎤;;
+	👩🏽‍🎤;;
+	👩🏾‍🎤;;
+	👩🏿‍🎤;;
+🧑‍🎨;;
+	🧑🏻‍🎨;;
+	🧑🏼‍🎨;;
+	🧑🏽‍🎨;;
+	🧑🏾‍🎨;;
+	🧑🏿‍🎨;;
+👨‍🎨;kunstner;billedkunstner|kreativ|kunstmaler|kunstner|palet|pensler
+	👨🏻‍🎨;;
+	👨🏼‍🎨;;
+	👨🏽‍🎨;;
+	👨🏾‍🎨;;
+	👨🏿‍🎨;;
+👩‍🎨;kvindelig kunstner;billedkunstner|kunstmaler|kvinde|kvindelig kunstner|palet|pensler
+	👩🏻‍🎨;;
+	👩🏼‍🎨;;
+	👩🏽‍🎨;;
+	👩🏾‍🎨;;
+	👩🏿‍🎨;;
+🧑‍✈️;;
+	🧑🏻‍✈️;;
+	🧑🏼‍✈️;;
+	🧑🏽‍✈️;;
+	🧑🏾‍✈️;;
+	🧑🏿‍✈️;;
+👨‍✈️;pilot;fly|mand|pilot
+	👨🏻‍✈️;;
+	👨🏼‍✈️;;
+	👨🏽‍✈️;;
+	👨🏾‍✈️;;
+	👨🏿‍✈️;;
+👩‍✈️;kvindelig pilot;fly|kvinde|kvindelig pilot|pilot
+	👩🏻‍✈️;;
+	👩🏼‍✈️;;
+	👩🏽‍✈️;;
+	👩🏾‍✈️;;
+	👩🏿‍✈️;;
+🧑‍🚀;;
+	🧑🏻‍🚀;;
+	🧑🏼‍🚀;;
+	🧑🏽‍🚀;;
+	🧑🏾‍🚀;;
+	🧑🏿‍🚀;;
+👨‍🚀;astronaut;astronaut|mand|raket|rumdragt|rumfartøj|rummet|rumskib
+	👨🏻‍🚀;;
+	👨🏼‍🚀;;
+	👨🏽‍🚀;;
+	👨🏾‍🚀;;
+	👨🏿‍🚀;;
+👩‍🚀;kvindelig astronaut;kvinde|kvindelig astronaut|raket|rumdragt|rumfartøj|rummet|rumskib
+	👩🏻‍🚀;;
+	👩🏼‍🚀;;
+	👩🏽‍🚀;;
+	👩🏾‍🚀;;
+	👩🏿‍🚀;;
+🧑‍🚒;;
+	🧑🏻‍🚒;;
+	🧑🏼‍🚒;;
+	🧑🏽‍🚒;;
+	🧑🏾‍🚒;;
+	🧑🏿‍🚒;;
+👨‍🚒;brandmand;brand|brandbil|brandmand|hjelm|mand
+	👨🏻‍🚒;;
+	👨🏼‍🚒;;
+	👨🏽‍🚒;;
+	👨🏾‍🚒;;
+	👨🏿‍🚒;;
+👩‍🚒;kvindelig brandmand;brand|brandbil|hjelm|kvinde|kvindelig brandmand
+	👩🏻‍🚒;;
+	👩🏼‍🚒;;
+	👩🏽‍🚒;;
+	👩🏾‍🚒;;
+	👩🏿‍🚒;;
+👮;politibetjent;betjent|politi|politibetjent
+	👮🏻;;
+	👮🏼;;
+	👮🏽;;
+	👮🏾;;
+	👮🏿;;
+👮‍♂️;mandlig politibetjent;betjent|mand|mandlig politibetjent|politi|politimand
+	👮🏻‍♂️;;
+	👮🏼‍♂️;;
+	👮🏽‍♂️;;
+	👮🏾‍♂️;;
+	👮🏿‍♂️;;
+👮‍♀️;kvindelig politibetjent;betjent|kvinde|kvindelig politibetjent|politi
+	👮🏻‍♀️;;
+	👮🏼‍♀️;;
+	👮🏽‍♀️;;
+	👮🏾‍♀️;;
+	👮🏿‍♀️;;
+🕵️;detektiv;detektiv|spion
+	🕵🏻;;
+	🕵🏼;;
+	🕵🏽;;
+	🕵🏾;;
+	🕵🏿;;
+🕵️‍♂️;;
+	🕵🏻‍♂️;;
+	🕵🏼‍♂️;;
+	🕵🏽‍♂️;;
+	🕵🏾‍♂️;;
+	🕵🏿‍♂️;;
+🕵️‍♀️;;
+	🕵🏻‍♀️;;
+	🕵🏼‍♀️;;
+	🕵🏽‍♀️;;
+	🕵🏾‍♀️;;
+	🕵🏿‍♀️;;
+💂;garder;garder|garderofficer|gardist
+	💂🏻;;
+	💂🏼;;
+	💂🏽;;
+	💂🏾;;
+	💂🏿;;
+💂‍♂️;mandlig garder;bevogtning|livgarde|mand|mandlig garder|sikkerhed|vagt
+	💂🏻‍♂️;;
+	💂🏼‍♂️;;
+	💂🏽‍♂️;;
+	💂🏾‍♂️;;
+	💂🏿‍♂️;;
+💂‍♀️;kvindelig garder;bevogtning|kvinde|kvindelig garder|livgarde|sikkerhed|vagt
+	💂🏻‍♀️;;
+	💂🏼‍♀️;;
+	💂🏽‍♀️;;
+	💂🏾‍♀️;;
+	💂🏿‍♀️;;
+🥷;;
+	🥷🏻;;
+	🥷🏼;;
+	🥷🏽;;
+	🥷🏾;;
+	🥷🏿;;
+👷;byggearbejder;arbejder|byggearbejder|byggeri
+	👷🏻;;
+	👷🏼;;
+	👷🏽;;
+	👷🏾;;
+	👷🏿;;
+👷‍♂️;bygningsarbejder;arbejder|byggearbejder|byggeri|bygningsarbejder|hammer|mand
+	👷🏻‍♂️;;
+	👷🏼‍♂️;;
+	👷🏽‍♂️;;
+	👷🏾‍♂️;;
+	👷🏿‍♂️;;
+👷‍♀️;kvindelig bygningsarbejder;arbejder|byggearbejder|byggeri|hammer|kvinde|kvindelig bygningsarbejder
+	👷🏻‍♀️;;
+	👷🏼‍♀️;;
+	👷🏽‍♀️;;
+	👷🏾‍♀️;;
+	👷🏿‍♀️;;
+🫅;;
+	🫅🏻;;
+	🫅🏼;;
+	🫅🏽;;
+	🫅🏾;;
+	🫅🏿;;
+🤴;prins;kongelig|kongesøn|krone|prins|royal
+	🤴🏻;;
+	🤴🏼;;
+	🤴🏽;;
+	🤴🏾;;
+	🤴🏿;;
+👸;prinsesse;eventyr|menneske|prinsesse
+	👸🏻;;
+	👸🏼;;
+	👸🏽;;
+	👸🏾;;
+	👸🏿;;
+👳;;
+	👳🏻;;
+	👳🏼;;
+	👳🏽;;
+	👳🏾;;
+	👳🏿;;
+👳‍♂️;mand med turban;mand|mand med turban|turban
+	👳🏻‍♂️;;
+	👳🏼‍♂️;;
+	👳🏽‍♂️;;
+	👳🏾‍♂️;;
+	👳🏿‍♂️;;
+👳‍♀️;kvinde med turban;kvinde|kvinde med turban|turban
+	👳🏻‍♀️;;
+	👳🏼‍♀️;;
+	👳🏽‍♀️;;
+	👳🏾‍♀️;;
+	👳🏿‍♀️;;
+👲;mand med kinesisk hat;mand med kinesisk hat|menneske
+	👲🏻;;
+	👲🏼;;
+	👲🏽;;
+	👲🏾;;
+	👲🏿;;
+🧕;;
+	🧕🏻;;
+	🧕🏼;;
+	🧕🏽;;
+	🧕🏾;;
+	🧕🏿;;
+🤵;mand i smoking;brudgom|festdeltager|festtøj|gom|mand|mand i smoking|smoking
+	🤵🏻;;
+	🤵🏼;;
+	🤵🏽;;
+	🤵🏾;;
+	🤵🏿;;
+🤵‍♂️;;
+	🤵🏻‍♂️;;
+	🤵🏼‍♂️;;
+	🤵🏽‍♂️;;
+	🤵🏾‍♂️;;
+	🤵🏿‍♂️;;
+🤵‍♀️;;
+	🤵🏻‍♀️;;
+	🤵🏼‍♀️;;
+	🤵🏽‍♀️;;
+	🤵🏾‍♀️;;
+	🤵🏿‍♀️;;
+👰;brud;brud|brud med slør
+	👰🏻;;
+	👰🏼;;
+	👰🏽;;
+	👰🏾;;
+	👰🏿;;
+👰‍♂️;;
+	👰🏻‍♂️;;
+	👰🏼‍♂️;;
+	👰🏽‍♂️;;
+	👰🏾‍♂️;;
+	👰🏿‍♂️;;
+👰‍♀️;;
+	👰🏻‍♀️;;
+	👰🏼‍♀️;;
+	👰🏽‍♀️;;
+	👰🏾‍♀️;;
+	👰🏿‍♀️;;
+🤰;gravid kvinde;gravid|kvinde|mave|mor|vordende mor
+	🤰🏻;;
+	🤰🏼;;
+	🤰🏽;;
+	🤰🏾;;
+	🤰🏿;;
+🫃;;
+	🫃🏻;;
+	🫃🏼;;
+	🫃🏽;;
+	🫃🏾;;
+	🫃🏿;;
+🫄;;
+	🫄🏻;;
+	🫄🏼;;
+	🫄🏽;;
+	🫄🏾;;
+	🫄🏿;;
+🤱;;
+	🤱🏻;;
+	🤱🏼;;
+	🤱🏽;;
+	🤱🏾;;
+	🤱🏿;;
+👩‍🍼;;
+	👩🏻‍🍼;;
+	👩🏼‍🍼;;
+	👩🏽‍🍼;;
+	👩🏾‍🍼;;
+	👩🏿‍🍼;;
+👨‍🍼;;
+	👨🏻‍🍼;;
+	👨🏼‍🍼;;
+	👨🏽‍🍼;;
+	👨🏾‍🍼;;
+	👨🏿‍🍼;;
+🧑‍🍼;;
+	🧑🏻‍🍼;;
+	🧑🏼‍🍼;;
+	🧑🏽‍🍼;;
+	🧑🏾‍🍼;;
+	🧑🏿‍🍼;;
+👼;babyengel;babyengel|engel
+	👼🏻;;
+	👼🏼;;
+	👼🏽;;
+	👼🏾;;
+	👼🏿;;
+🎅;julemand;jul|julemand|nisse
+	🎅🏻;;
+	🎅🏼;;
+	🎅🏽;;
+	🎅🏾;;
+	🎅🏿;;
+🤶;juledame;dame|fru julemand|jul|juledame|julekvinde|julemandinde|kvinde
+	🤶🏻;;
+	🤶🏼;;
+	🤶🏽;;
+	🤶🏾;;
+	🤶🏿;;
+🧑‍🎄;;
+	🧑🏻‍🎄;;
+	🧑🏼‍🎄;;
+	🧑🏽‍🎄;;
+	🧑🏾‍🎄;;
+	🧑🏿‍🎄;;
+🦸;;
+	🦸🏻;;
+	🦸🏼;;
+	🦸🏽;;
+	🦸🏾;;
+	🦸🏿;;
+🦸‍♂️;;
+	🦸🏻‍♂️;;
+	🦸🏼‍♂️;;
+	🦸🏽‍♂️;;
+	🦸🏾‍♂️;;
+	🦸🏿‍♂️;;
+🦸‍♀️;;
+	🦸🏻‍♀️;;
+	🦸🏼‍♀️;;
+	🦸🏽‍♀️;;
+	🦸🏾‍♀️;;
+	🦸🏿‍♀️;;
+🦹;;
+	🦹🏻;;
+	🦹🏼;;
+	🦹🏽;;
+	🦹🏾;;
+	🦹🏿;;
+🦹‍♂️;;
+	🦹🏻‍♂️;;
+	🦹🏼‍♂️;;
+	🦹🏽‍♂️;;
+	🦹🏾‍♂️;;
+	🦹🏿‍♂️;;
+🦹‍♀️;;
+	🦹🏻‍♀️;;
+	🦹🏼‍♀️;;
+	🦹🏽‍♀️;;
+	🦹🏾‍♀️;;
+	🦹🏿‍♀️;;
+🧙;;
+	🧙🏻;;
+	🧙🏼;;
+	🧙🏽;;
+	🧙🏾;;
+	🧙🏿;;
+🧙‍♂️;;
+	🧙🏻‍♂️;;
+	🧙🏼‍♂️;;
+	🧙🏽‍♂️;;
+	🧙🏾‍♂️;;
+	🧙🏿‍♂️;;
+🧙‍♀️;;
+	🧙🏻‍♀️;;
+	🧙🏼‍♀️;;
+	🧙🏽‍♀️;;
+	🧙🏾‍♀️;;
+	🧙🏿‍♀️;;
+🧚;;
+	🧚🏻;;
+	🧚🏼;;
+	🧚🏽;;
+	🧚🏾;;
+	🧚🏿;;
+🧚‍♂️;;
+	🧚🏻‍♂️;;
+	🧚🏼‍♂️;;
+	🧚🏽‍♂️;;
+	🧚🏾‍♂️;;
+	🧚🏿‍♂️;;
+🧚‍♀️;;
+	🧚🏻‍♀️;;
+	🧚🏼‍♀️;;
+	🧚🏽‍♀️;;
+	🧚🏾‍♀️;;
+	🧚🏿‍♀️;;
+🧛;;
+	🧛🏻;;
+	🧛🏼;;
+	🧛🏽;;
+	🧛🏾;;
+	🧛🏿;;
+🧛‍♂️;;
+	🧛🏻‍♂️;;
+	🧛🏼‍♂️;;
+	🧛🏽‍♂️;;
+	🧛🏾‍♂️;;
+	🧛🏿‍♂️;;
+🧛‍♀️;;
+	🧛🏻‍♀️;;
+	🧛🏼‍♀️;;
+	🧛🏽‍♀️;;
+	🧛🏾‍♀️;;
+	🧛🏿‍♀️;;
+🧜;;
+	🧜🏻;;
+	🧜🏼;;
+	🧜🏽;;
+	🧜🏾;;
+	🧜🏿;;
+🧜‍♂️;;
+	🧜🏻‍♂️;;
+	🧜🏼‍♂️;;
+	🧜🏽‍♂️;;
+	🧜🏾‍♂️;;
+	🧜🏿‍♂️;;
+🧜‍♀️;;
+	🧜🏻‍♀️;;
+	🧜🏼‍♀️;;
+	🧜🏽‍♀️;;
+	🧜🏾‍♀️;;
+	🧜🏿‍♀️;;
+🧝;;
+	🧝🏻;;
+	🧝🏼;;
+	🧝🏽;;
+	🧝🏾;;
+	🧝🏿;;
+🧝‍♂️;;
+	🧝🏻‍♂️;;
+	🧝🏼‍♂️;;
+	🧝🏽‍♂️;;
+	🧝🏾‍♂️;;
+	🧝🏿‍♂️;;
+🧝‍♀️;;
+	🧝🏻‍♀️;;
+	🧝🏼‍♀️;;
+	🧝🏽‍♀️;;
+	🧝🏾‍♀️;;
+	🧝🏿‍♀️;;
+🧞;;
+🧞‍♂️;;
+🧞‍♀️;;
+🧟;;
+🧟‍♂️;;
+🧟‍♀️;;
+🧌;;
+💆;ansigtsmassage;ansigtsmassage|salon
+	💆🏻;;
+	💆🏼;;
+	💆🏽;;
+	💆🏾;;
+	💆🏿;;
+💆‍♂️;mand får ansigtsmassage;ansigt|mand|mand får ansigtsmassage|massage
+	💆🏻‍♂️;;
+	💆🏼‍♂️;;
+	💆🏽‍♂️;;
+	💆🏾‍♂️;;
+	💆🏿‍♂️;;
+💆‍♀️;kvinde får ansigtsmassage;ansigt|kvinde|kvinde får ansigtsmassage|massage
+	💆🏻‍♀️;;
+	💆🏼‍♀️;;
+	💆🏽‍♀️;;
+	💆🏾‍♀️;;
+	💆🏿‍♀️;;
+💇;frisør;frisør|hår|klipning
+	💇🏻;;
+	💇🏼;;
+	💇🏽;;
+	💇🏾;;
+	💇🏿;;
+💇‍♂️;mand bliver klippet;frisør|hår|klipning|klippe|mand|mand bliver klippet
+	💇🏻‍♂️;;
+	💇🏼‍♂️;;
+	💇🏽‍♂️;;
+	💇🏾‍♂️;;
+	💇🏿‍♂️;;
+💇‍♀️;kvinde bliver klippet;frisør|hår|klipning|klippe|kvinde|kvinde bliver klippet
+	💇🏻‍♀️;;
+	💇🏼‍♀️;;
+	💇🏽‍♀️;;
+	💇🏾‍♀️;;
+	💇🏿‍♀️;;
+🚶;fodgænger;fodgænger|gå|gang|hike|vandre|vandring
+	🚶🏻;;
+	🚶🏼;;
+	🚶🏽;;
+	🚶🏾;;
+	🚶🏿;;
+🚶‍♂️;mand går;fodgænger|gå|gang|gåtur|hike|mand|mand går|vandre|vandretur|vandring
+	🚶🏻‍♂️;;
+	🚶🏼‍♂️;;
+	🚶🏽‍♂️;;
+	🚶🏾‍♂️;;
+	🚶🏿‍♂️;;
+🚶‍♀️;kvinde går;fodgænger|gå|gang|gåtur|hike|kvinde|kvinde går|vandre|vandretur|vandring
+	🚶🏻‍♀️;;
+	🚶🏼‍♀️;;
+	🚶🏽‍♀️;;
+	🚶🏾‍♀️;;
+	🚶🏿‍♀️;;
+🚶‍➡️;;
+	🚶🏻‍➡️;;
+	🚶🏼‍➡️;;
+	🚶🏽‍➡️;;
+	🚶🏾‍➡️;;
+	🚶🏿‍➡️;;
+🚶‍♀️‍➡️;;
+	🚶🏻‍♀️‍➡️;;
+	🚶🏼‍♀️‍➡️;;
+	🚶🏽‍♀️‍➡️;;
+	🚶🏾‍♀️‍➡️;;
+	🚶🏿‍♀️‍➡️;;
+🚶‍♂️‍➡️;;
+	🚶🏻‍♂️‍➡️;;
+	🚶🏼‍♂️‍➡️;;
+	🚶🏽‍♂️‍➡️;;
+	🚶🏾‍♂️‍➡️;;
+	🚶🏿‍♂️‍➡️;;
+🧍;;
+	🧍🏻;;
+	🧍🏼;;
+	🧍🏽;;
+	🧍🏾;;
+	🧍🏿;;
+🧍‍♂️;;
+	🧍🏻‍♂️;;
+	🧍🏼‍♂️;;
+	🧍🏽‍♂️;;
+	🧍🏾‍♂️;;
+	🧍🏿‍♂️;;
+🧍‍♀️;;
+	🧍🏻‍♀️;;
+	🧍🏼‍♀️;;
+	🧍🏽‍♀️;;
+	🧍🏾‍♀️;;
+	🧍🏿‍♀️;;
+🧎;;
+	🧎🏻;;
+	🧎🏼;;
+	🧎🏽;;
+	🧎🏾;;
+	🧎🏿;;
+🧎‍♂️;;
+	🧎🏻‍♂️;;
+	🧎🏼‍♂️;;
+	🧎🏽‍♂️;;
+	🧎🏾‍♂️;;
+	🧎🏿‍♂️;;
+🧎‍♀️;;
+	🧎🏻‍♀️;;
+	🧎🏼‍♀️;;
+	🧎🏽‍♀️;;
+	🧎🏾‍♀️;;
+	🧎🏿‍♀️;;
+🧎‍➡️;;
+	🧎🏻‍➡️;;
+	🧎🏼‍➡️;;
+	🧎🏽‍➡️;;
+	🧎🏾‍➡️;;
+	🧎🏿‍➡️;;
+🧎‍♀️‍➡️;;
+	🧎🏻‍♀️‍➡️;;
+	🧎🏼‍♀️‍➡️;;
+	🧎🏽‍♀️‍➡️;;
+	🧎🏾‍♀️‍➡️;;
+	🧎🏿‍♀️‍➡️;;
+🧎‍♂️‍➡️;;
+	🧎🏻‍♂️‍➡️;;
+	🧎🏼‍♂️‍➡️;;
+	🧎🏽‍♂️‍➡️;;
+	🧎🏾‍♂️‍➡️;;
+	🧎🏿‍♂️‍➡️;;
+🧑‍🦯;;
+	🧑🏻‍🦯;;
+	🧑🏼‍🦯;;
+	🧑🏽‍🦯;;
+	🧑🏾‍🦯;;
+	🧑🏿‍🦯;;
+🧑‍🦯‍➡️;;
+	🧑🏻‍🦯‍➡️;;
+	🧑🏼‍🦯‍➡️;;
+	🧑🏽‍🦯‍➡️;;
+	🧑🏾‍🦯‍➡️;;
+	🧑🏿‍🦯‍➡️;;
+👨‍🦯;;
+	👨🏻‍🦯;;
+	👨🏼‍🦯;;
+	👨🏽‍🦯;;
+	👨🏾‍🦯;;
+	👨🏿‍🦯;;
+👨‍🦯‍➡️;;
+	👨🏻‍🦯‍➡️;;
+	👨🏼‍🦯‍➡️;;
+	👨🏽‍🦯‍➡️;;
+	👨🏾‍🦯‍➡️;;
+	👨🏿‍🦯‍➡️;;
+👩‍🦯;;
+	👩🏻‍🦯;;
+	👩🏼‍🦯;;
+	👩🏽‍🦯;;
+	👩🏾‍🦯;;
+	👩🏿‍🦯;;
+👩‍🦯‍➡️;;
+	👩🏻‍🦯‍➡️;;
+	👩🏼‍🦯‍➡️;;
+	👩🏽‍🦯‍➡️;;
+	👩🏾‍🦯‍➡️;;
+	👩🏿‍🦯‍➡️;;
+🧑‍🦼;;
+	🧑🏻‍🦼;;
+	🧑🏼‍🦼;;
+	🧑🏽‍🦼;;
+	🧑🏾‍🦼;;
+	🧑🏿‍🦼;;
+🧑‍🦼‍➡️;;
+	🧑🏻‍🦼‍➡️;;
+	🧑🏼‍🦼‍➡️;;
+	🧑🏽‍🦼‍➡️;;
+	🧑🏾‍🦼‍➡️;;
+	🧑🏿‍🦼‍➡️;;
+👨‍🦼;;
+	👨🏻‍🦼;;
+	👨🏼‍🦼;;
+	👨🏽‍🦼;;
+	👨🏾‍🦼;;
+	👨🏿‍🦼;;
+👨‍🦼‍➡️;;
+	👨🏻‍🦼‍➡️;;
+	👨🏼‍🦼‍➡️;;
+	👨🏽‍🦼‍➡️;;
+	👨🏾‍🦼‍➡️;;
+	👨🏿‍🦼‍➡️;;
+👩‍🦼;;
+	👩🏻‍🦼;;
+	👩🏼‍🦼;;
+	👩🏽‍🦼;;
+	👩🏾‍🦼;;
+	👩🏿‍🦼;;
+👩‍🦼‍➡️;;
+	👩🏻‍🦼‍➡️;;
+	👩🏼‍🦼‍➡️;;
+	👩🏽‍🦼‍➡️;;
+	👩🏾‍🦼‍➡️;;
+	👩🏿‍🦼‍➡️;;
+🧑‍🦽;;
+	🧑🏻‍🦽;;
+	🧑🏼‍🦽;;
+	🧑🏽‍🦽;;
+	🧑🏾‍🦽;;
+	🧑🏿‍🦽;;
+🧑‍🦽‍➡️;;
+	🧑🏻‍🦽‍➡️;;
+	🧑🏼‍🦽‍➡️;;
+	🧑🏽‍🦽‍➡️;;
+	🧑🏾‍🦽‍➡️;;
+	🧑🏿‍🦽‍➡️;;
+👨‍🦽;;
+	👨🏻‍🦽;;
+	👨🏼‍🦽;;
+	👨🏽‍🦽;;
+	👨🏾‍🦽;;
+	👨🏿‍🦽;;
+👨‍🦽‍➡️;;
+	👨🏻‍🦽‍➡️;;
+	👨🏼‍🦽‍➡️;;
+	👨🏽‍🦽‍➡️;;
+	👨🏾‍🦽‍➡️;;
+	👨🏿‍🦽‍➡️;;
+👩‍🦽;;
+	👩🏻‍🦽;;
+	👩🏼‍🦽;;
+	👩🏽‍🦽;;
+	👩🏾‍🦽;;
+	👩🏿‍🦽;;
+👩‍🦽‍➡️;;
+	👩🏻‍🦽‍➡️;;
+	👩🏼‍🦽‍➡️;;
+	👩🏽‍🦽‍➡️;;
+	👩🏾‍🦽‍➡️;;
+	👩🏿‍🦽‍➡️;;
+🏃;løber;løber|løbetræning|maraton|sport
+	🏃🏻;;
+	🏃🏼;;
+	🏃🏽;;
+	🏃🏾;;
+	🏃🏿;;
+🏃‍♂️;mand løber;løb|løbetræning|løbetur|mand|mand løber|maraton
+	🏃🏻‍♂️;;
+	🏃🏼‍♂️;;
+	🏃🏽‍♂️;;
+	🏃🏾‍♂️;;
+	🏃🏿‍♂️;;
+🏃‍♀️;kvinde løber;kvinde|kvinde løber|løb|løbetræning|løbetur|maraton
+	🏃🏻‍♀️;;
+	🏃🏼‍♀️;;
+	🏃🏽‍♀️;;
+	🏃🏾‍♀️;;
+	🏃🏿‍♀️;;
+🏃‍➡️;;
+	🏃🏻‍➡️;;
+	🏃🏼‍➡️;;
+	🏃🏽‍➡️;;
+	🏃🏾‍➡️;;
+	🏃🏿‍➡️;;
+🏃‍♀️‍➡️;;
+	🏃🏻‍♀️‍➡️;;
+	🏃🏼‍♀️‍➡️;;
+	🏃🏽‍♀️‍➡️;;
+	🏃🏾‍♀️‍➡️;;
+	🏃🏿‍♀️‍➡️;;
+🏃‍♂️‍➡️;;
+	🏃🏻‍♂️‍➡️;;
+	🏃🏼‍♂️‍➡️;;
+	🏃🏽‍♂️‍➡️;;
+	🏃🏾‍♂️‍➡️;;
+	🏃🏿‍♂️‍➡️;;
+💃;danser;dans|danser
+	💃🏻;;
+	💃🏼;;
+	💃🏽;;
+	💃🏾;;
+	💃🏿;;
+🕺;dansende mand;dans|dansende mand|danser|mand
+	🕺🏻;;
+	🕺🏼;;
+	🕺🏽;;
+	🕺🏾;;
+	🕺🏿;;
+🕴️;svævende forretningsmand;forretning|forretningsmand|jakkesæt|mand|svævende forretningsmand
+	🕴🏻;;
+	🕴🏼;;
+	🕴🏽;;
+	🕴🏾;;
+	🕴🏿;;
+👯;kvinder med kaninører;kvinder|kvinder med kaninører|ører
+👯‍♂️;mænd fester;dans|fest|kaninører|mænd|mænd fester
+👯‍♀️;kvinder fester;dans|fest|kaninører|kvinder|kvinder fester
+🧖;;
+	🧖🏻;;
+	🧖🏼;;
+	🧖🏽;;
+	🧖🏾;;
+	🧖🏿;;
+🧖‍♂️;;
+	🧖🏻‍♂️;;
+	🧖🏼‍♂️;;
+	🧖🏽‍♂️;;
+	🧖🏾‍♂️;;
+	🧖🏿‍♂️;;
+🧖‍♀️;;
+	🧖🏻‍♀️;;
+	🧖🏼‍♀️;;
+	🧖🏽‍♀️;;
+	🧖🏾‍♀️;;
+	🧖🏿‍♀️;;
+🧗;;
+	🧗🏻;;
+	🧗🏼;;
+	🧗🏽;;
+	🧗🏾;;
+	🧗🏿;;
+🧗‍♂️;;
+	🧗🏻‍♂️;;
+	🧗🏼‍♂️;;
+	🧗🏽‍♂️;;
+	🧗🏾‍♂️;;
+	🧗🏿‍♂️;;
+🧗‍♀️;;
+	🧗🏻‍♀️;;
+	🧗🏼‍♀️;;
+	🧗🏽‍♀️;;
+	🧗🏾‍♀️;;
+	🧗🏿‍♀️;;
+🤺;fægter;fægter|fægtning|person|sport|sværd
+🏇;hestevæddeløb;galop|hest|hestesport|hestevæddeløb|væddeløbshest
+	🏇🏻;;
+	🏇🏼;;
+	🏇🏽;;
+	🏇🏾;;
+	🏇🏿;;
+⛷️;skiløber;skiløber|sne
+🏂;snowboarder;snowboarder|sport
+	🏂🏻;;
+	🏂🏼;;
+	🏂🏽;;
+	🏂🏾;;
+	🏂🏿;;
+🏌️;golfspiller;bold|golfspiller
+	🏌🏻;;
+	🏌🏼;;
+	🏌🏽;;
+	🏌🏾;;
+	🏌🏿;;
+🏌️‍♂️;;
+	🏌🏻‍♂️;;
+	🏌🏼‍♂️;;
+	🏌🏽‍♂️;;
+	🏌🏾‍♂️;;
+	🏌🏿‍♂️;;
+🏌️‍♀️;;
+	🏌🏻‍♀️;;
+	🏌🏼‍♀️;;
+	🏌🏽‍♀️;;
+	🏌🏾‍♀️;;
+	🏌🏿‍♀️;;
+🏄;surfing;sport|surfing
+	🏄🏻;;
+	🏄🏼;;
+	🏄🏽;;
+	🏄🏾;;
+	🏄🏿;;
+🏄‍♂️;surfer;mand|surfer|surfing
+	🏄🏻‍♂️;;
+	🏄🏼‍♂️;;
+	🏄🏽‍♂️;;
+	🏄🏾‍♂️;;
+	🏄🏿‍♂️;;
+🏄‍♀️;kvindelig surfer;kvinde|kvindelig surfer|surfer|surfing
+	🏄🏻‍♀️;;
+	🏄🏼‍♀️;;
+	🏄🏽‍♀️;;
+	🏄🏾‍♀️;;
+	🏄🏿‍♀️;;
+🚣;robåd;båd|robåd
+	🚣🏻;;
+	🚣🏼;;
+	🚣🏽;;
+	🚣🏾;;
+	🚣🏿;;
+🚣‍♂️;mand i robåd;båd|mand|mand i robåd|roer|roning
+	🚣🏻‍♂️;;
+	🚣🏼‍♂️;;
+	🚣🏽‍♂️;;
+	🚣🏾‍♂️;;
+	🚣🏿‍♂️;;
+🚣‍♀️;kvinde i robåd;båd|kvinde|kvinde i robåd|roer|roning
+	🚣🏻‍♀️;;
+	🚣🏼‍♀️;;
+	🚣🏽‍♀️;;
+	🚣🏾‍♀️;;
+	🚣🏿‍♀️;;
+🏊;svømmer;sport|svømme|svømmer|svømning
+	🏊🏻;;
+	🏊🏼;;
+	🏊🏽;;
+	🏊🏾;;
+	🏊🏿;;
+🏊‍♂️;mandlig svømmer;mand|mandlig svømmer|svømning
+	🏊🏻‍♂️;;
+	🏊🏼‍♂️;;
+	🏊🏽‍♂️;;
+	🏊🏾‍♂️;;
+	🏊🏿‍♂️;;
+🏊‍♀️;kvindelig svømmer;kvinde|kvindelig svømmer|svømmepige|svømning
+	🏊🏻‍♀️;;
+	🏊🏼‍♀️;;
+	🏊🏽‍♀️;;
+	🏊🏾‍♀️;;
+	🏊🏿‍♀️;;
+⛹️;person med bold;bold|person med bold
+	⛹🏻;;
+	⛹🏼;;
+	⛹🏽;;
+	⛹🏾;;
+	⛹🏿;;
+⛹️‍♂️;;
+	⛹🏻‍♂️;;
+	⛹🏼‍♂️;;
+	⛹🏽‍♂️;;
+	⛹🏾‍♂️;;
+	⛹🏿‍♂️;;
+⛹️‍♀️;;
+	⛹🏻‍♀️;;
+	⛹🏼‍♀️;;
+	⛹🏽‍♀️;;
+	⛹🏾‍♀️;;
+	⛹🏿‍♀️;;
+🏋️;vægtløfter;løfter|vægt|vægtløfter
+	🏋🏻;;
+	🏋🏼;;
+	🏋🏽;;
+	🏋🏾;;
+	🏋🏿;;
+🏋️‍♂️;;
+	🏋🏻‍♂️;;
+	🏋🏼‍♂️;;
+	🏋🏽‍♂️;;
+	🏋🏾‍♂️;;
+	🏋🏿‍♂️;;
+🏋️‍♀️;;
+	🏋🏻‍♀️;;
+	🏋🏼‍♀️;;
+	🏋🏽‍♀️;;
+	🏋🏾‍♀️;;
+	🏋🏿‍♀️;;
+🚴;cyklist;cykel|cyklist
+	🚴🏻;;
+	🚴🏼;;
+	🚴🏽;;
+	🚴🏾;;
+	🚴🏿;;
+🚴‍♂️;mandlig cyklist;cykel|cykelrytter|cykle|mand|mandlig cyklist
+	🚴🏻‍♂️;;
+	🚴🏼‍♂️;;
+	🚴🏽‍♂️;;
+	🚴🏾‍♂️;;
+	🚴🏿‍♂️;;
+🚴‍♀️;kvindelig cyklist;cykel|cykelrytter|cykle|cyklist|kvinde|kvindelig cyklist
+	🚴🏻‍♀️;;
+	🚴🏼‍♀️;;
+	🚴🏽‍♀️;;
+	🚴🏾‍♀️;;
+	🚴🏿‍♀️;;
+🚵;mountainbikerytter;bjerg|cykel|cyklist|mountainbike|mountainbikerytter
+	🚵🏻;;
+	🚵🏼;;
+	🚵🏽;;
+	🚵🏾;;
+	🚵🏿;;
+🚵‍♂️;mand på mountainbike;cykelrytter|mand|mand på mountainbike|mountainbike
+	🚵🏻‍♂️;;
+	🚵🏼‍♂️;;
+	🚵🏽‍♂️;;
+	🚵🏾‍♂️;;
+	🚵🏿‍♂️;;
+🚵‍♀️;kvinde på mountainbike;cykelrytter|kvinde|kvinde på mountainbike|mountainbike
+	🚵🏻‍♀️;;
+	🚵🏼‍♀️;;
+	🚵🏽‍♀️;;
+	🚵🏾‍♀️;;
+	🚵🏿‍♀️;;
+🤸;vejrmølle;gymnastik|menneske|person|sport|vejrmølle
+	🤸🏻;;
+	🤸🏼;;
+	🤸🏽;;
+	🤸🏾;;
+	🤸🏿;;
+🤸‍♂️;mand slår vejrmøller;gymnastik|mand|mand slår vejrmøller|vejrmølle
+	🤸🏻‍♂️;;
+	🤸🏼‍♂️;;
+	🤸🏽‍♂️;;
+	🤸🏾‍♂️;;
+	🤸🏿‍♂️;;
+🤸‍♀️;kvinde slår vejrmøller;gymnastik|kvinde|kvinde slår vejrmøller|vejrmølle
+	🤸🏻‍♀️;;
+	🤸🏼‍♀️;;
+	🤸🏽‍♀️;;
+	🤸🏾‍♀️;;
+	🤸🏿‍♀️;;
+🤼;brydere;bryder|brydere|brydning|personer|sport
+🤼‍♂️;mandlige brydere;brydere|brydning|mænd|mandlige brydere|wrestling
+🤼‍♀️;kvindelige brydere;brydere|brydning|kvindelige brydere|kvinder|wrestling
+🤽;vandpolo;sport|vand|vandpolo|vandsport
+	🤽🏻;;
+	🤽🏼;;
+	🤽🏽;;
+	🤽🏾;;
+	🤽🏿;;
+🤽‍♂️;vandpolospiller;mand|vandpolo|vandpolospiller
+	🤽🏻‍♂️;;
+	🤽🏼‍♂️;;
+	🤽🏽‍♂️;;
+	🤽🏾‍♂️;;
+	🤽🏿‍♂️;;
+🤽‍♀️;kvindelig vandpolospiller;kvinde|kvindelig vandpolospiller|vandpolo
+	🤽🏻‍♀️;;
+	🤽🏼‍♀️;;
+	🤽🏽‍♀️;;
+	🤽🏾‍♀️;;
+	🤽🏿‍♀️;;
+🤾;håndbold;bold|håndbold|person|sport
+	🤾🏻;;
+	🤾🏼;;
+	🤾🏽;;
+	🤾🏾;;
+	🤾🏿;;
+🤾‍♂️;håndboldspiller;håndbold|håndboldspiller|mand
+	🤾🏻‍♂️;;
+	🤾🏼‍♂️;;
+	🤾🏽‍♂️;;
+	🤾🏾‍♂️;;
+	🤾🏿‍♂️;;
+🤾‍♀️;kvindelig håndboldspiller;håndbold|håndboldspiller|kvinde|kvindelig håndboldspiller
+	🤾🏻‍♀️;;
+	🤾🏼‍♀️;;
+	🤾🏽‍♀️;;
+	🤾🏾‍♀️;;
+	🤾🏿‍♀️;;
+🤹;jonglerer;balance|behændighed|dygtighed|jonglere|jonglerer|jonglør|multitaske|multitasking
+	🤹🏻;;
+	🤹🏼;;
+	🤹🏽;;
+	🤹🏾;;
+	🤹🏿;;
+🤹‍♂️;jonglør;bolde|jonglere|jonglør|mand|multitakse|multitasking
+	🤹🏻‍♂️;;
+	🤹🏼‍♂️;;
+	🤹🏽‍♂️;;
+	🤹🏾‍♂️;;
+	🤹🏿‍♂️;;
+🤹‍♀️;kvindelig jonglør;bolde|jonglere|kvinde|kvindelig jonglør|multitaske|multitasking
+	🤹🏻‍♀️;;
+	🤹🏼‍♀️;;
+	🤹🏽‍♀️;;
+	🤹🏾‍♀️;;
+	🤹🏿‍♀️;;
+🧘;;
+	🧘🏻;;
+	🧘🏼;;
+	🧘🏽;;
+	🧘🏾;;
+	🧘🏿;;
+🧘‍♂️;;
+	🧘🏻‍♂️;;
+	🧘🏼‍♂️;;
+	🧘🏽‍♂️;;
+	🧘🏾‍♂️;;
+	🧘🏿‍♂️;;
+🧘‍♀️;;
+	🧘🏻‍♀️;;
+	🧘🏼‍♀️;;
+	🧘🏽‍♀️;;
+	🧘🏾‍♀️;;
+	🧘🏿‍♀️;;
+🛀;bad;bad|badekar
+	🛀🏻;;
+	🛀🏼;;
+	🛀🏽;;
+	🛀🏾;;
+	🛀🏿;;
+🛌;person i seng;person i seng|sove
+	🛌🏻;;
+	🛌🏼;;
+	🛌🏽;;
+	🛌🏾;;
+	🛌🏿;;
+🧑‍🤝‍🧑;;
+	🧑🏻‍🤝‍🧑🏻;;
+	🧑🏻‍🤝‍🧑🏼;;
+	🧑🏻‍🤝‍🧑🏽;;
+	🧑🏻‍🤝‍🧑🏾;;
+	🧑🏻‍🤝‍🧑🏿;;
+	🧑🏼‍🤝‍🧑🏻;;
+	🧑🏼‍🤝‍🧑🏼;;
+	🧑🏼‍🤝‍🧑🏽;;
+	🧑🏼‍🤝‍🧑🏾;;
+	🧑🏼‍🤝‍🧑🏿;;
+	🧑🏽‍🤝‍🧑🏻;;
+	🧑🏽‍🤝‍🧑🏼;;
+	🧑🏽‍🤝‍🧑🏽;;
+	🧑🏽‍🤝‍🧑🏾;;
+	🧑🏽‍🤝‍🧑🏿;;
+	🧑🏾‍🤝‍🧑🏻;;
+	🧑🏾‍🤝‍🧑🏼;;
+	🧑🏾‍🤝‍🧑🏽;;
+	🧑🏾‍🤝‍🧑🏾;;
+	🧑🏾‍🤝‍🧑🏿;;
+	🧑🏿‍🤝‍🧑🏻;;
+	🧑🏿‍🤝‍🧑🏼;;
+	🧑🏿‍🤝‍🧑🏽;;
+	🧑🏿‍🤝‍🧑🏾;;
+	🧑🏿‍🤝‍🧑🏿;;
+👭;to kvinder;par|to kvinder
+	👭🏻;;
+	👩🏻‍🤝‍👩🏼;;
+	👩🏻‍🤝‍👩🏽;;
+	👩🏻‍🤝‍👩🏾;;
+	👩🏻‍🤝‍👩🏿;;
+	👩🏼‍🤝‍👩🏻;;
+	👭🏼;;
+	👩🏼‍🤝‍👩🏽;;
+	👩🏼‍🤝‍👩🏾;;
+	👩🏼‍🤝‍👩🏿;;
+	👩🏽‍🤝‍👩🏻;;
+	👩🏽‍🤝‍👩🏼;;
+	👭🏽;;
+	👩🏽‍🤝‍👩🏾;;
+	👩🏽‍🤝‍👩🏿;;
+	👩🏾‍🤝‍👩🏻;;
+	👩🏾‍🤝‍👩🏼;;
+	👩🏾‍🤝‍👩🏽;;
+	👭🏾;;
+	👩🏾‍🤝‍👩🏿;;
+	👩🏿‍🤝‍👩🏻;;
+	👩🏿‍🤝‍👩🏼;;
+	👩🏿‍🤝‍👩🏽;;
+	👩🏿‍🤝‍👩🏾;;
+	👭🏿;;
+👫;man og kvinde;man og kvinde|par
+	👫🏻;;
+	👩🏻‍🤝‍👨🏼;;
+	👩🏻‍🤝‍👨🏽;;
+	👩🏻‍🤝‍👨🏾;;
+	👩🏻‍🤝‍👨🏿;;
+	👩🏼‍🤝‍👨🏻;;
+	👫🏼;;
+	👩🏼‍🤝‍👨🏽;;
+	👩🏼‍🤝‍👨🏾;;
+	👩🏼‍🤝‍👨🏿;;
+	👩🏽‍🤝‍👨🏻;;
+	👩🏽‍🤝‍👨🏼;;
+	👫🏽;;
+	👩🏽‍🤝‍👨🏾;;
+	👩🏽‍🤝‍👨🏿;;
+	👩🏾‍🤝‍👨🏻;;
+	👩🏾‍🤝‍👨🏼;;
+	👩🏾‍🤝‍👨🏽;;
+	👫🏾;;
+	👩🏾‍🤝‍👨🏿;;
+	👩🏿‍🤝‍👨🏻;;
+	👩🏿‍🤝‍👨🏼;;
+	👩🏿‍🤝‍👨🏽;;
+	👩🏿‍🤝‍👨🏾;;
+	👫🏿;;
+👬;to mænd;par|to mænd
+	👬🏻;;
+	👨🏻‍🤝‍👨🏼;;
+	👨🏻‍🤝‍👨🏽;;
+	👨🏻‍🤝‍👨🏾;;
+	👨🏻‍🤝‍👨🏿;;
+	👨🏼‍🤝‍👨🏻;;
+	👬🏼;;
+	👨🏼‍🤝‍👨🏽;;
+	👨🏼‍🤝‍👨🏾;;
+	👨🏼‍🤝‍👨🏿;;
+	👨🏽‍🤝‍👨🏻;;
+	👨🏽‍🤝‍👨🏼;;
+	👬🏽;;
+	👨🏽‍🤝‍👨🏾;;
+	👨🏽‍🤝‍👨🏿;;
+	👨🏾‍🤝‍👨🏻;;
+	👨🏾‍🤝‍👨🏼;;
+	👨🏾‍🤝‍👨🏽;;
+	👬🏾;;
+	👨🏾‍🤝‍👨🏿;;
+	👨🏿‍🤝‍👨🏻;;
+	👨🏿‍🤝‍👨🏼;;
+	👨🏿‍🤝‍👨🏽;;
+	👨🏿‍🤝‍👨🏾;;
+	👬🏿;;
+💏;kys;kærlighed|kys|par med hjerte|romantik
+	💏🏻;;
+	💏🏼;;
+	💏🏽;;
+	💏🏾;;
+	💏🏿;;
+	🧑🏻‍❤️‍💋‍🧑🏼;;
+	🧑🏻‍❤️‍💋‍🧑🏽;;
+	🧑🏻‍❤️‍💋‍🧑🏾;;
+	🧑🏻‍❤️‍💋‍🧑🏿;;
+	🧑🏼‍❤️‍💋‍🧑🏻;;
+	🧑🏼‍❤️‍💋‍🧑🏽;;
+	🧑🏼‍❤️‍💋‍🧑🏾;;
+	🧑🏼‍❤️‍💋‍🧑🏿;;
+	🧑🏽‍❤️‍💋‍🧑🏻;;
+	🧑🏽‍❤️‍💋‍🧑🏼;;
+	🧑🏽‍❤️‍💋‍🧑🏾;;
+	🧑🏽‍❤️‍💋‍🧑🏿;;
+	🧑🏾‍❤️‍💋‍🧑🏻;;
+	🧑🏾‍❤️‍💋‍🧑🏼;;
+	🧑🏾‍❤️‍💋‍🧑🏽;;
+	🧑🏾‍❤️‍💋‍🧑🏿;;
+	🧑🏿‍❤️‍💋‍🧑🏻;;
+	🧑🏿‍❤️‍💋‍🧑🏼;;
+	🧑🏿‍❤️‍💋‍🧑🏽;;
+	🧑🏿‍❤️‍💋‍🧑🏾;;
+👩‍❤️‍💋‍👨;kys: kvinde, mand;kærlighed|kvinde|kys|kys: kvinde, mand|mand|par med hjerte|romantik
+	👩🏻‍❤️‍💋‍👨🏻;;
+	👩🏻‍❤️‍💋‍👨🏼;;
+	👩🏻‍❤️‍💋‍👨🏽;;
+	👩🏻‍❤️‍💋‍👨🏾;;
+	👩🏻‍❤️‍💋‍👨🏿;;
+	👩🏼‍❤️‍💋‍👨🏻;;
+	👩🏼‍❤️‍💋‍👨🏼;;
+	👩🏼‍❤️‍💋‍👨🏽;;
+	👩🏼‍❤️‍💋‍👨🏾;;
+	👩🏼‍❤️‍💋‍👨🏿;;
+	👩🏽‍❤️‍💋‍👨🏻;;
+	👩🏽‍❤️‍💋‍👨🏼;;
+	👩🏽‍❤️‍💋‍👨🏽;;
+	👩🏽‍❤️‍💋‍👨🏾;;
+	👩🏽‍❤️‍💋‍👨🏿;;
+	👩🏾‍❤️‍💋‍👨🏻;;
+	👩🏾‍❤️‍💋‍👨🏼;;
+	👩🏾‍❤️‍💋‍👨🏽;;
+	👩🏾‍❤️‍💋‍👨🏾;;
+	👩🏾‍❤️‍💋‍👨🏿;;
+	👩🏿‍❤️‍💋‍👨🏻;;
+	👩🏿‍❤️‍💋‍👨🏼;;
+	👩🏿‍❤️‍💋‍👨🏽;;
+	👩🏿‍❤️‍💋‍👨🏾;;
+	👩🏿‍❤️‍💋‍👨🏿;;
+👨‍❤️‍💋‍👨;kys: mand, mand;kærlighed|kys|kys: mand, mand|mand|par med hjerte|romantik
+	👨🏻‍❤️‍💋‍👨🏻;;
+	👨🏻‍❤️‍💋‍👨🏼;;
+	👨🏻‍❤️‍💋‍👨🏽;;
+	👨🏻‍❤️‍💋‍👨🏾;;
+	👨🏻‍❤️‍💋‍👨🏿;;
+	👨🏼‍❤️‍💋‍👨🏻;;
+	👨🏼‍❤️‍💋‍👨🏼;;
+	👨🏼‍❤️‍💋‍👨🏽;;
+	👨🏼‍❤️‍💋‍👨🏾;;
+	👨🏼‍❤️‍💋‍👨🏿;;
+	👨🏽‍❤️‍💋‍👨🏻;;
+	👨🏽‍❤️‍💋‍👨🏼;;
+	👨🏽‍❤️‍💋‍👨🏽;;
+	👨🏽‍❤️‍💋‍👨🏾;;
+	👨🏽‍❤️‍💋‍👨🏿;;
+	👨🏾‍❤️‍💋‍👨🏻;;
+	👨🏾‍❤️‍💋‍👨🏼;;
+	👨🏾‍❤️‍💋‍👨🏽;;
+	👨🏾‍❤️‍💋‍👨🏾;;
+	👨🏾‍❤️‍💋‍👨🏿;;
+	👨🏿‍❤️‍💋‍👨🏻;;
+	👨🏿‍❤️‍💋‍👨🏼;;
+	👨🏿‍❤️‍💋‍👨🏽;;
+	👨🏿‍❤️‍💋‍👨🏾;;
+	👨🏿‍❤️‍💋‍👨🏿;;
+👩‍❤️‍💋‍👩;kys: kvinde, kvinde;kærlighed|kvinde|kys|kys: kvinde, kvinde|par med hjerte|romantik
+	👩🏻‍❤️‍💋‍👩🏻;;
+	👩🏻‍❤️‍💋‍👩🏼;;
+	👩🏻‍❤️‍💋‍👩🏽;;
+	👩🏻‍❤️‍💋‍👩🏾;;
+	👩🏻‍❤️‍💋‍👩🏿;;
+	👩🏼‍❤️‍💋‍👩🏻;;
+	👩🏼‍❤️‍💋‍👩🏼;;
+	👩🏼‍❤️‍💋‍👩🏽;;
+	👩🏼‍❤️‍💋‍👩🏾;;
+	👩🏼‍❤️‍💋‍👩🏿;;
+	👩🏽‍❤️‍💋‍👩🏻;;
+	👩🏽‍❤️‍💋‍👩🏼;;
+	👩🏽‍❤️‍💋‍👩🏽;;
+	👩🏽‍❤️‍💋‍👩🏾;;
+	👩🏽‍❤️‍💋‍👩🏿;;
+	👩🏾‍❤️‍💋‍👩🏻;;
+	👩🏾‍❤️‍💋‍👩🏼;;
+	👩🏾‍❤️‍💋‍👩🏽;;
+	👩🏾‍❤️‍💋‍👩🏾;;
+	👩🏾‍❤️‍💋‍👩🏿;;
+	👩🏿‍❤️‍💋‍👩🏻;;
+	👩🏿‍❤️‍💋‍👩🏼;;
+	👩🏿‍❤️‍💋‍👩🏽;;
+	👩🏿‍❤️‍💋‍👩🏾;;
+	👩🏿‍❤️‍💋‍👩🏿;;
+💑;par med hjerte;kærlighed|par med hjerte|romantik
+	💑🏻;;
+	💑🏼;;
+	💑🏽;;
+	💑🏾;;
+	💑🏿;;
+	🧑🏻‍❤️‍🧑🏼;;
+	🧑🏻‍❤️‍🧑🏽;;
+	🧑🏻‍❤️‍🧑🏾;;
+	🧑🏻‍❤️‍🧑🏿;;
+	🧑🏼‍❤️‍🧑🏻;;
+	🧑🏼‍❤️‍🧑🏽;;
+	🧑🏼‍❤️‍🧑🏾;;
+	🧑🏼‍❤️‍🧑🏿;;
+	🧑🏽‍❤️‍🧑🏻;;
+	🧑🏽‍❤️‍🧑🏼;;
+	🧑🏽‍❤️‍🧑🏾;;
+	🧑🏽‍❤️‍🧑🏿;;
+	🧑🏾‍❤️‍🧑🏻;;
+	🧑🏾‍❤️‍🧑🏼;;
+	🧑🏾‍❤️‍🧑🏽;;
+	🧑🏾‍❤️‍🧑🏿;;
+	🧑🏿‍❤️‍🧑🏻;;
+	🧑🏿‍❤️‍🧑🏼;;
+	🧑🏿‍❤️‍🧑🏽;;
+	🧑🏿‍❤️‍🧑🏾;;
+👩‍❤️‍👨;par med hjerte: kvinde, mand;kærlighed|kvinde|mand|par med hjerte|par med hjerte: kvinde, mand|romantik
+	👩🏻‍❤️‍👨🏻;;
+	👩🏻‍❤️‍👨🏼;;
+	👩🏻‍❤️‍👨🏽;;
+	👩🏻‍❤️‍👨🏾;;
+	👩🏻‍❤️‍👨🏿;;
+	👩🏼‍❤️‍👨🏻;;
+	👩🏼‍❤️‍👨🏼;;
+	👩🏼‍❤️‍👨🏽;;
+	👩🏼‍❤️‍👨🏾;;
+	👩🏼‍❤️‍👨🏿;;
+	👩🏽‍❤️‍👨🏻;;
+	👩🏽‍❤️‍👨🏼;;
+	👩🏽‍❤️‍👨🏽;;
+	👩🏽‍❤️‍👨🏾;;
+	👩🏽‍❤️‍👨🏿;;
+	👩🏾‍❤️‍👨🏻;;
+	👩🏾‍❤️‍👨🏼;;
+	👩🏾‍❤️‍👨🏽;;
+	👩🏾‍❤️‍👨🏾;;
+	👩🏾‍❤️‍👨🏿;;
+	👩🏿‍❤️‍👨🏻;;
+	👩🏿‍❤️‍👨🏼;;
+	👩🏿‍❤️‍👨🏽;;
+	👩🏿‍❤️‍👨🏾;;
+	👩🏿‍❤️‍👨🏿;;
+👨‍❤️‍👨;par med hjerte: mand, mand;kærlighed|mand|par med hjerte|par med hjerte: mand, mand|romantik
+	👨🏻‍❤️‍👨🏻;;
+	👨🏻‍❤️‍👨🏼;;
+	👨🏻‍❤️‍👨🏽;;
+	👨🏻‍❤️‍👨🏾;;
+	👨🏻‍❤️‍👨🏿;;
+	👨🏼‍❤️‍👨🏻;;
+	👨🏼‍❤️‍👨🏼;;
+	👨🏼‍❤️‍👨🏽;;
+	👨🏼‍❤️‍👨🏾;;
+	👨🏼‍❤️‍👨🏿;;
+	👨🏽‍❤️‍👨🏻;;
+	👨🏽‍❤️‍👨🏼;;
+	👨🏽‍❤️‍👨🏽;;
+	👨🏽‍❤️‍👨🏾;;
+	👨🏽‍❤️‍👨🏿;;
+	👨🏾‍❤️‍👨🏻;;
+	👨🏾‍❤️‍👨🏼;;
+	👨🏾‍❤️‍👨🏽;;
+	👨🏾‍❤️‍👨🏾;;
+	👨🏾‍❤️‍👨🏿;;
+	👨🏿‍❤️‍👨🏻;;
+	👨🏿‍❤️‍👨🏼;;
+	👨🏿‍❤️‍👨🏽;;
+	👨🏿‍❤️‍👨🏾;;
+	👨🏿‍❤️‍👨🏿;;
+👩‍❤️‍👩;par med hjerte: kvinde, kvinde;kærlighed|kvinde|par med hjerte|par med hjerte: kvinde, kvinde|romantik
+	👩🏻‍❤️‍👩🏻;;
+	👩🏻‍❤️‍👩🏼;;
+	👩🏻‍❤️‍👩🏽;;
+	👩🏻‍❤️‍👩🏾;;
+	👩🏻‍❤️‍👩🏿;;
+	👩🏼‍❤️‍👩🏻;;
+	👩🏼‍❤️‍👩🏼;;
+	👩🏼‍❤️‍👩🏽;;
+	👩🏼‍❤️‍👩🏾;;
+	👩🏼‍❤️‍👩🏿;;
+	👩🏽‍❤️‍👩🏻;;
+	👩🏽‍❤️‍👩🏼;;
+	👩🏽‍❤️‍👩🏽;;
+	👩🏽‍❤️‍👩🏾;;
+	👩🏽‍❤️‍👩🏿;;
+	👩🏾‍❤️‍👩🏻;;
+	👩🏾‍❤️‍👩🏼;;
+	👩🏾‍❤️‍👩🏽;;
+	👩🏾‍❤️‍👩🏾;;
+	👩🏾‍❤️‍👩🏿;;
+	👩🏿‍❤️‍👩🏻;;
+	👩🏿‍❤️‍👩🏼;;
+	👩🏿‍❤️‍👩🏽;;
+	👩🏿‍❤️‍👩🏾;;
+	👩🏿‍❤️‍👩🏿;;
+👨‍👩‍👦;familie: mand, kvinde, dreng;barn|dreng|familie|familie: mand, kvinde, dreng|far|kvinde|mand|menneske|mor
+👨‍👩‍👧;familie: mand, kvinde, pige;barn|familie|familie: mand, kvinde, pige|far|kvinde|mand|menneske|mor|pige
+👨‍👩‍👧‍👦;familie: mand, kvinde, pige, dreng;barn|dreng|familie|familie: mand, kvinde, pige, dreng|far|kvinde|mand|menneske|mor|pige
+👨‍👩‍👦‍👦;familie: mand, kvinde, dreng, dreng;barn|dreng|familie|familie: mand, kvinde, dreng, dreng|far|kvinde|mand|menneske|mor
+👨‍👩‍👧‍👧;familie: mand, kvinde, pige, pige;barn|familie|familie: mand, kvinde, pige, pige|far|kvinde|mand|menneske|mor|pige
+👨‍👨‍👦;familie: mand, mand, dreng;barn|dreng|familie|familie: mand, mand, dreng|far|mand|menneske|mor
+👨‍👨‍👧;familie: mand, mand, pige;barn|familie|familie: mand, mand, pige|far|mand|menneske|mor|pige
+👨‍👨‍👧‍👦;familie: mand, mand, pige, dreng;barn|dreng|familie|familie: mand, mand, pige, dreng|far|mand|menneske|mor|pige
+👨‍👨‍👦‍👦;familie: mand, mand, dreng, dreng;barn|dreng|familie|familie: mand, mand, dreng, dreng|far|mand|menneske|mor
+👨‍👨‍👧‍👧;familie: mand, mand, pige, pige;barn|familie|familie: mand, mand, pige, pige|far|mand|menneske|mor|pige
+👩‍👩‍👦;familie: kvinde, kvinde, dreng;barn|dreng|familie|familie: kvinde, kvinde, dreng|far|kvinde|menneske|mor
+👩‍👩‍👧;familie: kvinde, kvinde, pige;barn|familie|familie: kvinde, kvinde, pige|far|kvinde|menneske|mor|pige
+👩‍👩‍👧‍👦;familie: kvinde, kvinde, pige, dreng;barn|dreng|familie|familie: kvinde, kvinde, pige, dreng|far|kvinde|menneske|mor|pige
+👩‍👩‍👦‍👦;familie: kvinde, kvinde, dreng, dreng;barn|dreng|familie|familie: kvinde, kvinde, dreng, dreng|far|kvinde|menneske|mor
+👩‍👩‍👧‍👧;familie: kvinde, kvinde, pige, pige;barn|familie|familie: kvinde, kvinde, pige, pige|far|kvinde|menneske|mor|pige
+👨‍👦;familie: mand, dreng;barn|dreng|familie|familie: mand, dreng|far|mand|menneske|mor
+👨‍👦‍👦;familie: mand, dreng, dreng;barn|dreng|familie|familie: mand, dreng, dreng|far|mand|menneske|mor
+👨‍👧;familie: mand, pige;barn|familie|familie: mand, pige|far|mand|menneske|mor|pige
+👨‍👧‍👦;familie: mand, pige, dreng;barn|dreng|familie|familie: mand, pige, dreng|far|mand|menneske|mor|pige
+👨‍👧‍👧;familie: mand, pige, pige;barn|familie|familie: mand, pige, pige|far|mand|menneske|mor|pige
+👩‍👦;familie: kvinde, dreng;barn|dreng|familie|familie: kvinde, dreng|far|kvinde|menneske|mor
+👩‍👦‍👦;familie: kvinde, dreng, dreng;barn|dreng|familie|familie: kvinde, dreng, dreng|far|kvinde|menneske|mor
+👩‍👧;familie: kvinde, pige;barn|familie|familie: kvinde, pige|far|kvinde|menneske|mor|pige
+👩‍👧‍👦;familie: kvinde, pige, dreng;barn|dreng|familie|familie: kvinde, pige, dreng|far|kvinde|menneske|mor|pige
+👩‍👧‍👧;familie: kvinde, pige, pige;barn|familie|familie: kvinde, pige, pige|far|kvinde|menneske|mor|pige
+🗣️;talende hoved;ansigt|hoved|silhuet|tale|talende
+👤;buste i silhuet;buste|buste i silhuet
+👥;buster i silhuet;buster|buster i silhuet
+🫂;;
+👪;familie;barn|familie|far|menneske|mor
+🧑‍🧑‍🧒;;
+🧑‍🧑‍🧒‍🧒;;
+🧑‍🧒;;
+🧑‍🧒‍🧒;;
+👣;fodspor;fødder|fodspor
+
+[animals_nature]
+🐵;abeansigt;abe|abeansigt|dyr|hoved
+🐒;abe;abe|dyr
+🦍;gorilla;abe|ansigt|dyr|gorilla
+🦧;;
+🐶;hundeansigt;dyr|hoved|hund|hundeansigt
+🐕;hund;dyr|hund
+🦮;;
+🐕‍🦺;;
+🐩;puddel;dyr|hund|puddel
+🐺;ulvehoved;dyr|hoved|ræv|ulvehoved
+🦊;rævehoved;ansigt|dyr|listig|ræv|rævehoved|snedig
+🦝;;
+🐱;katteansigt;dyr|hoved|kat|katteansigt
+🐈;kat;dyr|kat
+🐈‍⬛;;
+🦁;løvehoved;hoved|løve|løvehoved|løven|stjernetegn
+🐯;tigeransigt;dyr|hoved|tigeransigt
+🐅;tiger;dyr|tiger
+🐆;leopard;dyr|leopard
+🐴;hestehoved;dyr|hest|hestehoved
+🫎;;
+🫏;;
+🐎;hest;dyr|hest
+🦄;enhjørning;enhjørning|hoved
+🦓;;
+🦌;hjort;ansigt|dyr|gevir|hjort|hjortetakker
+🦬;;
+🐮;koansigt;dyr|hoved|ko|koansigt
+🐂;okse;dyr|okse
+🐃;vandbøffel;bøffel|dyr|vandbøffel
+🐄;ko;dyr|ko
+🐷;griseansigt;dyr|gris|griseansigt|hoved
+🐖;gris;dyr|gris
+🐗;vildsvin;dyr|vildsvin
+🐽;grisetryne;dyr|grisetryne|hoved|tryne
+🐏;vædder;dyr|vædder
+🐑;får;dyr|får
+🐐;ged;dyr|ged
+🐪;dromedar;dromedar|dyr|pukkel
+🐫;kamel;dyr|kamel|to pukler
+🦙;;
+🦒;;
+🐘;elefant;dyr|elefant
+🦣;;
+🦏;næsehorn;dyr|horn|næsehorn
+🦛;;
+🐭;museansigt;dyr|hoved|mus|museansigt
+🐁;mus;dyr|mus
+🐀;rotte;dyr|rotte
+🐹;hamsteransigt;dyr|hamsteransigt|hoved
+🐰;kaninansigt;dyr|hoved|kanin|kaninansigt
+🐇;kanin;dyr|kanin
+🐿️;jordegern;jordegern
+🦫;;
+🦔;;
+🦇;flagermus;dyr|flagermus|nat|vampyr
+🐻;bjørneansigt;bjørn|bjørneansigt|dyr|hoved
+🐻‍❄️;;
+🐨;koala;dyr|koala
+🐼;pandaansigt;dyr|hoved|pandaansigt
+🦥;;
+🦦;;
+🦨;;
+🦘;;
+🦡;;
+🐾;poteaftryk;dyr|poteaftryk|spor
+🦃;kalkun;kalkun
+🐔;høne;dyr|høne
+🐓;hane;dyr|hane
+🐣;ny udklækket kylling;dyr|kylling|ny udklækket kylling
+🐤;kylling;dyr|kylling
+🐥;kylling forfra;dyr|kylling forfra|kylling set forfra
+🐦;fugl;dyr|fugl
+🐧;pingvin;dyr|pingvin
+🕊️;due;due|flyve|fred|fugl
+🦅;ørn;dyr|fugl|ørn
+🦆;and;and|andrik|dyr|fugl|svømmefugl
+🦢;;
+🦉;ugle;dyr|fugl|klog|klogskab|ugle|vis|visdom
+🦤;;
+🪶;;
+🦩;;
+🦚;;
+🦜;;
+🪽;;
+🐦‍⬛;;
+🪿;;
+🐦‍🔥;;
+🐸;frøansigt;dyr|frø|frøansigt|hoved
+🐊;krokodille;dyr|krokodille
+🐢;skildpadde;dyr|skildpadde
+🦎;firben;dyr|firben|krybdyr|reptil
+🐍;slange;dyr|slange
+🐲;drageansigt;drage|drageansigt|hoved
+🐉;drage;drage|eventyr
+🦕;;
+🦖;;
+🐳;hval med vandsprøjt;dyr|hval|hval med vandsprøjt
+🐋;hval;dyr|hval
+🐬;delfin;delfin|dyr
+🦭;;
+🐟;fisk;dyr|fisk
+🐠;tropisk fisk;dyr|fisk|tropisk fisk
+🐡;kuglefisk;dyr|fisk|kuglefisk
+🦈;haj;dyr|fisk|haj
+🐙;blæksprutte;blæksprutte|dyr
+🐚;konkylie;dyr|konkylie
+🪸;;
+🪼;;
+🐌;snegl;dyr|snegl
+🦋;sommerfugl;dyr|insekt|sommer|sommerfugl|vinger
+🐛;larve;dyr|larve|sommerfuglelarve|tusindben
+🐜;myre;dyr|myre
+🐝;honningbi;bi|dyr|honningbi
+🪲;;
+🐞;mariehøne;dyr|mariehøne
+🦗;;
+🪳;;
+🕷️;edderkop;edderkop|insekt
+🕸️;edderkoppespind;edderkop|edderkoppespind|spind
+🦂;skorpion;skorpion|skorpionen|stjernetegn
+🦟;;
+🪰;;
+🪱;;
+🦠;;
+💐;blomsterbuket;blomster|blomsterbuket|buket
+🌸;kirsebærblomst;blomst|blomstrende kirsebær|kirsebær|kirsebærblomst
+💮;blomsterstempel;blomsterstempel|stempel
+🪷;;
+🏵️;roset;plante|roset
+🌹;rose;blomst|rose
+🥀;vissen blomst;afblomstret|blomst|visnet|vissen
+🌺;hibiscus;blomst|hawaiiblomst|hibiscus
+🌻;solsikke;blomst|solsikke
+🌼;blomst;blomst|gul blomst
+🌷;tulipan;blomst|tulipan
+🪻;;
+🌱;spire;plantespire|spire
+🪴;;
+🌲;grantræ;grantræ|stedsegrøn|træ
+🌳;træ;løvfældende træ|træ
+🌴;palme;palme|palmetræ
+🌵;kaktus;kaktus|kaktusplante|plante
+🌾;risplante;ris|risplante
+🌿;urt;blade|urt
+☘️;kløver;kløver|plante
+🍀;firkløver;firkløver|held|heldig|kløver
+🍁;blad;ahorn|ahornblad|blad|efterår|efterårsblad
+🍂;faldende blade;blade|efterårsblade|faldende blade
+🍃;blad i vinden;blad|blad i vinden|blæst|vind
+🪹;;
+🪺;;
+🍄;svamp;plante|svamp
+
+[food_drink]
+🍇;vindruer;frugt|vin|vindruer
+🍈;melon;frugt|melon
+🍉;vandmelon;frugt|sommer|vandmelon
+🍊;appelsin;appelsin|citrus|frugt
+🍋;citron;citron|frugt|gul
+🍋‍🟩;;
+🍌;banan;banan|frugt
+🍍;ananas;ananas|frugt
+🥭;;
+🍎;rødt æble;æble|frugt|rød|rødt æble
+🍏;grønt æble;æble|frugt|grøn|grønt æble
+🍐;pære;frugt|pære
+🍑;fersken;fersken|frugt
+🍒;kirsebær;frugt|kirsebær
+🍓;jordbær;bær|frugt|jordbær
+🫐;;
+🥝;kiwifrugt;frugt|kiwifrugt|mad
+🍅;tomat;grøntsag|tomat
+🫒;;
+🥥;;
+🥑;avokado;avokado|frugt|mad
+🍆;aubergine;aubergine|grøntsag
+🥔;kartoffel;grøntsag|kartoffel|mad|rodfrugt
+🥕;gulerod;grøntsag|gulerod|mad|rodfrugt
+🌽;majs;majs|majskolbe
+🌶️;chili;chili|peber|plante|stærk
+🫑;;
+🥒;agurk;agurk|grøntsag|mad
+🥬;;
+🥦;;
+🧄;;
+🧅;;
+🥜;peanuts;mad|mellemmåltid|nød|nødder|peanuts|snack
+🫘;;
+🌰;kastanje;kastanje|plante
+🫚;;
+🫛;;
+🍄‍🟫;;
+🍞;brød;bage|brød
+🥐;croissant;brød|croissant|fransk|mad|morgenbrød|morgenmad
+🥖;flute;brød|flute|franskbrød|mad
+🫓;;
+🥨;;
+🥯;;
+🥞;pandekager;crêpe|mad|pandekage|pandekager
+🧇;;
+🧀;et stykke ost;et stykke ost|ost
+🍖;kød;kød|kødben
+🍗;kyllingelår;kylling|kyllingelår
+🥩;;
+🥓;bacon;bacon|gris|kød|mad|svinekød
+🍔;hamburger;hamburger
+🍟;pomfritter;pomfrit|pomfritter|pommes frites
+🍕;pizza;pizza|pizzastykke|stykke pizza
+🌭;hotdog;frankfurter|hotdog|pølse
+🥪;;
+🌮;taco;mexicansk|taco
+🌯;burrito;burrito|mexicansk
+🫔;;
+🥙;fladbrød med fyld;fladbrød|fladbrød med fyld|fyld|fyldt|gyros|mad|pandekage med fyld|pita
+🧆;;
+🥚;æg;æg|mad
+🍳;stegepande;madlavning|stegepande|stegepande med æg
+🥘;pande med mad;mad|pande|pande med mad|pandestegt|steger
+🍲;gryde med mad;gryde|gryde med mad|gryderet|suppe
+🫕;;
+🥣;;
+🥗;grøn salat;grøn|mad|salat
+🍿;popcorn;popcorn
+🧈;;
+🧂;;
+🥫;;
+🍱;bento;bento|bentoboks|boks
+🍘;riskiks;kiks|riskiks
+🍙;riskugle;ris|riskugle
+🍚;ris;restaurant|ris|skål ris
+🍛;ris og karry;ris|ris og karry
+🍜;nudler;nudler|ramen-nudler|restaurant|skål nudler
+🍝;spaghetti;pasta|restaurant|spaghetti
+🍠;sød kartoffel;kartoffel|sød|stegt
+🍢;mad på spyd;fisk|grillspyd|kebab|mad på spyd|pind|skaldyr|spyd
+🍣;sushi;sushi|sushi-restaurant
+🍤;dybstegt reje;dybstegt reje|reje
+🍥;fiskebolle;fiskebolle|fiskebolle med spiral
+🥮;;
+🍡;iskugler på pind;iskugler|iskugler på pind
+🥟;;
+🥠;;
+🥡;;
+🦀;krabbe;krabbe|krebsen|stjernetegn
+🦞;;
+🦐;reje;dyr|havdyr|mad|reje|skaldyr
+🦑;sprutte;arme|blæk|blæksprutte|bløddyr|dyr|flerarmet|havdyr|mad|multitasking|sprutte
+🦪;;
+🍦;softice;is|softice
+🍧;snedessert;is|isdessert|snedessert
+🍨;is;is|isdessert
+🍩;donut;donut|kage
+🍪;cookie;cookie|kage|småkage
+🎂;fødselsdagskage;fødselsdagskage|kage|lagkage
+🍰;lagkage;et stykke kage|kage|lagkage
+🧁;;
+🥧;;
+🍫;chokolade;chokolade|et stykke chokolade
+🍬;bolsje;bolsje|slik
+🍭;slikpind;slik|slikpind
+🍮;dessert;budding|dessert
+🍯;honning;honning|honningkrukke|krukke honning
+🍼;sutteflaske;flaske|mælk|sutteflaske
+🥛;glas mælk;drik|drikke|glas|mælk
+☕;varm drik;dampende|drik|drikkevare|kaffe|te|varm
+🫖;;
+🍵;tekop;kop|te|tekop|varm te
+🍶;sake;flaske sake|sake|sakeflaske|sakekop
+🍾;flaske med flyvende prop;bar|drik|flaske|flaske med flyvende prop|prop
+🍷;vin;et glas vin|hvidvin|rødvin|vin
+🍸;cocktailglas;cocktailglas
+🍹;tropisk drink;cocktail|tropisk drink
+🍺;ølkrus;krus|krus øl|ølglas|ølkrus
+🍻;skålende ølkrus;krus|krus øl|ølglas|ølkrus|skål|skålende ølkrus
+🥂;skål;alkohol|drikke|drikker|fejrer|fejring|fest|glas|skål|skåler
+🥃;fladbundet glas;drikke|drikker|fladbundet|glas|shot|shotglas|spiritus|spiritusglas|sprut|whiskyglas
+🫗;;
+🥤;;
+🧋;;
+🧃;;
+🧉;;
+🧊;;
+🥢;;
+🍽️;kniv og gaffel med tallerken;gaffel|kniv|kniv og gaffel med tallerken|madlavning|tallerken
+🍴;kniv og gaffel;bestik|gaffel|kniv|kniv og gaffel
+🥄;ske;bestik|ske
+🔪;køkkenkniv;kniv|køkkenkniv
+🫙;;
+🏺;amphora;amphora|drik|kande|krukke|madlavning|stjernetegn|våben|værktøj
+
+[travel_places]
+🌍;globus med europa og afrika;Afrika|Europa|globus med europa og afrika|jorden
+🌎;globus med nord- og sydamerika;Amerika|globus med nord- og sydamerika|jorden|Nord- og Sydamerika
+🌏;globus med asien og australien;Asien|Australien|globus med asien og australien|jorden
+🌐;globus med længdegrader;globus med længdegrader|meridianer
+🗺️;verdenskort;kort|verden|verdenskort
+🗾;Japan;Japan|kort over Japan
+🧭;;
+🏔️;sneklædt bjerg;bjerg|koldt|sne|sneklædt bjerg
+⛰️;bjerg;bjerg
+🌋;vulkan;vulkan|vulkanudbrud
+🗻;Mount Fuji;bjerg|Fuji|Fuji-bjerget|Mount Fuji
+🏕️;camping;camping|telt
+🏖️;strand med parasol;parasol|strand|strand med parasol
+🏜️;ørken;kaktus|ørken|sol
+🏝️;øde ø;ø|øde
+🏞️;nationalpark;nationalpark
+🏟️;stadion;stadion
+🏛️;klassisk bygning;bygning|klassisk
+🏗️;bygningskonstruktion;bygning|bygningskonstruktion|konstruktion
+🧱;;
+🪨;;
+🪵;;
+🛖;;
+🏘️;huse;bygning|hus|huse
+🏚️;faldefærdigt hus;bygning|faldefærdig|faldefærdigt hus|hus
+🏠;hus;bygning|hjem|hus
+🏡;hus med have;have|hjem|hus med have
+🏢;kontorbygning;bygning|kontor|kontorbygning
+🏣;japansk posthus;japansk|posthus|postkontor
+🏤;posthus;europæisk posthus|posthus
+🏥;hospital;bygning|doktor|hospital|læge|medicin
+🏦;bank;bank|bygning
+🏨;hotel;bygning|hotel
+🏩;kærlighedshotel;hotel|kærlighedshotel|romantik
+🏪;døgnkiosk;døgnkiosk|kiosk|købmand
+🏫;skole;bygning|skole
+🏬;stormagasin;butik|stormagasin|varehus
+🏭;fabrik;bygning|fabrik
+🏯;japansk slot;bygning|japansk slot|slot
+🏰;slot;bygning|slot
+💒;bryllup;bryllup|kærlighed|kirke|romantik
+🗼;Tokyo Tower;Tokyo|Tokyo Tower
+🗽;Frihedsgudinden;frihed|Frihedsgudinden|gudinde
+⛪;kirke;bygning|kirke|kors|kristen|religion
+🕌;moské;islam|moské|muslim|religion
+🛕;;
+🕍;synagoge;jøde|jødisk|religion|synagoge|tempel
+⛩️;shinto-alter;alter|religion|shinto|shinto-alter
+🕋;kaaba;islam|kaaba|muslim|religion
+⛲;springvand;fontæne|springvand
+⛺;telt;telt
+🌁;tåget;tåge|tåget
+🌃;stjernehimmel;stjernehimmel|stjerner
+🏙️;bylandskab;by|bygning|bylandskab
+🌄;solopgang over bjerge;bjerge|morgensol|solopgang over bjerge
+🌅;solopgang;morgensol|solopgang
+🌆;by i solnedgang;aften|by|by i solnedgang|højhuse|solnedgang
+🌇;solnedgang;skumring|solnedgang|solnedgang bag bygninger
+🌉;bro i mørke;bro i mørke|bro i natten|nat
+♨️;varme kilder;damp|kilder|varm|varme kilder
+🎠;karrusel;karrusel|karruselhest|karruseltur|køre i karrusel
+🛝;;
+🎡;pariserhjul;forlystelse|forlystelsespark|pariserhjul|tivoli
+🎢;rutsjebane;forlystelse|forlystelsespark|rutsjebane|tivoli
+💈;barber;barber|barbersalon
+🎪;cirkus;cirkus|cirkustelt|telt
+🚂;damplokomotiv;damplokomotiv|tog
+🚃;togvogn;tog|togvogn
+🚄;lyntog;lyntog|tog
+🚅;lyntog med projektilnæse;lyntog med projektilnæse|tog
+🚆;tog;køretøj|tog
+🚇;metro;køretøj|metro
+🚈;letbane;køretøj|letbane|tog
+🚉;togstation;tog|togstation
+🚊;sporvogn;køretøj|sporvogn|trolleybus
+🚝;monorail;køretøj|monorail
+🚞;bjergbane;bjergbane|svævebane
+🚋;vogn;køretøj|sporvogn|trolleybus|vogn
+🚌;bus;bus|køretøj
+🚍;bus forfra;bus|forfra|kørende|køretøj
+🚎;trolleybus;bus|køretøj|sporvogn|trolley|trolleybus
+🚐;minibus;bus|minibus
+🚑;ambulance;ambulance|køretøj
+🚒;brandbil;brand|brandbil|køretøj
+🚓;politibil;politi|politibil
+🚔;politibil forfra;kørende politibil|politi|politibil forfra
+🚕;taxa;bil|køretøj|taxa
+🚖;taxa forfra;kørende taxa|taxa forfra
+🚗;bil;bil|køretøj
+🚘;bil forfra;bil|bil forfra|fartøj|kørende
+🚙;firehjulstræk;firehjulstræk|fritid|jeep|køretøj
+🛻;;
+🚚;lastbil;køretøj|lastbil|levering|transport
+🚛;lastvogn;køretøj|lastbil|lastvogn|levering|transport
+🚜;traktor;køretøj|traktor
+🏎️;racerbil;bil|racerbil|racerløb
+🏍️;motorcykel;motorcykel|racerløb
+🛵;scooter;scooter|transportmiddel
+🦽;;
+🦼;;
+🛺;;
+🚲;cykel;cykel|tohjulet
+🛴;løbehjul;løbehjul|transportmiddel
+🛹;;
+🛼;;
+🚏;busstoppested;bus|busstoppested|stoppested
+🛣️;motorvej;motorvej|vej
+🛤️;togspor;spor|tog|togspor
+🛢️;olietønde;olie|olietønde|tønde
+⛽;benzin;benzin|benzinpumpe|tankstation
+🛞;;
+🚨;blinklys;blinklys|politi
+🚥;liggende trafiklys;liggende trafiklys|lys|trafik
+🚦;trafiklys;lys|trafik|trafiklys
+🛑;stopskilt;ottekant|ottekantet|skilt|stopskilt
+🚧;byggeri;byggeri|spærring
+⚓;anker;anker|båd|skib|værktøj
+🛟;;
+⛵;sejlbåd;båd|sejlbåd
+🛶;kano;båd|kano|transportmiddel
+🚤;speedbåd;båd|speedbåd
+🛳️;passagerskib;fartøj|passager|passagerskib|skib
+⛴️;færge;båd|færge
+🛥️;motorbåd;båd|fartøj|motorbåd
+🚢;skib;fartøj|skib
+✈️;fly;fartøj|fly
+🛩️;lille fly;fartøj|fly|lille fly
+🛫;fly afgang;afgang|afrejse|fartøj|fly|indtjekning
+🛬;fly ankomst;ankomme|ankomst|fartøj|fly
+🪂;;
+💺;sæde;sæde|stol
+🚁;helikopter;fartøj|helikopter
+🚟;luftbane;fartøj|hængende|luftbane|togbane
+🚠;kabelbane;bjerg|fartøj|gondol|kabel|kabelbane
+🚡;svævebane;fartøj|gondol|kabel|svæve|svævebane
+🛰️;satellit;fartøj|rummet|satellit
+🚀;raket;fartøj|raket|rumfartøj|rummet|rumskib
+🛸;;
+🛎️;hotelklokke;hotel|hotelklokke|klokke
+🧳;;
+⌛;timeglas;tid|timeglas
+⏳;timeglas med løbende sand;tid|timeglas|timeglas med løbende sand
+⌚;ur;armbåndsur|ur
+⏰;vækkeur;ur|vækkeur
+⏱️;stopur;stopur|ur
+⏲️;æggeur;æggeur|tidtager|ur
+🕰️;pynteur;pynteur|ur
+🕛;kl.12;12.00|24.00|kl. 24|kl.12
+🕧;;
+🕐;kl. 1;1.00|13.00|kl. 1|kl. 13
+🕜;halv to;1.30|13.30|halv to
+🕑;kl. 2;14.00|2.00|kl. 2|kl.14
+🕝;halv tre;14.30|2.30|halv tre
+🕒;kl. 3;15.00|3.00|kl. 3|kl.15
+🕞;halv fire;15.30|3.30|halv fire
+🕓;kl. 4;16.00|4.00|kl. 16|kl. 4
+🕟;halv fem;16.30|4.30|halv fem
+🕔;kl. 5;17.00|5.00|kl. 17|kl. 5
+🕠;halv seks;17.30|5.30|halv seks
+🕕;kl. 6;18.00|6.00|kl. 18|kl. 6
+🕡;halv syv;18.30|6.30|halv syv
+🕖;kl. 7;19.00|7.00|kl. 19|kl. 7
+🕢;halv otte;19.30|7.30|halv otte
+🕗;kl. 8;20.00|8.00|kl. 20|kl. 8
+🕣;halv ni;20.30|8.30|halv ni
+🕘;kl. 9;21.00|9.00|kl. 21|kl. 9
+🕤;halv ti;21.30|9.30|halv ti
+🕙;kl. 10;10.00|22.00|kl. 10|kl. 22
+🕥;halv elleve;10.30|22.30|halv elleve
+🕚;kl.11;11.00|23.00|kl. 23|kl.11
+🕦;halv tolv;11.30|23.30|halv tolv
+🌑;nymåne;måne|månefase|nymåne
+🌒;tiltagende måne;måne|månefase|tiltagende måne
+🌓;halvmåne første kvarter;første kvarter måne|halvmåne første kvarter|måne|månefase
+🌔;tiltagende måne næsten fuld;måne|månefase|tiltagende måne næsten fuld
+🌕;fuldmåne;fuldmåne|måne|månefase
+🌖;aftagende måne næsten fuld;aftagende måne næsten fuld|måne|månefase
+🌗;halvmåne sidste kvarter;halvmåne sidste kvarter|måne|månefase|sidste kvarter måne
+🌘;aftagende måne;aftagende måne|måne|månefase
+🌙;halvmåne;aftagende måne|halvmåne
+🌚;nymåne med ansigt;ansigt i måne|nymåne|nymåne med ansigt
+🌛;måne med ansigt første kvarter;måne|måne med ansigt første kvarter|måneansigt
+🌜;måne med ansigt andet kvarter;måne|måne med ansigt andet kvarter|måneansigt
+🌡️;termometer;termometer|vejr
+☀️;sol;lys|rum|sol|solskin|stråler|vejr
+🌝;fuldmåneansigt;fuldmåne|fuldmåne med ansigt|fuldmåneansigt|måne med ansigt|måneansigt
+🌞;sol med ansigt;ansigt|sol|sol med ansigt
+🪐;;
+⭐;hvid mellemstor stjerne;hvid mellemstor stjerne|stjerne
+🌟;blinkende stjerne;blinkende stjerne|lysende stjerne|lyser|skinner|stjerneskin
+🌠;stjerneskud;stjerne|stjerneskud
+🌌;mælkevejen;galakse|mælkevejen
+☁️;sky;sky|vejr
+⛅;sol bag sky;sky|sol|sol bag sky
+⛈️;sky med lyn og regn;regn|sky|sky med lyn og regn|torden|vejr
+🌤️;sol bag lille sky;sky|sol|sol bag lille sky|vejr
+🌥️;sol bag stor sky;sky|sol|sol bag stor sky|vejr
+🌦️;sol bag sky med regn;regn|sky|sol|sol bag sky med regn|vejr
+🌧️;sky med regn;regn|sky|sky med regn|vejr
+🌨️;sky med sne;kulde|sky|sky med sne|sne|vejr
+🌩️;tordensky;lyn|sky|tordensky|vejr
+🌪️;tornado;hvirvelvind|sky|skypumpe|tornado|vejr
+🌫️;tåge;sky|tåge|vejr
+🌬️;vindansigt;ansigt|blæse|sky|vejr|vind|vindansigt
+🌀;cyklon;cyklon|svimmel|tornado|tyfon
+🌈;regnbue;regn|regnbue|vejr
+🌂;lukket paraply;lukket paraply|regn|regnvejr
+☂️;paraply;paraply|regn|tøj|vejr
+☔;paraply med regndråber;dråbe|paraply|paraply med regndråber|regn|tøj|vejr
+⛱️;parasol;paraply|parasol|regn|sol|vejr
+⚡;højspænding;advarsel|fare|højspænding
+❄️;snefnug;kulde|sne|snefnug|vejr
+☃️;snemand;kulde|sne|snemand|vejr
+⛄;snemand uden snevejr;sne|snemand uden snevejr
+☄️;komet;komet|rummet
+🔥;ild;flamme|ild
+💧;dråbe;dråbe|dråbe sved|følelser|koldsved
+🌊;bølge;bølge|havbølge|vandbølge
+
+[activities]
+🎃;græskarlygte;græskar|græskarlygte
+🎄;juletræ;jul|juletræ|træ
+🎆;fyrværkeri;fest|fyrværkeri|nytår
+🎇;stjernekaster;fyrværkeri|nytår|stjernekaster
+🧨;;
+✨;stjerner;skinne|stjerne|stjerner
+🎈;ballon;ballon|fest|fødselsdag
+🎉;bordbombe;bordbombe|fest|nytår
+🎊;konfetti;fest|konfetti|konfettidåse|konfettiregn
+🎋;træ med papirpynt;festival|træ med papirpynt
+🎍;fyrtræsdekoration;fyrtræsdekoration|japansk nytår
+🎎;dukker;dukker|japanske dukker
+🎏;banner;banner|banner med fisk|banner med karper
+🎐;vindspil;vindpiber|vindspil
+🎑;måneceremoni;ceremoni|fejring|måne|måneceremoni
+🧧;;
+🎀;sløjfe;fejring|sløjfe
+🎁;gave;fødselsdag|gave|overraskelse|pakke
+🎗️;mindebånd;bånd|fejring|minde|mindebånd
+🎟️;adgangsbillet;adgang|adgangsbillet|billet
+🎫;billet;billet|forlystelse|underholdning
+🎖️;militærmedalje;dekoreret|fejring|medalje|militær|militærmedalje
+🏆;pokal;pokal|præmie|trofæ
+🏅;sportsmedalje;medalje|sportsmedalje
+🥇;guldmedalje;førsteplads|førstepræmie|guld|guldmedalje|medalje|vinder
+🥈;sølvmedalje;andenplads|andenpræmie|medalje|sølv|sølvmedalje|vinder
+🥉;bronzemedalje;bronzemedalje|medalje|tredjeplads|tredjepræmie|vinder
+⚽;fodbold;bold|fodbold
+⚾;baseball;baseball|bold
+🥎;;
+🏀;basketball;basketball|bold|sport
+🏐;volleyball;bold|spil|volleyball
+🏈;amerikansk fodbold;amerikansk fodbold|sport
+🏉;rugbybold;bold|rugbybold|sport
+🎾;tennis;bold|sport|tennis|tennisbold|tennisbold og ketsjer
+🥏;;
+🎳;bowling;bowling|bowlingkugle|spille
+🏏;cricket;bat|bold|cricket|spil
+🏑;hockey;bold|hockey|spil|stav
+🏒;ishockeystav og puck;is|ishockeystav og puck|puck|spil|stav
+🥍;;
+🏓;bordtennis;bat|bold|bord|bordtennis|pingpong|spil|tennis
+🏸;badminton;badminton|fjerbold|ketsjer|spil
+🥊;boksehandske;bokse|boksehandske|boksning|handske|sport
+🥋;kampsportsuniform;kampsport|kampsportsuniform|sport|taekwondo|uniform
+🥅;målnet;mål|målnet|net|sport
+⛳;golf flag;golf flag
+⛸️;skøjte;is|skøjte
+🎣;fiske;fiske|fiskeri|fiskestang|fiskestang med fisk
+🤿;;
+🎽;løbetrøje;løbe|løbetrøje|løbetrøje med bånd
+🎿;ski;ski|skisport
+🛷;;
+🥌;;
+🎯;pletskud;plet|pletskud
+🪀;;
+🪁;;
+🔫;pistol;pistol|revolver|våben
+🎱;billard;billard|billardkugle
+🔮;krystalkugle;krystalkugle|spådom|spådomskunst
+🪄;;
+🎮;videospil;håndcontroller|videospil
+🕹️;joystick;joystick|spil|videospil
+🎰;spillemaskine;spil|spillemaskine
+🎲;terning;terning|terningspil
+🧩;;
+🧸;;
+🪅;;
+🪩;;
+🪆;;
+♠️;spar;kort|spar|spil
+♥️;hjerter;hjerter|kort|spil
+♦️;ruder;kort|ruder|spil
+♣️;klør;klør|kort|spil
+♟️;;
+🃏;joker;joker|kort|spillekort
+🀄;mahjong-brik;drage|mahjong|mahjong-brik|rød drage
+🎴;spillekort;spillekort|spillekort med blomster
+🎭;masker;masker|teater
+🖼️;ramme med billede;billede|kunst|maleri|museum|ramme|ramme med billede
+🎨;palet;farver|kunstner|maler|palet
+🧵;;
+🪡;;
+🧶;;
+🪢;;
+
+[objects]
+👓;briller;beklædning|briller
+🕶️;solbriller;briller|mørk|øje|solbriller
+🥽;;
+🥼;;
+🦺;;
+👔;slips;beklædning|slips
+👕;T-shirt;beklædning|bluse|T-shirt|trøje
+👖;bukser;beklædning|bukser
+🧣;;
+🧤;;
+🧥;;
+🧦;;
+👗;kjole;beklædning|kjole
+👘;kimono;beklædning|kåbe|kimono
+🥻;;
+🩱;;
+🩲;;
+🩳;;
+👙;bikini;badetøj|beklædning|bikini
+👚;bluse;beklædning|bluse
+🪭;;
+👛;pung;pengepung|pung
+👜;håndtaske;håndtaske|taske
+👝;taske;pung|taske
+🛍️;indkøbsposer;hotel|indkøbsposer|pose
+🎒;rygsæk;rygsæk|skole|skoletaske|taske
+🩴;;
+👞;herresko;herresko|sko
+👟;gummisko;fritidssko|gummisko|sko|tennissko
+🥾;;
+🥿;;
+👠;høje hæle;høje hæle|højhælet sko|sko
+👡;damesandaler;damesandaler|sandaler
+🩰;;
+👢;damestøvler;damestøvler|støvler
+🪮;;
+👑;krone;beklædning|krone
+👒;hat;beklædning|hat|kvindes hat
+🎩;høj hat;hat|høj hat|sort hat
+🎓;eksamenshat;eksamen|eksamenshat|hat
+🧢;;
+🪖;;
+⛑️;hjelm med hvidt kors;ansigt|hjelm|hjelm med hvidt kors|kors|nødhjælp
+📿;bedekrans;bedekrans|bøn|halskæde|påklædning|perler|religion
+💄;læbestift;kosmetik|læbestift
+💍;ring;ring|romantik
+💎;diamant;diamant|juvel|romantik
+🔇;højttaler fra;højttaler|højttaler fra|lyd fra|lydstyrke|stille
+🔈;højttaler;højttaler|lydstyrke
+🔉;højttaler til;højtaler med en lydbølge|højttaler til|lav volumen
+🔊;højttaler høj;høj volumen|højtaler med høj volumen|højttaler høj
+📢;højttaler med håndtag;højt|højttaler med håndtag|offentlig
+📣;megafon;kommunikation|megafon
+📯;posthorn;posthorn
+🔔;klokke;klokke
+🔕;ingen klokke;ingen klokke|ingen lyd|klokke med streg over
+🎼;partitur;g-nøgle|musik|partitur
+🎵;node;musik|node
+🎶;noder;musik|node|noder
+🎙️;studiemikrofon;mikrofon|musik|studie|studiemikrofon
+🎚️;volumenkontrol;musik|volumenkontrol
+🎛️;knapper;knapper|musik
+🎤;mikrofon;mikrofon|sang|synge
+🎧;hovedtelefon;høretelefon|hovedtelefon|lytte|musik
+📻;radio;æteren|radio
+🎷;saxofon;instrument|musik|musikinstrument|saxofon
+🪗;;
+🎸;guitar;guitar|instrument|musik|musikinstrument|strengeinstrument
+🎹;klaver;instrument|keyboard|klaver|musik|musikinstrument
+🎺;trompet;instrument|musik|musikinstrument|trompet
+🎻;violin;instrument|musik|musikinstrument|strengeinstrument|violin
+🪕;;
+🥁;tromme;musik|rytme|tromme|trommestikker
+🪘;;
+🪇;;
+🪈;;
+📱;mobil;mobil|mobiltelefon
+📲;mobil med pil;lav et opkald|mobil med pil
+☎️;telefon;telefon
+📞;telefonrør;kommunikation|telefonrør
+📟;personsøger;bipper|kommunikation|personsøger
+📠;fax;fax|faxmaskine|kommunikation
+🔋;batteri;batteri
+🪫;;
+🔌;stik;elektricitet|elektrisk|stik
+💻;computer;computer
+🖥️;stationær computer;computer|stationær
+🖨️;printer;computer|printer|stationær
+⌨️;tastatur;computer|tastatur
+🖱️;computermus;computer|computermus|knap|mus
+🖲️;trackball;computer|trackball
+💽;mini disk;disk|mini disk
+💾;diskette;computer|diskette
+💿;cd;cd|dvd
+📀;DVD;blu-ray|cd|computer|disk|DVD|optisk
+🧮;;
+🎥;filmkamera;biograf|filme|filmkamera
+🎞️;filmstrimmel;biograf|film|filmstrimmel|strimmel
+📽️;filmprojektor;biograf|filmprojektor|projektor|video
+🎬;klaptræ;filmklapper|klapper|klaptræ
+📺;tv;fjernsyn|tv
+📷;kamera;kamera|video
+📸;kamera med blitz;blitz|kamera|kamera med blitz|video
+📹;videokamera;kamera|video|videokamera
+📼;videobånd;video|videobånd
+🔍;forstørrelsesglas til venstre;forstørrelse|forstørrelsesglas|forstørrelsesglas til venstre|søgning|værktøj
+🔎;forstørrelsesglas til højre;forstørrelse|forstørrelsesglas|forstørrelsesglas til højre|søgning|værktøj
+🕯️;stearinlys;lys|stearinlys
+💡;elpære;elpære|ide|lys ide
+🔦;lommelygte;lommelygte|lygte
+🏮;lygte;lanterne|lygte|rød lygte
+🪔;;
+📔;notesbog med udsmykning;notesbog|notesbog med udsmykning
+📕;lukket bog;bog|lukket bog
+📖;åben bog;åben bog|bog
+📗;grøn bog;bog|grøn bog
+📘;blå bog;blå bog|bog
+📙;orange bog;bog|orange bog
+📚;bøger;bog|bøger
+📓;notesbog;noter|notesbog
+📒;regnskabsbog;notesbog|regnskabsbog
+📃;side med fold;side|side med fold
+📜;skriftrulle;papir|skriftrulle
+📄;dokument;dokument|side
+📰;avis;avis|nyheder
+🗞️;sammenrullet avis;avis|nyheder|sammenrullet
+📑;faner;bogmærke|faner|mærke
+🔖;bogmærke;bogmærke|mærke
+🏷️;label;etiket|label|mærkat|seddel
+💰;pengepose;dollar|penge|pengepose
+🪙;;
+💴;yenseddel;penge|yenseddel
+💵;dollarseddel;dollarseddel|penge
+💶;euroseddel;euroseddel|penge
+💷;pundseddel;penge|pund|pundseddel
+💸;flyvende penge;flyvende penge|penge|penge med vinger
+💳;kreditkort;bank|kort|kredit|kreditkort|penge
+🧾;;
+💹;stigende marked;opadgående graf|stigende marked
+✉️;konvolut;e-mail|konvolut
+📧;e-mail;brev|e-mail|kommunikation
+📨;indgående post;e-mail|indgående post|modtaget post
+📩;udgående post;e-mail|sendt post|udgående post
+📤;udbakke;kommunikation|sendt|udbakke
+📥;indbakke;indbakke|kommunikation|modtaget
+📦;pakke;kasse|pakke
+📫;lukket postkasse med hævet flag;lukket postkasse med hævet flag|post|postkasse med flag op
+📪;lukket postkasse med sænket flag;lukket postkasse med sænket flag|post|postkasse med flag nede
+📬;åben postkasse med hævet flag;åben postkasse med hævet flag|post|postkasse med brev
+📭;åben postkasse med sænket flag;åben postkasse|åben postkasse med sænket flag|post
+📮;postkasse;postkasse
+🗳️;valgurne med stemmeseddel;boks|kasse|stemme|urne|valgurne med stemmeseddel
+✏️;blyant;blyant
+✒️;sort fyldepen;fyldepen|pen|sort fyldepen
+🖋️;fyldepen;fyldepen|pen
+🖊️;kuglepen;kuglepen|pen
+🖌️;malerpensel;maleri|malerpensel|maling
+🖍️;farvekridt;farveblyant|farvekridt|fedtfarve
+📝;notat;kommunikation|notat
+💼;attachémappe;attachémappe|mappe
+📁;mappe;dokument|mappe
+📂;åben mappe;åben mappe|dokument
+🗂️;kartotekskort;kartotek|kartotekskort|kort
+📅;kalender;dato|kalender
+📆;kalenderblok;afrivningskalender|kalender|kalenderblok
+🗒️;notesblok;blok|note|noter|notesblok|spiral|spiralryg
+🗓️;spiralkalender;blok|kalender|spiral|spiralkalender
+📇;kartotek;indekskort|kartotek|kontakter
+📈;opadgående graf;graf|opadgående graf|tendens
+📉;nedadgående graf;graf|nedadgående graf|tendens
+📊;søjlediagram;diagram|søjlediagram
+📋;clipboard;clipboard
+📌;tegnestift;stift|tegnestift
+📍;rund tegnestift;rund tegnestift|stift|tegnestift
+📎;papirclips;clips|papirclips
+🖇️;sammensatte papirclips;papirclip|sammensat|sammensatte papirclips
+📏;lineal;lige kant|lineal
+📐;trekant;trekant|vinkel|vinkelmåler
+✂️;saks;saks|værktøj
+🗃️;arkivkasse;arkiv|arkivkasse|kasse|pap
+🗄️;arkivskab;arkiv|arkivskab|skab
+🗑️;papirkurv;papirkurv|skraldespand
+🔒;hængelås;hængelås|låst
+🔓;åben hængelås;åben hængelås|åben lås
+🔏;hængelås med pen;fyldepen|hængelås med pen|lås med fyldepen|privat
+🔐;lukket hængelås med nøgle;lås med nøgle|låst|lukket hængelås med nøgle|sikker
+🔑;nøgle;adgangskode|nøgle|password
+🗝️;gammel nøgle;gammel|lås|nøgle
+🔨;hammer;hammer|værktøj
+🪓;;
+⛏️;hakke;hakke|mine|værktøj
+⚒️;hammer og hakke;hakke|hammer|hammer og hakke|værktøj
+🛠️;hammer og skruenøgle;hammer|hammer og skruenøgle|skruenøgle|svensknøgle|værktøj
+🗡️;daggert;daggert|kniv|våben
+⚔️;korslagte sværd;korslagt|korslagte sværd|sværd|våben
+💣;bombe;bombe|følelse
+🪃;;
+🏹;bue og pil;bue|bue og pil|bueskytte|pil|skytten|stjernetegn|våben|værktøj
+🛡️;skjold;skjold|våben
+🪚;;
+🔧;skruenøgle;skruenøgle|værktøj
+🪛;;
+🔩;møtrik og bolt;bolt|møtrik|møtrik og bolt|værktøj
+⚙️;tandhjul;tandhjul|værktøj
+🗜️;skruetvinge;skruestik|skruetvinge|værktøj
+⚖️;vægt;balance|jura|retfærdighed|stjernetegn|vægt|værktøj
+🦯;;
+🔗;link;link|link-tegn
+⛓️‍💥;;
+⛓️;kæder;kæde|kæder
+🪝;;
+🧰;;
+🧲;;
+🪜;;
+⚗️;kolbe;kemi|kolbe|værktøj
+🧪;;
+🧫;;
+🧬;;
+🔬;mikroskop;mikroskop|redskab|værktøj
+🔭;teleskop;redskab|teleskop|værktøj
+📡;parabolantenne;kommunikation|parabolantenne
+💉;sprøjte;indsprøjtning|læge|sprøjte
+🩸;;
+💊;pille;læge|medicin|pille
+🩹;;
+🩼;;
+🩺;;
+🩻;;
+🚪;dør;åben dør|dør
+🛗;;
+🪞;;
+🪟;;
+🛏️;seng;hotel|seng|sove
+🛋️;sofa og lampe;hotel|lampe|sofa|sofa og lampe
+🪑;;
+🚽;toilet;toilet|wc
+🪠;;
+🚿;brusebad;bad|brusebad
+🛁;badekar;bad|badekar
+🪤;;
+🪒;;
+🧴;;
+🧷;;
+🧹;;
+🧺;;
+🧻;;
+🪣;;
+🧼;;
+🫧;;
+🪥;;
+🧽;;
+🧯;;
+🛒;indkøbsvogn;butik|forretning|indkøb|indkøbsvogn|køb|vogn
+🚬;rygeskilt;rygeskilt|rygning tilladt
+⚰️;kiste;død|kiste
+🪦;;
+⚱️;urne;begravelse|død|urne
+🧿;;
+🪬;;
+🗿;statue;moyai-statue|statue
+🪧;;
+🪪;;
+
+[symbols]
+🏧;pengeautomat;dankortsautomat|hæve penge|pengeautomat
+🚮;smid i skraldespanden;skraldespand|smid i skraldespanden
+🚰;drikkevand;drik|drikkevand|vand
+♿;rullestolsadgang;adgang|rullestol|rullestolsadgang
+🚹;mænd;mænd|wc
+🚺;kvinder;kvinder|wc
+🚻;toiletskilt;toilet-skilt|toiletskilt
+🚼;babysymbol;baby-skilt|babysymbol|skifte
+🚾;wc;toilet|wc
+🛂;paskontrol;pas|paskontrol
+🛃;told;told
+🛄;baggageudlevering;baggage|baggageudlevering
+🛅;hittegods;baggage|hittegods
+⚠️;advarselsskilt;advarsel|advarselsskilt
+🚸;børn krydser vej;børn|børn krydser vej|pas på børn
+⛔;adgang forbudt;adgang|forbudt|ingen adgang|trafik
+🚫;ingen adgang;adgang forbudt|ingen adgang
+🚳;cykler forbudt;cykler forbudt|ingen cykler
+🚭;rygning forbudt;rygning forbudt|rygning ikke tilladt
+🚯;smid ikke affald;affald|forbudt|ikke tilladt|smid ikke affald
+🚱;ikke drikkevand;drik|forbudt|ikke drikkevand|vand
+🚷;ingen fodgængere;fodgænger|forbudt|ingen fodgængere
+📵;mobiltelefoner forbudt;ingen mobiltelefoner|mobiltelefoner forbudt
+🔞;forbudt for under 18;forbudt for under 18|ingen under 18
+☢️;radioaktiv;advarsel|radioaktiv|radioaktivitet|risiko|skilt
+☣️;biologisk fare;advarsel|biologisk|fare|risiko|skilt
+⬆️;opadvendt pil;nord|opadvendt pil|pil|retning|verdenshjørne
+↗️;opadvendt pil mod højre;nordøst|opadvendt pil mod højre|pil|retning
+➡️;pil mod højre;øst|pil|pil mod højre|retning|verdenshjørne
+↘️;nedadvendt pil mod højre;nedadvendt pil mod højre|pil|retning|sydøst
+⬇️;nedadvendt pil;ned|nedadvendt pil|pil|retning|syd|verdenshjørne
+↙️;nedadvendt pil mod venstre;nedadvendt pil mod venstre|pil|retning|sydvest
+⬅️;pil mod venstre;pil|pil mod venstre|retning|verdenshjørne|vest
+↖️;opadvendt pil mod venstre;nordvest|opadvendt pil mod venstre|pil|retning
+↕️;op- og nedadvendt pil;op- og nedadvendt pil|pil
+↔️;pil mod venstre og højre;pil|pil mod venstre og højre
+↩️;pil mod højre med sving til venstre;pil|pil mod højre med sving til venstre
+↪️;pil mod venstre med sving til højre;pil|pil mod venstre med sving til højre
+⤴️;pil mod højre med sving opad;pil|pil mod højre med sving opad
+⤵️;pil mod højre med sving nedad;ned|pil|pil mod højre med sving nedad
+🔃;genindlæse;genindlæse|genindlæse-tegn|vertikale pile med uret
+🔄;mod uret;mod uret|pile|pile mod uret
+🔙;tilbage;tilbage|tilbage-pil|venstrepil
+🔚;end;end|end-pil|venstrepil
+🔛;ON-pil;ON med udråbstegn|ON-pil|på
+🔜;snart;snart|snart med højrepil|snart-tegn
+🔝;top;pil peger op|top|toppil
+🛐;bedested;bedested|bøn|religion
+⚛️;atomsymbol;ateist|atom|atomsymbol
+🕉️;om;hindu|om|religion
+✡️;davidsstjerne;david|davidsstjerne|jøde|jødisk|religion|stjerne
+☸️;dharma-hjul;buddhist|dharma|dharma-hjul|hjul|religion
+☯️;yin og yang;religion|tao|taoist|yang|yin|yin og yang
+✝️;latinsk kors;kors|kristen|latinsk kors|religion
+☦️;ortodokst kors;kors|kristen|ortodokst kors|religion
+☪️;stjerne og halvmåne;islam|muslim|religion|stjerne og halvmåne
+☮️;fredssymbol;fred|fredssymbol
+🕎;syvarmet lysestage;lysestage|religion|syvarmet lysestage
+🔯;sekstakket stjerne med prik;horoskop|sekstakket stjerne med prik|stjerne
+🪯;;
+♈;vædderen;stjernetegn|vædderen
+♉;tyren;stjernetegn|tyren
+♊;tvillingen;stjernetegn|tvillingen
+♋;krebsen;krebsen|stjernetegn
+♌;løven;løven|stjernetegn
+♍;jomfruen;jomfruen|stjernetegn
+♎;vægten;stjernetegn|vægten
+♏;skorpionen;skorpionen|stjernetegn
+♐;skytten;skytten|stjernetegn
+♑;stenbukken;stenbukken|stjernetegn
+♒;vandmanden;stjernetegn|vandmanden
+♓;fisken;fisken|stjernetegn
+⛎;slangebæreren;slangebæreren|stjernebillede
+🔀;krydsede pile;krydsede pile|pile|pile mod højre
+🔁;gentageknap;gentag|gentageknap|med uret|pil
+🔂;knap til én gentagelse;én gang|knap til én gentagelse|med uret|pil
+▶️;afspilningsknap;afspil|afspilning|afspilningsknap|højre|pil|play|trekant
+⏩;spole frem;dobbelt højrepil|højre|spole frem
+⏭️;knap til næste nummer;knap til næste nummer|næste nummer|næste scene|pil|trekant
+⏯️;knap til afspilning og pause;afspil|højre|knap til afspilning og pause|pause|pil|play|trekant
+◀️;knap til baglæns afspilning;baglæns|knap til baglæns afspilning|pil|trekant|venstre
+⏪;spole tilbage;dobbelt venstrepil|spole tilbage|venstre
+⏮️;knap til forrige nummer;forrige nummer|forrige scene|knap til forrige nummer|pil|trekant
+🔼;op-knap;knap|op-knap|opad|pil
+⏫;pil op;dobbeltpil op|op|pil op
+🔽;ned-knap;knap|ned|ned-knap|nedad|pil
+⏬;pil ned;dobbeltpil ned|ned|pil ned
+⏸️;pauseknap;bjælke|dobbelt|lodret|pause|pauseknap
+⏹️;stopknap;kvadrat|stop|stopknap
+⏺️;optageknap;cirkel|optage|optageknap
+⏏️;udskubningsknap;eject|skub ud|udskubningsknap
+🎦;film;biograf|film|filme|teater
+🔅;lav lysstyrke;dæmpet lysstyrke|lav lysstyrke
+🔆;høj lysstyrke;høj lysstyrke|lysstyrke
+📶;mobilsignal;mobilsignal|signalstyrke
+🛜;;
+📳;vibration;mobil|vibration
+📴;mobil slået fra;mobil|mobil slået fra
+♀️;;
+♂️;;
+⚧️;;
+✖️;stort kryds;annuller|gange|gangetegn|multiplicer|multiplikation|stort kryds|x
+➕;plus;plus|plustegn
+➖;minus;minus|minustegn
+➗;division;division|divisionstegn
+🟰;;
+♾️;;
+‼️;dobbelt udråbstegn;dobbelt udråbstegn|tegnsætning|udråbstegn
+⁉️;udråbstegn og spørgsmålstegn;spørgsmål|tegn|tegnsætning|udråbstegn|udråbstegn og spørgsmålstegn
+❓;spørgsmålstegn;spørgsmål|spørgsmålstegn|tegn|tegnsætning
+❔;hvidt spørgsmålstegn;hvidt spørgsmålstegn|omrids|spørgsmål|tegn|tegnsætning
+❕;hvidt udråbstegn;fixed to avoid duplicate|hvidt udråbstegn
+❗;udråbstegn;tegnsætning|udråbstegn
+〰️;bølgestreg;bølgestreg|bølget|tegn|tegnsætning
+💱;valutaveksling;bank|penge|valuta|valutaveksling|veksling
+💲;dollartegn;dollartegn
+⚕️;medicinsymbol;æskulap|æskulapstav|lægekunst|lægevidenskab|medicin|medicinsymbol|slange|stav
+♻️;genbrug;genbrug|genbrugssymbol
+⚜️;fransk lilje;fleur-de-lis|fransk lilje|heraldik|heraldisk lilje|lilje
+🔱;trefork;trefork|trefork-symbol
+📛;navneskilt;navn|navneskilt|skilt
+🔰;grønt og gult blad;grønt og gult|grønt og gult blad
+⭕;stor kraftig cirkel;cirkel|o|stor kraftig cirkel
+✅;flueben;flueben|markering
+☑️;afkrydsningsfelt med flueben;afkrydsning|afkrydsningsfelt med flueben|flueben|markere|stemme
+✔️;stort flueben;flueben|stort flueben
+❌;kryds;annuller|gange|kryds|mærke|multiplicer|multiplikation|x
+❎;krydsknap;krydsknap|kvadrat|mærke|x
+➰;krølle;krølle|løkke|loop
+➿;dobbelt krølle;dobbelt|krølle|løkke|loop
+〽️;japansk kommatering;del|japansk|kommatering
+✳️;ottetakket spids stjerne;asterisk|ottetakket spids stjerne|stjerne
+✴️;ottetakket stjerne;ottetakket stjerne|stjerne
+❇️;funkle;funkle|funklen|glans|stråle
+©️;copyright;copyright|copyright-tegn|ophavsret
+®️;registreret varemærke;registreret|registreret varemærke
+™️;varemærke;varemærke
+#️⃣;;
+*️⃣;;
+0️⃣;;
+1️⃣;;
+2️⃣;;
+3️⃣;;
+4️⃣;;
+5️⃣;;
+6️⃣;;
+7️⃣;;
+8️⃣;;
+9️⃣;;
+🔟;;
+🔠;store bogstaver;store bogstaver|symbol for store bogstaver
+🔡;små bogstaver;små bogstaver|symbol for små bogstaver
+🔢;tal;symbol for tal|tal
+🔣;symboler;symbol for symboler|symboler
+🔤;latinske alfabet;latinske alfabet|symbol for latinske alfabet
+🅰️;blodtype A;A|blod|blodtype|type A
+🆎;blodtype AB;AB|blod|blodtype|type AB
+🅱️;blodtype B;B|blod|blodtype|type B
+🆑;ryd;CL-tegn|ryd|ryd-tegn
+🆒;cool;cool|cool-tegn
+🆓;gratis;gratis|gratis-tegn
+ℹ️;informationskilde;i|information|informationskilde|turistinformation
+🆔;id;id|id-tegn
+Ⓜ️;m i cirkel;cirkel|m|m i cirkel
+🆕;nyt;nyhed|nyt|nyt-tegn
+🆖;ikke godt;ikke godt|ikke godt-tegn|NG-tegn
+🅾️;blodtype O;blod|blodtype|O|type O
+🆗;OK;OK|OK-tegn
+🅿️;parkering;parkering|parkeringsplads
+🆘;SOS;hjælp|SOS|SOS-signal|SOS-tegn
+🆙;OP!;OP!|OP!-tegn|UP!-tegn
+🆚;versus;versus|versus-tegn|vs.|vs.-tegn
+🈁;kvadratisk katakana koko;japansk|kvadratisk katakana koko
+🈂️;kvadratisk katakana sa;japansk|kvadratisk katakana sa
+🈷️;kvadratisk ideogram for måne;japansk|kvadratisk ideogram for måne
+🈶;kvadratisk ideogram for eksistens;japansk|kvadratisk ideogram for eksistens
+🈯;kvadratisk ideogram for finger;japansk|kvadratisk ideogram for finger
+🉐;cirkulært ideogram for fordel;cirkulært ideogram for fordel|japansk
+🈹;kvadratisk ideogram for opdeling;japansk|kvadratisk ideogram for opdeling
+🈚;kvadratisk ideogram for forhandling;japansk|kvadratisk ideogram for forhandling
+🈲;kvadratisk ideogram for forbud;japansk|kvadratisk ideogram for forbud
+🉑;cirkulært ideogram for accept;cirkulært ideogram for accept|kinesisk
+🈸;kvadratisk ideogram for anvendelse;kinesisk|kvadratisk ideogram for anvendelse
+🈴;kvadratisk ideogram for sammen;kinesisk|kvadratisk ideogram for sammen
+🈳;kvadratisk ideogram for tom;kinesisk|kvadratisk ideogram for tom
+㊗️;cirkulært ideogram for lykønskning;cirkulært ideogram for lykønskning|ideogram|kinesisk|lykønskning|tillykke
+㊙️;cirkulært ideogram for hemmelighed;cirkulært ideogram for hemmelighed|hemmelighed|ideogram|kinesisk
+🈺;kvadratisk ideogram for drift;kinesisk|kvadratisk ideogram for drift
+🈵;kvadratisk ideogram for fuld;kinesisk|kvadratisk ideogram for fuld
+🔴;rød cirkel;cirkel|geometrisk|rød
+🟠;;
+🟡;;
+🟢;;
+🔵;blå cirkel;blå|cirkel|geometrisk
+🟣;;
+🟤;;
+⚫;sort cirkel;cirkel|geometrisk|sort cirkel
+⚪;hvid cirkel;cirkel|geometrisk|hvid cirkel
+🟥;;
+🟧;;
+🟨;;
+🟩;;
+🟦;;
+🟪;;
+🟫;;
+⬛;stort sort kvadrat;geometrisk|kvadrat|stort sort kvadrat
+⬜;stort hvidt kvadrat;geometrisk|kvadrat|stort hvidt kvadrat
+◼️;mellemstort sort kvadrat;geometrisk|kvadrat|mellemstort sort kvadrat
+◻️;mellemstort hvidt kvadrat;geometrisk|kvadrat|mellemstort hvidt kvadrat
+◾;halvlille sort kvadrat;geometrisk|halvlille sort kvadrat|kvadrat
+◽;halvlille hvidt kvadrat;geometrisk|halvlille hvidt kvadrat|kvadrat
+▪️;lille sort kvadrat;geometrisk|kvadrat|lille sort kvadrat
+▫️;lille hvidt kvadrat;geometrisk|kvadrat|lille hvidt kvadrat
+🔶;stor orange diamant;diamant|geometrisk|orange|stor orange diamant
+🔷;stor blå diamant;blå|diamant|geometrisk|stor blå diamant
+🔸;lille orange diamant;diamant|geometrisk|lille orange diamant|orange
+🔹;lille blå diamant;blå|diamant|geometrisk|lille blå diamant
+🔺;op-trekant;op|op-trekant|rød trekant|trekant
+🔻;ned-trekant;ned|ned-trekant|rød trekant|trekant
+💠;diamant med prik;diamant med prik|følelse
+🔘;knap;alternativknap|knap
+🔳;hvid kvadratisk knap;geometrisk|hvid kvadratisk knap|knap|kvadrat|omrids
+🔲;sort kvadratisk knap;geometrisk|knap|kvadrat|sort kvadratisk knap
+
+[flags]
+🏁;ternet flag;flag|motorsport|ternet flag
+🚩;flag;flag|trekantet rødt flag
+🎌;to flag;japanske flag|to flag
+🏴;sort flag;blafrende|sort flag
+🏳️;hvidt flag;blafrende|hvidt flag
+🏳️‍🌈;regnbueflag;flag|regnbue|regnbueflag
+🏳️‍⚧️;;
+🏴‍☠️;;
+🇦🇨;;
+🇦🇩;;
+🇦🇪;;
+🇦🇫;;
+🇦🇬;;
+🇦🇮;;
+🇦🇱;;
+🇦🇲;;
+🇦🇴;;
+🇦🇶;;
+🇦🇷;;
+🇦🇸;;
+🇦🇹;;
+🇦🇺;;
+🇦🇼;;
+🇦🇽;;
+🇦🇿;;
+🇧🇦;;
+🇧🇧;;
+🇧🇩;;
+🇧🇪;;
+🇧🇫;;
+🇧🇬;;
+🇧🇭;;
+🇧🇮;;
+🇧🇯;;
+🇧🇱;;
+🇧🇲;;
+🇧🇳;;
+🇧🇴;;
+🇧🇶;;
+🇧🇷;;
+🇧🇸;;
+🇧🇹;;
+🇧🇻;;
+🇧🇼;;
+🇧🇾;;
+🇧🇿;;
+🇨🇦;;
+🇨🇨;;
+🇨🇩;;
+🇨🇫;;
+🇨🇬;;
+🇨🇭;;
+🇨🇮;;
+🇨🇰;;
+🇨🇱;;
+🇨🇲;;
+🇨🇳;;
+🇨🇴;;
+🇨🇵;;
+🇨🇷;;
+🇨🇺;;
+🇨🇻;;
+🇨🇼;;
+🇨🇽;;
+🇨🇾;;
+🇨🇿;;
+🇩🇪;;
+🇩🇬;;
+🇩🇯;;
+🇩🇰;;
+🇩🇲;;
+🇩🇴;;
+🇩🇿;;
+🇪🇦;;
+🇪🇨;;
+🇪🇪;;
+🇪🇬;;
+🇪🇭;;
+🇪🇷;;
+🇪🇸;;
+🇪🇹;;
+🇪🇺;;
+🇫🇮;;
+🇫🇯;;
+🇫🇰;;
+🇫🇲;;
+🇫🇴;;
+🇫🇷;;
+🇬🇦;;
+🇬🇧;;
+🇬🇩;;
+🇬🇪;;
+🇬🇫;;
+🇬🇬;;
+🇬🇭;;
+🇬🇮;;
+🇬🇱;;
+🇬🇲;;
+🇬🇳;;
+🇬🇵;;
+🇬🇶;;
+🇬🇷;;
+🇬🇸;;
+🇬🇹;;
+🇬🇺;;
+🇬🇼;;
+🇬🇾;;
+🇭🇰;;
+🇭🇲;;
+🇭🇳;;
+🇭🇷;;
+🇭🇹;;
+🇭🇺;;
+🇮🇨;;
+🇮🇩;;
+🇮🇪;;
+🇮🇱;;
+🇮🇲;;
+🇮🇳;;
+🇮🇴;;
+🇮🇶;;
+🇮🇷;;
+🇮🇸;;
+🇮🇹;;
+🇯🇪;;
+🇯🇲;;
+🇯🇴;;
+🇯🇵;;
+🇰🇪;;
+🇰🇬;;
+🇰🇭;;
+🇰🇮;;
+🇰🇲;;
+🇰🇳;;
+🇰🇵;;
+🇰🇷;;
+🇰🇼;;
+🇰🇾;;
+🇰🇿;;
+🇱🇦;;
+🇱🇧;;
+🇱🇨;;
+🇱🇮;;
+🇱🇰;;
+🇱🇷;;
+🇱🇸;;
+🇱🇹;;
+🇱🇺;;
+🇱🇻;;
+🇱🇾;;
+🇲🇦;;
+🇲🇨;;
+🇲🇩;;
+🇲🇪;;
+🇲🇫;;
+🇲🇬;;
+🇲🇭;;
+🇲🇰;;
+🇲🇱;;
+🇲🇲;;
+🇲🇳;;
+🇲🇴;;
+🇲🇵;;
+🇲🇶;;
+🇲🇷;;
+🇲🇸;;
+🇲🇹;;
+🇲🇺;;
+🇲🇻;;
+🇲🇼;;
+🇲🇽;;
+🇲🇾;;
+🇲🇿;;
+🇳🇦;;
+🇳🇨;;
+🇳🇪;;
+🇳🇫;;
+🇳🇬;;
+🇳🇮;;
+🇳🇱;;
+🇳🇴;;
+🇳🇵;;
+🇳🇷;;
+🇳🇺;;
+🇳🇿;;
+🇴🇲;;
+🇵🇦;;
+🇵🇪;;
+🇵🇫;;
+🇵🇬;;
+🇵🇭;;
+🇵🇰;;
+🇵🇱;;
+🇵🇲;;
+🇵🇳;;
+🇵🇷;;
+🇵🇸;;
+🇵🇹;;
+🇵🇼;;
+🇵🇾;;
+🇶🇦;;
+🇷🇪;;
+🇷🇴;;
+🇷🇸;;
+🇷🇺;;
+🇷🇼;;
+🇸🇦;;
+🇸🇧;;
+🇸🇨;;
+🇸🇩;;
+🇸🇪;;
+🇸🇬;;
+🇸🇭;;
+🇸🇮;;
+🇸🇯;;
+🇸🇰;;
+🇸🇱;;
+🇸🇲;;
+🇸🇳;;
+🇸🇴;;
+🇸🇷;;
+🇸🇸;;
+🇸🇹;;
+🇸🇻;;
+🇸🇽;;
+🇸🇾;;
+🇸🇿;;
+🇹🇦;;
+🇹🇨;;
+🇹🇩;;
+🇹🇫;;
+🇹🇬;;
+🇹🇭;;
+🇹🇯;;
+🇹🇰;;
+🇹🇱;;
+🇹🇲;;
+🇹🇳;;
+🇹🇴;;
+🇹🇷;;
+🇹🇹;;
+🇹🇻;;
+🇹🇼;;
+🇹🇿;;
+🇺🇦;;
+🇺🇬;;
+🇺🇲;;
+🇺🇳;;
+🇺🇸;;
+🇺🇾;;
+🇺🇿;;
+🇻🇦;;
+🇻🇨;;
+🇻🇪;;
+🇻🇬;;
+🇻🇮;;
+🇻🇳;;
+🇻🇺;;
+🇼🇫;;
+🇼🇸;;
+🇽🇰;;
+🇾🇪;;
+🇾🇹;;
+🇿🇦;;
+🇿🇲;;
+🇿🇼;;
+🏴󠁧󠁢󠁥󠁮󠁧󠁿;;
+🏴󠁧󠁢󠁳󠁣󠁴󠁿;;
+🏴󠁧󠁢󠁷󠁬󠁳󠁿;;
+

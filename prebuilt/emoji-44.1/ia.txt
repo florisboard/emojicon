@@ -1,0 +1,3791 @@
+[smileys_emotion]
+😀;visage con grande surriso;facie|surridente|surriso|visage|visage con grande surriso
+😃;grande surriso con grande oculos;aperte|bucca|facie|grande surriso con grande oculos|surriso|visage
+😄;grande surriso con oculos surridente;aperte|facie|grande surriso con oculos surridente|oculos|surridente|visage
+😁;visage radiante con oculos surridente;facie|radiante|surridente|surriso|visage|visage radiante con oculos surridente
+😆;grande surriso con oculos clause;facie|grande surriso con oculos clause|satisfacite|satisfaction|surridente|visage
+😅;grande surriso con gutta de sudor;aperte|facie|frigide|grande surriso con gutta de sudor|sudor|visage
+🤣;rolante se per terra de rider;facie|lacrimas|ridente|riso|rolante se per terra de rider|visage
+😂;visage plorante de riso;facie|gaudio|joia|lacrimas|visage|visage plorante de riso
+🙂;;
+🙃;;
+🫠;;
+😉;visage que batte le palpebras;batter|facie|palpebras|visage|visage que batte le palpebras
+😊;surriso con oculos surridente;facie|rubescer|rubor|surridente|surriso con oculos surridente|visage
+😇;;
+🥰;;
+😍;surriso con oculos in forma de corde;corde|facie|oculo|surridente|surriso con oculos in forma de corde|visage
+🤩;;
+😘;;
+😗;;
+☺️;;
+😚;;
+😙;;
+🥲;;
+😋;visage que sapora un bon repasto;alimento|deliciose|facie|mangiar|visage|visage que sapora un bon repasto
+😛;;
+😜;;
+🤪;;
+😝;;
+🤑;;
+🤗;;
+🤭;;
+🫢;;
+🫣;;
+🤫;;
+🤔;;
+🫡;;
+🤐;;
+🤨;;
+😐;;
+😑;;
+😶;;
+🫥;;
+😶‍🌫️;;
+😏;;
+😒;;
+🙄;;
+😬;;
+😮‍💨;;
+🤥;;
+🫨;;
+🙂‍↔️;;
+🙂‍↕️;;
+😌;;
+😔;;
+😪;;
+🤤;;
+😴;;
+😷;;
+🤒;;
+🤕;;
+🤢;;
+🤮;;
+🤧;;
+🥵;;
+🥶;;
+🥴;;
+😵;;
+😵‍💫;;
+🤯;;
+🤠;;
+🥳;;
+🥸;;
+😎;surriso con oculares de sol;berillos|facie|sol|surriso|surriso con oculares de sol|visage
+🤓;;
+🧐;;
+😕;;
+🫤;;
+😟;;
+🙁;;
+☹️;;
+😮;;
+😯;;
+😲;;
+😳;;
+🥺;;
+🥹;;
+😦;;
+😧;;
+😨;;
+😰;;
+😥;;
+😢;;
+😭;;
+😱;;
+😖;;
+😣;;
+😞;;
+😓;;
+😩;;
+😫;;
+🥱;;
+😤;;
+😡;;
+😠;;
+🤬;;
+😈;;
+👿;;
+💀;;
+☠️;;
+💩;;
+🤡;;
+👹;;
+👺;;
+👻;;
+👽;;
+👾;;
+🤖;;
+😺;;
+😸;;
+😹;;
+😻;;
+😼;;
+😽;;
+🙀;;
+😿;;
+😾;;
+🙈;;
+🙉;;
+🙊;;
+💌;;
+💘;;
+💝;;
+💖;;
+💗;;
+💓;;
+💞;;
+💕;;
+💟;;
+❣️;;
+💔;;
+❤️‍🔥;;
+❤️‍🩹;;
+❤️;;
+🩷;;
+🧡;;
+💛;;
+💚;;
+💙;;
+🩵;;
+💜;;
+🤎;;
+🖤;;
+🩶;;
+🤍;;
+💋;;
+💯;;
+💢;;
+💥;;
+💫;;
+💦;;
+💨;;
+🕳️;;
+💬;;
+👁️‍🗨️;;
+🗨️;;
+🗯️;;
+💭;;
+💤;;
+
+[people_body]
+👋;;
+	👋🏻;;
+	👋🏼;;
+	👋🏽;;
+	👋🏾;;
+	👋🏿;;
+🤚;;
+	🤚🏻;;
+	🤚🏼;;
+	🤚🏽;;
+	🤚🏾;;
+	🤚🏿;;
+🖐️;;
+	🖐🏻;;
+	🖐🏼;;
+	🖐🏽;;
+	🖐🏾;;
+	🖐🏿;;
+✋;;
+	✋🏻;;
+	✋🏼;;
+	✋🏽;;
+	✋🏾;;
+	✋🏿;;
+🖖;;
+	🖖🏻;;
+	🖖🏼;;
+	🖖🏽;;
+	🖖🏾;;
+	🖖🏿;;
+🫱;;
+	🫱🏻;;
+	🫱🏼;;
+	🫱🏽;;
+	🫱🏾;;
+	🫱🏿;;
+🫲;;
+	🫲🏻;;
+	🫲🏼;;
+	🫲🏽;;
+	🫲🏾;;
+	🫲🏿;;
+🫳;;
+	🫳🏻;;
+	🫳🏼;;
+	🫳🏽;;
+	🫳🏾;;
+	🫳🏿;;
+🫴;;
+	🫴🏻;;
+	🫴🏼;;
+	🫴🏽;;
+	🫴🏾;;
+	🫴🏿;;
+🫷;;
+	🫷🏻;;
+	🫷🏼;;
+	🫷🏽;;
+	🫷🏾;;
+	🫷🏿;;
+🫸;;
+	🫸🏻;;
+	🫸🏼;;
+	🫸🏽;;
+	🫸🏾;;
+	🫸🏿;;
+👌;;
+	👌🏻;;
+	👌🏼;;
+	👌🏽;;
+	👌🏾;;
+	👌🏿;;
+🤌;;
+	🤌🏻;;
+	🤌🏼;;
+	🤌🏽;;
+	🤌🏾;;
+	🤌🏿;;
+🤏;;
+	🤏🏻;;
+	🤏🏼;;
+	🤏🏽;;
+	🤏🏾;;
+	🤏🏿;;
+✌️;;
+	✌🏻;;
+	✌🏼;;
+	✌🏽;;
+	✌🏾;;
+	✌🏿;;
+🤞;;
+	🤞🏻;;
+	🤞🏼;;
+	🤞🏽;;
+	🤞🏾;;
+	🤞🏿;;
+🫰;;
+	🫰🏻;;
+	🫰🏼;;
+	🫰🏽;;
+	🫰🏾;;
+	🫰🏿;;
+🤟;;
+	🤟🏻;;
+	🤟🏼;;
+	🤟🏽;;
+	🤟🏾;;
+	🤟🏿;;
+🤘;;
+	🤘🏻;;
+	🤘🏼;;
+	🤘🏽;;
+	🤘🏾;;
+	🤘🏿;;
+🤙;;
+	🤙🏻;;
+	🤙🏼;;
+	🤙🏽;;
+	🤙🏾;;
+	🤙🏿;;
+👈;;
+	👈🏻;;
+	👈🏼;;
+	👈🏽;;
+	👈🏾;;
+	👈🏿;;
+👉;;
+	👉🏻;;
+	👉🏼;;
+	👉🏽;;
+	👉🏾;;
+	👉🏿;;
+👆;;
+	👆🏻;;
+	👆🏼;;
+	👆🏽;;
+	👆🏾;;
+	👆🏿;;
+🖕;;
+	🖕🏻;;
+	🖕🏼;;
+	🖕🏽;;
+	🖕🏾;;
+	🖕🏿;;
+👇;;
+	👇🏻;;
+	👇🏼;;
+	👇🏽;;
+	👇🏾;;
+	👇🏿;;
+☝️;;
+	☝🏻;;
+	☝🏼;;
+	☝🏽;;
+	☝🏾;;
+	☝🏿;;
+🫵;;
+	🫵🏻;;
+	🫵🏼;;
+	🫵🏽;;
+	🫵🏾;;
+	🫵🏿;;
+👍;;
+	👍🏻;;
+	👍🏼;;
+	👍🏽;;
+	👍🏾;;
+	👍🏿;;
+👎;;
+	👎🏻;;
+	👎🏼;;
+	👎🏽;;
+	👎🏾;;
+	👎🏿;;
+✊;;
+	✊🏻;;
+	✊🏼;;
+	✊🏽;;
+	✊🏾;;
+	✊🏿;;
+👊;;
+	👊🏻;;
+	👊🏼;;
+	👊🏽;;
+	👊🏾;;
+	👊🏿;;
+🤛;;
+	🤛🏻;;
+	🤛🏼;;
+	🤛🏽;;
+	🤛🏾;;
+	🤛🏿;;
+🤜;;
+	🤜🏻;;
+	🤜🏼;;
+	🤜🏽;;
+	🤜🏾;;
+	🤜🏿;;
+👏;;
+	👏🏻;;
+	👏🏼;;
+	👏🏽;;
+	👏🏾;;
+	👏🏿;;
+🙌;;
+	🙌🏻;;
+	🙌🏼;;
+	🙌🏽;;
+	🙌🏾;;
+	🙌🏿;;
+🫶;;
+	🫶🏻;;
+	🫶🏼;;
+	🫶🏽;;
+	🫶🏾;;
+	🫶🏿;;
+👐;;
+	👐🏻;;
+	👐🏼;;
+	👐🏽;;
+	👐🏾;;
+	👐🏿;;
+🤲;;
+	🤲🏻;;
+	🤲🏼;;
+	🤲🏽;;
+	🤲🏾;;
+	🤲🏿;;
+🤝;;
+	🤝🏻;;
+	🤝🏼;;
+	🤝🏽;;
+	🤝🏾;;
+	🤝🏿;;
+	🫱🏻‍🫲🏼;;
+	🫱🏻‍🫲🏽;;
+	🫱🏻‍🫲🏾;;
+	🫱🏻‍🫲🏿;;
+	🫱🏼‍🫲🏻;;
+	🫱🏼‍🫲🏽;;
+	🫱🏼‍🫲🏾;;
+	🫱🏼‍🫲🏿;;
+	🫱🏽‍🫲🏻;;
+	🫱🏽‍🫲🏼;;
+	🫱🏽‍🫲🏾;;
+	🫱🏽‍🫲🏿;;
+	🫱🏾‍🫲🏻;;
+	🫱🏾‍🫲🏼;;
+	🫱🏾‍🫲🏽;;
+	🫱🏾‍🫲🏿;;
+	🫱🏿‍🫲🏻;;
+	🫱🏿‍🫲🏼;;
+	🫱🏿‍🫲🏽;;
+	🫱🏿‍🫲🏾;;
+🙏;;
+	🙏🏻;;
+	🙏🏼;;
+	🙏🏽;;
+	🙏🏾;;
+	🙏🏿;;
+✍️;;
+	✍🏻;;
+	✍🏼;;
+	✍🏽;;
+	✍🏾;;
+	✍🏿;;
+💅;;
+	💅🏻;;
+	💅🏼;;
+	💅🏽;;
+	💅🏾;;
+	💅🏿;;
+🤳;;
+	🤳🏻;;
+	🤳🏼;;
+	🤳🏽;;
+	🤳🏾;;
+	🤳🏿;;
+💪;biceps flectite;biceps|biceps contrahite|biceps flectite|flexion|forte|musculo
+	💪🏻;biceps flectite: tono de pelle clar;biceps|biceps contrahite|biceps flectite|biceps flectite: tono de pelle clar|flexion|forte|musculo|tono de pelle clar
+	💪🏼;biceps flectite: tono de pelle medio clar;biceps|biceps contrahite|biceps flectite|biceps flectite: tono de pelle medio clar|flexion|forte|musculo|tono de pelle medio clar
+	💪🏽;biceps flectite: tono de pelle medie;biceps|biceps contrahite|biceps flectite|biceps flectite: tono de pelle medie|flexion|forte|musculo|tono de pelle medie
+	💪🏾;biceps flectite: tono de pelle medio-obscur;biceps|biceps contrahite|biceps flectite|biceps flectite: tono de pelle medio-obscur|flexion|forte|musculo|tono de pelle medio-obscur
+	💪🏿;biceps flectite: tono de pelle obscur;biceps|biceps contrahite|biceps flectite|biceps flectite: tono de pelle obscur|flexion|forte|musculo|tono de pelle obscur
+🦾;bracio mechanic;accessibilitate|bracio mechanic|prothese|prothesis
+🦿;gamba mechanic;accessibilitate|gamba mechanic|prothese|prothesis
+🦵;gamba;colpo de pede|gamba|membro
+	🦵🏻;gamba: tono de pelle clar;colpo de pede|gamba|gamba: tono de pelle clar|membro|tono de pelle clar
+	🦵🏼;gamba: tono de pelle medio clar;colpo de pede|gamba|gamba: tono de pelle medio clar|membro|tono de pelle medio clar
+	🦵🏽;gamba: tono de pelle medie;colpo de pede|gamba|gamba: tono de pelle medie|membro|tono de pelle medie
+	🦵🏾;gamba: tono de pelle medio-obscur;colpo de pede|gamba|gamba: tono de pelle medio-obscur|membro|tono de pelle medio-obscur
+	🦵🏿;gamba: tono de pelle obscur;colpo de pede|gamba|gamba: tono de pelle obscur|membro|tono de pelle obscur
+🦶;pede;colpo de pede|pede
+	🦶🏻;pede: tono de pelle clar;colpo de pede|pede|pede: tono de pelle clar|tono de pelle clar
+	🦶🏼;pede: tono de pelle medio clar;colpo de pede|pede|pede: tono de pelle medio clar|tono de pelle medio clar
+	🦶🏽;pede: tono de pelle medie;colpo de pede|pede|pede: tono de pelle medie|tono de pelle medie
+	🦶🏾;pede: tono de pelle medio-obscur;colpo de pede|pede|pede: tono de pelle medio-obscur|tono de pelle medio-obscur
+	🦶🏿;pede: tono de pelle obscur;colpo de pede|pede|pede: tono de pelle obscur|tono de pelle obscur
+👂;aure;audientia|audita|audition|aural|aure|auricular|corpore
+	👂🏻;aure: tono de pelle clar;audientia|audita|audition|aural|aure|aure: tono de pelle clar|auricular|corpore|tono de pelle clar
+	👂🏼;aure: tono de pelle medio clar;audientia|audita|audition|aural|aure|aure: tono de pelle medio clar|auricular|corpore|tono de pelle medio clar
+	👂🏽;aure: tono de pelle medie;audientia|audita|audition|aural|aure|aure: tono de pelle medie|auricular|corpore|tono de pelle medie
+	👂🏾;aure: tono de pelle medio-obscur;audientia|audita|audition|aural|aure|aure: tono de pelle medio-obscur|auricular|corpore|tono de pelle medio-obscur
+	👂🏿;aure: tono de pelle obscur;audientia|audita|audition|aural|aure|aure: tono de pelle obscur|auricular|corpore|tono de pelle obscur
+🦻;aure con audiophono;accessibilitate|aure con audiophono|debile de audito|dur de aure
+	🦻🏻;aure con audiophono: tono de pelle clar;accessibilitate|aure con audiophono|aure con audiophono: tono de pelle clar|debile de audito|dur de aure|tono de pelle clar
+	🦻🏼;aure con audiophono: tono de pelle medio clar;accessibilitate|aure con audiophono|aure con audiophono: tono de pelle medio clar|debile de audito|dur de aure|tono de pelle medio clar
+	🦻🏽;aure con audiophono: tono de pelle medie;accessibilitate|aure con audiophono|aure con audiophono: tono de pelle medie|debile de audito|dur de aure|tono de pelle medie
+	🦻🏾;aure con audiophono: tono de pelle medio-obscur;accessibilitate|aure con audiophono|aure con audiophono: tono de pelle medio-obscur|debile de audito|dur de aure|tono de pelle medio-obscur
+	🦻🏿;aure con audiophono: tono de pelle obscur;accessibilitate|aure con audiophono|aure con audiophono: tono de pelle obscur|debile de audito|dur de aure|tono de pelle obscur
+👃;naso;corpore|naso
+	👃🏻;naso: tono de pelle clar;corpore|naso|naso: tono de pelle clar|tono de pelle clar
+	👃🏼;naso: tono de pelle medio clar;corpore|naso|naso: tono de pelle medio clar|tono de pelle medio clar
+	👃🏽;naso: tono de pelle medie;corpore|naso|naso: tono de pelle medie|tono de pelle medie
+	👃🏾;naso: tono de pelle medio-obscur;corpore|naso|naso: tono de pelle medio-obscur|tono de pelle medio-obscur
+	👃🏿;naso: tono de pelle obscur;corpore|naso|naso: tono de pelle obscur|tono de pelle obscur
+🧠;cerebro;cerebro|intelligente
+🫀;corde;battimento del corde|centro|corde|organo|pulsation|rhythmo cardiac|rhythmo del corde
+🫁;pulmones;exhalation|halito|inhalation|organo|pulmones|respiration|sufflo
+🦷;dente;dental|dentari|dente|dentista|odontologia|orthodontista
+🦴;osso;osso|osteologia|skeleto
+👀;oculos;facie|ocular|oculo|oculos|ophthalmologia|vision|visual
+👁️;oculo;corpore|ocular|oculo|ophthalmologia|vision|visual
+👅;lingua;corpore|lingua|lingual
+👄;bucca;bucca|labial|labios|oral|ore
+🫦;;
+👶;;
+	👶🏻;;
+	👶🏼;;
+	👶🏽;;
+	👶🏾;;
+	👶🏿;;
+🧒;;
+	🧒🏻;;
+	🧒🏼;;
+	🧒🏽;;
+	🧒🏾;;
+	🧒🏿;;
+👦;;
+	👦🏻;;
+	👦🏼;;
+	👦🏽;;
+	👦🏾;;
+	👦🏿;;
+👧;;
+	👧🏻;;
+	👧🏼;;
+	👧🏽;;
+	👧🏾;;
+	👧🏿;;
+🧑;;
+	🧑🏻;;
+	🧑🏼;;
+	🧑🏽;;
+	🧑🏾;;
+	🧑🏿;;
+👱;;
+	👱🏻;;
+	👱🏼;;
+	👱🏽;;
+	👱🏾;;
+	👱🏿;;
+👨;;
+	👨🏻;;
+	👨🏼;;
+	👨🏽;;
+	👨🏾;;
+	👨🏿;;
+🧔;;
+	🧔🏻;;
+	🧔🏼;;
+	🧔🏽;;
+	🧔🏾;;
+	🧔🏿;;
+🧔‍♂️;;
+	🧔🏻‍♂️;;
+	🧔🏼‍♂️;;
+	🧔🏽‍♂️;;
+	🧔🏾‍♂️;;
+	🧔🏿‍♂️;;
+🧔‍♀️;;
+	🧔🏻‍♀️;;
+	🧔🏼‍♀️;;
+	🧔🏽‍♀️;;
+	🧔🏾‍♀️;;
+	🧔🏿‍♀️;;
+👨‍🦰;;
+	👨🏻‍🦰;;
+	👨🏼‍🦰;;
+	👨🏽‍🦰;;
+	👨🏾‍🦰;;
+	👨🏿‍🦰;;
+👨‍🦱;;
+	👨🏻‍🦱;;
+	👨🏼‍🦱;;
+	👨🏽‍🦱;;
+	👨🏾‍🦱;;
+	👨🏿‍🦱;;
+👨‍🦳;;
+	👨🏻‍🦳;;
+	👨🏼‍🦳;;
+	👨🏽‍🦳;;
+	👨🏾‍🦳;;
+	👨🏿‍🦳;;
+👨‍🦲;;
+	👨🏻‍🦲;;
+	👨🏼‍🦲;;
+	👨🏽‍🦲;;
+	👨🏾‍🦲;;
+	👨🏿‍🦲;;
+👩;;
+	👩🏻;;
+	👩🏼;;
+	👩🏽;;
+	👩🏾;;
+	👩🏿;;
+👩‍🦰;;
+	👩🏻‍🦰;;
+	👩🏼‍🦰;;
+	👩🏽‍🦰;;
+	👩🏾‍🦰;;
+	👩🏿‍🦰;;
+🧑‍🦰;;
+	🧑🏻‍🦰;;
+	🧑🏼‍🦰;;
+	🧑🏽‍🦰;;
+	🧑🏾‍🦰;;
+	🧑🏿‍🦰;;
+👩‍🦱;;
+	👩🏻‍🦱;;
+	👩🏼‍🦱;;
+	👩🏽‍🦱;;
+	👩🏾‍🦱;;
+	👩🏿‍🦱;;
+🧑‍🦱;;
+	🧑🏻‍🦱;;
+	🧑🏼‍🦱;;
+	🧑🏽‍🦱;;
+	🧑🏾‍🦱;;
+	🧑🏿‍🦱;;
+👩‍🦳;;
+	👩🏻‍🦳;;
+	👩🏼‍🦳;;
+	👩🏽‍🦳;;
+	👩🏾‍🦳;;
+	👩🏿‍🦳;;
+🧑‍🦳;;
+	🧑🏻‍🦳;;
+	🧑🏼‍🦳;;
+	🧑🏽‍🦳;;
+	🧑🏾‍🦳;;
+	🧑🏿‍🦳;;
+👩‍🦲;;
+	👩🏻‍🦲;;
+	👩🏼‍🦲;;
+	👩🏽‍🦲;;
+	👩🏾‍🦲;;
+	👩🏿‍🦲;;
+🧑‍🦲;;
+	🧑🏻‍🦲;;
+	🧑🏼‍🦲;;
+	🧑🏽‍🦲;;
+	🧑🏾‍🦲;;
+	🧑🏿‍🦲;;
+👱‍♀️;;
+	👱🏻‍♀️;;
+	👱🏼‍♀️;;
+	👱🏽‍♀️;;
+	👱🏾‍♀️;;
+	👱🏿‍♀️;;
+👱‍♂️;;
+	👱🏻‍♂️;;
+	👱🏼‍♂️;;
+	👱🏽‍♂️;;
+	👱🏾‍♂️;;
+	👱🏿‍♂️;;
+🧓;;
+	🧓🏻;;
+	🧓🏼;;
+	🧓🏽;;
+	🧓🏾;;
+	🧓🏿;;
+👴;;
+	👴🏻;;
+	👴🏼;;
+	👴🏽;;
+	👴🏾;;
+	👴🏿;;
+👵;;
+	👵🏻;;
+	👵🏼;;
+	👵🏽;;
+	👵🏾;;
+	👵🏿;;
+🙍;;
+	🙍🏻;;
+	🙍🏼;;
+	🙍🏽;;
+	🙍🏾;;
+	🙍🏿;;
+🙍‍♂️;;
+	🙍🏻‍♂️;;
+	🙍🏼‍♂️;;
+	🙍🏽‍♂️;;
+	🙍🏾‍♂️;;
+	🙍🏿‍♂️;;
+🙍‍♀️;;
+	🙍🏻‍♀️;;
+	🙍🏼‍♀️;;
+	🙍🏽‍♀️;;
+	🙍🏾‍♀️;;
+	🙍🏿‍♀️;;
+🙎;;
+	🙎🏻;;
+	🙎🏼;;
+	🙎🏽;;
+	🙎🏾;;
+	🙎🏿;;
+🙎‍♂️;;
+	🙎🏻‍♂️;;
+	🙎🏼‍♂️;;
+	🙎🏽‍♂️;;
+	🙎🏾‍♂️;;
+	🙎🏿‍♂️;;
+🙎‍♀️;;
+	🙎🏻‍♀️;;
+	🙎🏼‍♀️;;
+	🙎🏽‍♀️;;
+	🙎🏾‍♀️;;
+	🙎🏿‍♀️;;
+🙅;;
+	🙅🏻;;
+	🙅🏼;;
+	🙅🏽;;
+	🙅🏾;;
+	🙅🏿;;
+🙅‍♂️;;
+	🙅🏻‍♂️;;
+	🙅🏼‍♂️;;
+	🙅🏽‍♂️;;
+	🙅🏾‍♂️;;
+	🙅🏿‍♂️;;
+🙅‍♀️;;
+	🙅🏻‍♀️;;
+	🙅🏼‍♀️;;
+	🙅🏽‍♀️;;
+	🙅🏾‍♀️;;
+	🙅🏿‍♀️;;
+🙆;;
+	🙆🏻;;
+	🙆🏼;;
+	🙆🏽;;
+	🙆🏾;;
+	🙆🏿;;
+🙆‍♂️;;
+	🙆🏻‍♂️;;
+	🙆🏼‍♂️;;
+	🙆🏽‍♂️;;
+	🙆🏾‍♂️;;
+	🙆🏿‍♂️;;
+🙆‍♀️;;
+	🙆🏻‍♀️;;
+	🙆🏼‍♀️;;
+	🙆🏽‍♀️;;
+	🙆🏾‍♀️;;
+	🙆🏿‍♀️;;
+💁;;
+	💁🏻;;
+	💁🏼;;
+	💁🏽;;
+	💁🏾;;
+	💁🏿;;
+💁‍♂️;;
+	💁🏻‍♂️;;
+	💁🏼‍♂️;;
+	💁🏽‍♂️;;
+	💁🏾‍♂️;;
+	💁🏿‍♂️;;
+💁‍♀️;;
+	💁🏻‍♀️;;
+	💁🏼‍♀️;;
+	💁🏽‍♀️;;
+	💁🏾‍♀️;;
+	💁🏿‍♀️;;
+🙋;;
+	🙋🏻;;
+	🙋🏼;;
+	🙋🏽;;
+	🙋🏾;;
+	🙋🏿;;
+🙋‍♂️;;
+	🙋🏻‍♂️;;
+	🙋🏼‍♂️;;
+	🙋🏽‍♂️;;
+	🙋🏾‍♂️;;
+	🙋🏿‍♂️;;
+🙋‍♀️;;
+	🙋🏻‍♀️;;
+	🙋🏼‍♀️;;
+	🙋🏽‍♀️;;
+	🙋🏾‍♀️;;
+	🙋🏿‍♀️;;
+🧏;;
+	🧏🏻;;
+	🧏🏼;;
+	🧏🏽;;
+	🧏🏾;;
+	🧏🏿;;
+🧏‍♂️;;
+	🧏🏻‍♂️;;
+	🧏🏼‍♂️;;
+	🧏🏽‍♂️;;
+	🧏🏾‍♂️;;
+	🧏🏿‍♂️;;
+🧏‍♀️;;
+	🧏🏻‍♀️;;
+	🧏🏼‍♀️;;
+	🧏🏽‍♀️;;
+	🧏🏾‍♀️;;
+	🧏🏿‍♀️;;
+🙇;;
+	🙇🏻;;
+	🙇🏼;;
+	🙇🏽;;
+	🙇🏾;;
+	🙇🏿;;
+🙇‍♂️;;
+	🙇🏻‍♂️;;
+	🙇🏼‍♂️;;
+	🙇🏽‍♂️;;
+	🙇🏾‍♂️;;
+	🙇🏿‍♂️;;
+🙇‍♀️;;
+	🙇🏻‍♀️;;
+	🙇🏼‍♀️;;
+	🙇🏽‍♀️;;
+	🙇🏾‍♀️;;
+	🙇🏿‍♀️;;
+🤦;;
+	🤦🏻;;
+	🤦🏼;;
+	🤦🏽;;
+	🤦🏾;;
+	🤦🏿;;
+🤦‍♂️;;
+	🤦🏻‍♂️;;
+	🤦🏼‍♂️;;
+	🤦🏽‍♂️;;
+	🤦🏾‍♂️;;
+	🤦🏿‍♂️;;
+🤦‍♀️;;
+	🤦🏻‍♀️;;
+	🤦🏼‍♀️;;
+	🤦🏽‍♀️;;
+	🤦🏾‍♀️;;
+	🤦🏿‍♀️;;
+🤷;;
+	🤷🏻;;
+	🤷🏼;;
+	🤷🏽;;
+	🤷🏾;;
+	🤷🏿;;
+🤷‍♂️;;
+	🤷🏻‍♂️;;
+	🤷🏼‍♂️;;
+	🤷🏽‍♂️;;
+	🤷🏾‍♂️;;
+	🤷🏿‍♂️;;
+🤷‍♀️;;
+	🤷🏻‍♀️;;
+	🤷🏼‍♀️;;
+	🤷🏽‍♀️;;
+	🤷🏾‍♀️;;
+	🤷🏿‍♀️;;
+🧑‍⚕️;;
+	🧑🏻‍⚕️;;
+	🧑🏼‍⚕️;;
+	🧑🏽‍⚕️;;
+	🧑🏾‍⚕️;;
+	🧑🏿‍⚕️;;
+👨‍⚕️;;
+	👨🏻‍⚕️;;
+	👨🏼‍⚕️;;
+	👨🏽‍⚕️;;
+	👨🏾‍⚕️;;
+	👨🏿‍⚕️;;
+👩‍⚕️;;
+	👩🏻‍⚕️;;
+	👩🏼‍⚕️;;
+	👩🏽‍⚕️;;
+	👩🏾‍⚕️;;
+	👩🏿‍⚕️;;
+🧑‍🎓;;
+	🧑🏻‍🎓;;
+	🧑🏼‍🎓;;
+	🧑🏽‍🎓;;
+	🧑🏾‍🎓;;
+	🧑🏿‍🎓;;
+👨‍🎓;;
+	👨🏻‍🎓;;
+	👨🏼‍🎓;;
+	👨🏽‍🎓;;
+	👨🏾‍🎓;;
+	👨🏿‍🎓;;
+👩‍🎓;;
+	👩🏻‍🎓;;
+	👩🏼‍🎓;;
+	👩🏽‍🎓;;
+	👩🏾‍🎓;;
+	👩🏿‍🎓;;
+🧑‍🏫;;
+	🧑🏻‍🏫;;
+	🧑🏼‍🏫;;
+	🧑🏽‍🏫;;
+	🧑🏾‍🏫;;
+	🧑🏿‍🏫;;
+👨‍🏫;;
+	👨🏻‍🏫;;
+	👨🏼‍🏫;;
+	👨🏽‍🏫;;
+	👨🏾‍🏫;;
+	👨🏿‍🏫;;
+👩‍🏫;;
+	👩🏻‍🏫;;
+	👩🏼‍🏫;;
+	👩🏽‍🏫;;
+	👩🏾‍🏫;;
+	👩🏿‍🏫;;
+🧑‍⚖️;;
+	🧑🏻‍⚖️;;
+	🧑🏼‍⚖️;;
+	🧑🏽‍⚖️;;
+	🧑🏾‍⚖️;;
+	🧑🏿‍⚖️;;
+👨‍⚖️;;
+	👨🏻‍⚖️;;
+	👨🏼‍⚖️;;
+	👨🏽‍⚖️;;
+	👨🏾‍⚖️;;
+	👨🏿‍⚖️;;
+👩‍⚖️;;
+	👩🏻‍⚖️;;
+	👩🏼‍⚖️;;
+	👩🏽‍⚖️;;
+	👩🏾‍⚖️;;
+	👩🏿‍⚖️;;
+🧑‍🌾;;
+	🧑🏻‍🌾;;
+	🧑🏼‍🌾;;
+	🧑🏽‍🌾;;
+	🧑🏾‍🌾;;
+	🧑🏿‍🌾;;
+👨‍🌾;;
+	👨🏻‍🌾;;
+	👨🏼‍🌾;;
+	👨🏽‍🌾;;
+	👨🏾‍🌾;;
+	👨🏿‍🌾;;
+👩‍🌾;;
+	👩🏻‍🌾;;
+	👩🏼‍🌾;;
+	👩🏽‍🌾;;
+	👩🏾‍🌾;;
+	👩🏿‍🌾;;
+🧑‍🍳;;
+	🧑🏻‍🍳;;
+	🧑🏼‍🍳;;
+	🧑🏽‍🍳;;
+	🧑🏾‍🍳;;
+	🧑🏿‍🍳;;
+👨‍🍳;;
+	👨🏻‍🍳;;
+	👨🏼‍🍳;;
+	👨🏽‍🍳;;
+	👨🏾‍🍳;;
+	👨🏿‍🍳;;
+👩‍🍳;;
+	👩🏻‍🍳;;
+	👩🏼‍🍳;;
+	👩🏽‍🍳;;
+	👩🏾‍🍳;;
+	👩🏿‍🍳;;
+🧑‍🔧;;
+	🧑🏻‍🔧;;
+	🧑🏼‍🔧;;
+	🧑🏽‍🔧;;
+	🧑🏾‍🔧;;
+	🧑🏿‍🔧;;
+👨‍🔧;;
+	👨🏻‍🔧;;
+	👨🏼‍🔧;;
+	👨🏽‍🔧;;
+	👨🏾‍🔧;;
+	👨🏿‍🔧;;
+👩‍🔧;;
+	👩🏻‍🔧;;
+	👩🏼‍🔧;;
+	👩🏽‍🔧;;
+	👩🏾‍🔧;;
+	👩🏿‍🔧;;
+🧑‍🏭;;
+	🧑🏻‍🏭;;
+	🧑🏼‍🏭;;
+	🧑🏽‍🏭;;
+	🧑🏾‍🏭;;
+	🧑🏿‍🏭;;
+👨‍🏭;;
+	👨🏻‍🏭;;
+	👨🏼‍🏭;;
+	👨🏽‍🏭;;
+	👨🏾‍🏭;;
+	👨🏿‍🏭;;
+👩‍🏭;;
+	👩🏻‍🏭;;
+	👩🏼‍🏭;;
+	👩🏽‍🏭;;
+	👩🏾‍🏭;;
+	👩🏿‍🏭;;
+🧑‍💼;;
+	🧑🏻‍💼;;
+	🧑🏼‍💼;;
+	🧑🏽‍💼;;
+	🧑🏾‍💼;;
+	🧑🏿‍💼;;
+👨‍💼;;
+	👨🏻‍💼;;
+	👨🏼‍💼;;
+	👨🏽‍💼;;
+	👨🏾‍💼;;
+	👨🏿‍💼;;
+👩‍💼;;
+	👩🏻‍💼;;
+	👩🏼‍💼;;
+	👩🏽‍💼;;
+	👩🏾‍💼;;
+	👩🏿‍💼;;
+🧑‍🔬;;
+	🧑🏻‍🔬;;
+	🧑🏼‍🔬;;
+	🧑🏽‍🔬;;
+	🧑🏾‍🔬;;
+	🧑🏿‍🔬;;
+👨‍🔬;;
+	👨🏻‍🔬;;
+	👨🏼‍🔬;;
+	👨🏽‍🔬;;
+	👨🏾‍🔬;;
+	👨🏿‍🔬;;
+👩‍🔬;;
+	👩🏻‍🔬;;
+	👩🏼‍🔬;;
+	👩🏽‍🔬;;
+	👩🏾‍🔬;;
+	👩🏿‍🔬;;
+🧑‍💻;;
+	🧑🏻‍💻;;
+	🧑🏼‍💻;;
+	🧑🏽‍💻;;
+	🧑🏾‍💻;;
+	🧑🏿‍💻;;
+👨‍💻;;
+	👨🏻‍💻;;
+	👨🏼‍💻;;
+	👨🏽‍💻;;
+	👨🏾‍💻;;
+	👨🏿‍💻;;
+👩‍💻;;
+	👩🏻‍💻;;
+	👩🏼‍💻;;
+	👩🏽‍💻;;
+	👩🏾‍💻;;
+	👩🏿‍💻;;
+🧑‍🎤;;
+	🧑🏻‍🎤;;
+	🧑🏼‍🎤;;
+	🧑🏽‍🎤;;
+	🧑🏾‍🎤;;
+	🧑🏿‍🎤;;
+👨‍🎤;;
+	👨🏻‍🎤;;
+	👨🏼‍🎤;;
+	👨🏽‍🎤;;
+	👨🏾‍🎤;;
+	👨🏿‍🎤;;
+👩‍🎤;;
+	👩🏻‍🎤;;
+	👩🏼‍🎤;;
+	👩🏽‍🎤;;
+	👩🏾‍🎤;;
+	👩🏿‍🎤;;
+🧑‍🎨;;
+	🧑🏻‍🎨;;
+	🧑🏼‍🎨;;
+	🧑🏽‍🎨;;
+	🧑🏾‍🎨;;
+	🧑🏿‍🎨;;
+👨‍🎨;;
+	👨🏻‍🎨;;
+	👨🏼‍🎨;;
+	👨🏽‍🎨;;
+	👨🏾‍🎨;;
+	👨🏿‍🎨;;
+👩‍🎨;;
+	👩🏻‍🎨;;
+	👩🏼‍🎨;;
+	👩🏽‍🎨;;
+	👩🏾‍🎨;;
+	👩🏿‍🎨;;
+🧑‍✈️;;
+	🧑🏻‍✈️;;
+	🧑🏼‍✈️;;
+	🧑🏽‍✈️;;
+	🧑🏾‍✈️;;
+	🧑🏿‍✈️;;
+👨‍✈️;;
+	👨🏻‍✈️;;
+	👨🏼‍✈️;;
+	👨🏽‍✈️;;
+	👨🏾‍✈️;;
+	👨🏿‍✈️;;
+👩‍✈️;;
+	👩🏻‍✈️;;
+	👩🏼‍✈️;;
+	👩🏽‍✈️;;
+	👩🏾‍✈️;;
+	👩🏿‍✈️;;
+🧑‍🚀;;
+	🧑🏻‍🚀;;
+	🧑🏼‍🚀;;
+	🧑🏽‍🚀;;
+	🧑🏾‍🚀;;
+	🧑🏿‍🚀;;
+👨‍🚀;;
+	👨🏻‍🚀;;
+	👨🏼‍🚀;;
+	👨🏽‍🚀;;
+	👨🏾‍🚀;;
+	👨🏿‍🚀;;
+👩‍🚀;;
+	👩🏻‍🚀;;
+	👩🏼‍🚀;;
+	👩🏽‍🚀;;
+	👩🏾‍🚀;;
+	👩🏿‍🚀;;
+🧑‍🚒;;
+	🧑🏻‍🚒;;
+	🧑🏼‍🚒;;
+	🧑🏽‍🚒;;
+	🧑🏾‍🚒;;
+	🧑🏿‍🚒;;
+👨‍🚒;;
+	👨🏻‍🚒;;
+	👨🏼‍🚒;;
+	👨🏽‍🚒;;
+	👨🏾‍🚒;;
+	👨🏿‍🚒;;
+👩‍🚒;;
+	👩🏻‍🚒;;
+	👩🏼‍🚒;;
+	👩🏽‍🚒;;
+	👩🏾‍🚒;;
+	👩🏿‍🚒;;
+👮;;
+	👮🏻;;
+	👮🏼;;
+	👮🏽;;
+	👮🏾;;
+	👮🏿;;
+👮‍♂️;;
+	👮🏻‍♂️;;
+	👮🏼‍♂️;;
+	👮🏽‍♂️;;
+	👮🏾‍♂️;;
+	👮🏿‍♂️;;
+👮‍♀️;;
+	👮🏻‍♀️;;
+	👮🏼‍♀️;;
+	👮🏽‍♀️;;
+	👮🏾‍♀️;;
+	👮🏿‍♀️;;
+🕵️;;
+	🕵🏻;;
+	🕵🏼;;
+	🕵🏽;;
+	🕵🏾;;
+	🕵🏿;;
+🕵️‍♂️;;
+	🕵🏻‍♂️;;
+	🕵🏼‍♂️;;
+	🕵🏽‍♂️;;
+	🕵🏾‍♂️;;
+	🕵🏿‍♂️;;
+🕵️‍♀️;;
+	🕵🏻‍♀️;;
+	🕵🏼‍♀️;;
+	🕵🏽‍♀️;;
+	🕵🏾‍♀️;;
+	🕵🏿‍♀️;;
+💂;;
+	💂🏻;;
+	💂🏼;;
+	💂🏽;;
+	💂🏾;;
+	💂🏿;;
+💂‍♂️;;
+	💂🏻‍♂️;;
+	💂🏼‍♂️;;
+	💂🏽‍♂️;;
+	💂🏾‍♂️;;
+	💂🏿‍♂️;;
+💂‍♀️;;
+	💂🏻‍♀️;;
+	💂🏼‍♀️;;
+	💂🏽‍♀️;;
+	💂🏾‍♀️;;
+	💂🏿‍♀️;;
+🥷;;
+	🥷🏻;;
+	🥷🏼;;
+	🥷🏽;;
+	🥷🏾;;
+	🥷🏿;;
+👷;;
+	👷🏻;;
+	👷🏼;;
+	👷🏽;;
+	👷🏾;;
+	👷🏿;;
+👷‍♂️;;
+	👷🏻‍♂️;;
+	👷🏼‍♂️;;
+	👷🏽‍♂️;;
+	👷🏾‍♂️;;
+	👷🏿‍♂️;;
+👷‍♀️;;
+	👷🏻‍♀️;;
+	👷🏼‍♀️;;
+	👷🏽‍♀️;;
+	👷🏾‍♀️;;
+	👷🏿‍♀️;;
+🫅;;
+	🫅🏻;;
+	🫅🏼;;
+	🫅🏽;;
+	🫅🏾;;
+	🫅🏿;;
+🤴;;
+	🤴🏻;;
+	🤴🏼;;
+	🤴🏽;;
+	🤴🏾;;
+	🤴🏿;;
+👸;;
+	👸🏻;;
+	👸🏼;;
+	👸🏽;;
+	👸🏾;;
+	👸🏿;;
+👳;;
+	👳🏻;;
+	👳🏼;;
+	👳🏽;;
+	👳🏾;;
+	👳🏿;;
+👳‍♂️;;
+	👳🏻‍♂️;;
+	👳🏼‍♂️;;
+	👳🏽‍♂️;;
+	👳🏾‍♂️;;
+	👳🏿‍♂️;;
+👳‍♀️;;
+	👳🏻‍♀️;;
+	👳🏼‍♀️;;
+	👳🏽‍♀️;;
+	👳🏾‍♀️;;
+	👳🏿‍♀️;;
+👲;;
+	👲🏻;;
+	👲🏼;;
+	👲🏽;;
+	👲🏾;;
+	👲🏿;;
+🧕;;
+	🧕🏻;;
+	🧕🏼;;
+	🧕🏽;;
+	🧕🏾;;
+	🧕🏿;;
+🤵;persona in tuxedo;fidantiato|homine|marito|persona in tuxedo|sponso|sposo|tuxedo
+	🤵🏻;persona in tuxedo: tono de pelle clar;fidantiato|homine|marito|persona in tuxedo|persona in tuxedo: tono de pelle clar|sponso|sposo|tono de pelle clar|tuxedo
+	🤵🏼;persona in tuxedo: tono de pelle medio clar;fidantiato|homine|marito|persona in tuxedo|persona in tuxedo: tono de pelle medio clar|sponso|sposo|tono de pelle medio clar|tuxedo
+	🤵🏽;persona in tuxedo: tono de pelle medie;fidantiato|homine|marito|persona in tuxedo|persona in tuxedo: tono de pelle medie|sponso|sposo|tono de pelle medie|tuxedo
+	🤵🏾;persona in tuxedo: tono de pelle medio-obscur;fidantiato|homine|marito|persona in tuxedo|persona in tuxedo: tono de pelle medio-obscur|sponso|sposo|tono de pelle medio-obscur|tuxedo
+	🤵🏿;persona in tuxedo: tono de pelle obscur;fidantiato|homine|marito|persona in tuxedo|persona in tuxedo: tono de pelle obscur|sponso|sposo|tono de pelle obscur|tuxedo
+🤵‍♂️;;
+	🤵🏻‍♂️;;
+	🤵🏼‍♂️;;
+	🤵🏽‍♂️;;
+	🤵🏾‍♂️;;
+	🤵🏿‍♂️;;
+🤵‍♀️;;
+	🤵🏻‍♀️;;
+	🤵🏼‍♀️;;
+	🤵🏽‍♀️;;
+	🤵🏾‍♀️;;
+	🤵🏿‍♀️;;
+👰;persona con vela;femina|fidantiata|marita|persona con vela|sponsa|sposa|vela
+	👰🏻;persona con vela: tono de pelle clar;femina|fidantiata|marita|persona con vela|persona con vela: tono de pelle clar|sponsa|sposa|tono de pelle clar|vela
+	👰🏼;persona con vela: tono de pelle medio clar;femina|fidantiata|marita|persona con vela|persona con vela: tono de pelle medio clar|sponsa|sposa|tono de pelle medio clar|vela
+	👰🏽;persona con vela: tono de pelle medie;femina|fidantiata|marita|persona con vela|persona con vela: tono de pelle medie|sponsa|sposa|tono de pelle medie|vela
+	👰🏾;persona con vela: tono de pelle medio-obscur;femina|fidantiata|marita|persona con vela|persona con vela: tono de pelle medio-obscur|sponsa|sposa|tono de pelle medio-obscur|vela
+	👰🏿;persona con vela: tono de pelle obscur;femina|fidantiata|marita|persona con vela|persona con vela: tono de pelle obscur|sponsa|sposa|tono de pelle obscur|vela
+👰‍♂️;;
+	👰🏻‍♂️;;
+	👰🏼‍♂️;;
+	👰🏽‍♂️;;
+	👰🏾‍♂️;;
+	👰🏿‍♂️;;
+👰‍♀️;;
+	👰🏻‍♀️;;
+	👰🏼‍♀️;;
+	👰🏽‍♀️;;
+	👰🏾‍♀️;;
+	👰🏿‍♀️;;
+🤰;;
+	🤰🏻;;
+	🤰🏼;;
+	🤰🏽;;
+	🤰🏾;;
+	🤰🏿;;
+🫃;;
+	🫃🏻;;
+	🫃🏼;;
+	🫃🏽;;
+	🫃🏾;;
+	🫃🏿;;
+🫄;;
+	🫄🏻;;
+	🫄🏼;;
+	🫄🏽;;
+	🫄🏾;;
+	🫄🏿;;
+🤱;;
+	🤱🏻;;
+	🤱🏼;;
+	🤱🏽;;
+	🤱🏾;;
+	🤱🏿;;
+👩‍🍼;;
+	👩🏻‍🍼;;
+	👩🏼‍🍼;;
+	👩🏽‍🍼;;
+	👩🏾‍🍼;;
+	👩🏿‍🍼;;
+👨‍🍼;;
+	👨🏻‍🍼;;
+	👨🏼‍🍼;;
+	👨🏽‍🍼;;
+	👨🏾‍🍼;;
+	👨🏿‍🍼;;
+🧑‍🍼;;
+	🧑🏻‍🍼;;
+	🧑🏼‍🍼;;
+	🧑🏽‍🍼;;
+	🧑🏾‍🍼;;
+	🧑🏿‍🍼;;
+👼;;
+	👼🏻;;
+	👼🏼;;
+	👼🏽;;
+	👼🏾;;
+	👼🏿;;
+🎅;;
+	🎅🏻;;
+	🎅🏼;;
+	🎅🏽;;
+	🎅🏾;;
+	🎅🏿;;
+🤶;;
+	🤶🏻;;
+	🤶🏼;;
+	🤶🏽;;
+	🤶🏾;;
+	🤶🏿;;
+🧑‍🎄;;
+	🧑🏻‍🎄;;
+	🧑🏼‍🎄;;
+	🧑🏽‍🎄;;
+	🧑🏾‍🎄;;
+	🧑🏿‍🎄;;
+🦸;;
+	🦸🏻;;
+	🦸🏼;;
+	🦸🏽;;
+	🦸🏾;;
+	🦸🏿;;
+🦸‍♂️;;
+	🦸🏻‍♂️;;
+	🦸🏼‍♂️;;
+	🦸🏽‍♂️;;
+	🦸🏾‍♂️;;
+	🦸🏿‍♂️;;
+🦸‍♀️;;
+	🦸🏻‍♀️;;
+	🦸🏼‍♀️;;
+	🦸🏽‍♀️;;
+	🦸🏾‍♀️;;
+	🦸🏿‍♀️;;
+🦹;;
+	🦹🏻;;
+	🦹🏼;;
+	🦹🏽;;
+	🦹🏾;;
+	🦹🏿;;
+🦹‍♂️;;
+	🦹🏻‍♂️;;
+	🦹🏼‍♂️;;
+	🦹🏽‍♂️;;
+	🦹🏾‍♂️;;
+	🦹🏿‍♂️;;
+🦹‍♀️;;
+	🦹🏻‍♀️;;
+	🦹🏼‍♀️;;
+	🦹🏽‍♀️;;
+	🦹🏾‍♀️;;
+	🦹🏿‍♀️;;
+🧙;;
+	🧙🏻;;
+	🧙🏼;;
+	🧙🏽;;
+	🧙🏾;;
+	🧙🏿;;
+🧙‍♂️;;
+	🧙🏻‍♂️;;
+	🧙🏼‍♂️;;
+	🧙🏽‍♂️;;
+	🧙🏾‍♂️;;
+	🧙🏿‍♂️;;
+🧙‍♀️;;
+	🧙🏻‍♀️;;
+	🧙🏼‍♀️;;
+	🧙🏽‍♀️;;
+	🧙🏾‍♀️;;
+	🧙🏿‍♀️;;
+🧚;;
+	🧚🏻;;
+	🧚🏼;;
+	🧚🏽;;
+	🧚🏾;;
+	🧚🏿;;
+🧚‍♂️;;
+	🧚🏻‍♂️;;
+	🧚🏼‍♂️;;
+	🧚🏽‍♂️;;
+	🧚🏾‍♂️;;
+	🧚🏿‍♂️;;
+🧚‍♀️;;
+	🧚🏻‍♀️;;
+	🧚🏼‍♀️;;
+	🧚🏽‍♀️;;
+	🧚🏾‍♀️;;
+	🧚🏿‍♀️;;
+🧛;;
+	🧛🏻;;
+	🧛🏼;;
+	🧛🏽;;
+	🧛🏾;;
+	🧛🏿;;
+🧛‍♂️;;
+	🧛🏻‍♂️;;
+	🧛🏼‍♂️;;
+	🧛🏽‍♂️;;
+	🧛🏾‍♂️;;
+	🧛🏿‍♂️;;
+🧛‍♀️;;
+	🧛🏻‍♀️;;
+	🧛🏼‍♀️;;
+	🧛🏽‍♀️;;
+	🧛🏾‍♀️;;
+	🧛🏿‍♀️;;
+🧜;;
+	🧜🏻;;
+	🧜🏼;;
+	🧜🏽;;
+	🧜🏾;;
+	🧜🏿;;
+🧜‍♂️;;
+	🧜🏻‍♂️;;
+	🧜🏼‍♂️;;
+	🧜🏽‍♂️;;
+	🧜🏾‍♂️;;
+	🧜🏿‍♂️;;
+🧜‍♀️;;
+	🧜🏻‍♀️;;
+	🧜🏼‍♀️;;
+	🧜🏽‍♀️;;
+	🧜🏾‍♀️;;
+	🧜🏿‍♀️;;
+🧝;;
+	🧝🏻;;
+	🧝🏼;;
+	🧝🏽;;
+	🧝🏾;;
+	🧝🏿;;
+🧝‍♂️;;
+	🧝🏻‍♂️;;
+	🧝🏼‍♂️;;
+	🧝🏽‍♂️;;
+	🧝🏾‍♂️;;
+	🧝🏿‍♂️;;
+🧝‍♀️;;
+	🧝🏻‍♀️;;
+	🧝🏼‍♀️;;
+	🧝🏽‍♀️;;
+	🧝🏾‍♀️;;
+	🧝🏿‍♀️;;
+🧞;;
+🧞‍♂️;;
+🧞‍♀️;;
+🧟;;
+🧟‍♂️;;
+🧟‍♀️;;
+🧌;;
+💆;;
+	💆🏻;;
+	💆🏼;;
+	💆🏽;;
+	💆🏾;;
+	💆🏿;;
+💆‍♂️;;
+	💆🏻‍♂️;;
+	💆🏼‍♂️;;
+	💆🏽‍♂️;;
+	💆🏾‍♂️;;
+	💆🏿‍♂️;;
+💆‍♀️;;
+	💆🏻‍♀️;;
+	💆🏼‍♀️;;
+	💆🏽‍♀️;;
+	💆🏾‍♀️;;
+	💆🏿‍♀️;;
+💇;;
+	💇🏻;;
+	💇🏼;;
+	💇🏽;;
+	💇🏾;;
+	💇🏿;;
+💇‍♂️;;
+	💇🏻‍♂️;;
+	💇🏼‍♂️;;
+	💇🏽‍♂️;;
+	💇🏾‍♂️;;
+	💇🏿‍♂️;;
+💇‍♀️;;
+	💇🏻‍♀️;;
+	💇🏼‍♀️;;
+	💇🏽‍♀️;;
+	💇🏾‍♀️;;
+	💇🏿‍♀️;;
+🚶;;
+	🚶🏻;;
+	🚶🏼;;
+	🚶🏽;;
+	🚶🏾;;
+	🚶🏿;;
+🚶‍♂️;;
+	🚶🏻‍♂️;;
+	🚶🏼‍♂️;;
+	🚶🏽‍♂️;;
+	🚶🏾‍♂️;;
+	🚶🏿‍♂️;;
+🚶‍♀️;;
+	🚶🏻‍♀️;;
+	🚶🏼‍♀️;;
+	🚶🏽‍♀️;;
+	🚶🏾‍♀️;;
+	🚶🏿‍♀️;;
+🚶‍➡️;;
+	🚶🏻‍➡️;;
+	🚶🏼‍➡️;;
+	🚶🏽‍➡️;;
+	🚶🏾‍➡️;;
+	🚶🏿‍➡️;;
+🚶‍♀️‍➡️;;
+	🚶🏻‍♀️‍➡️;;
+	🚶🏼‍♀️‍➡️;;
+	🚶🏽‍♀️‍➡️;;
+	🚶🏾‍♀️‍➡️;;
+	🚶🏿‍♀️‍➡️;;
+🚶‍♂️‍➡️;;
+	🚶🏻‍♂️‍➡️;;
+	🚶🏼‍♂️‍➡️;;
+	🚶🏽‍♂️‍➡️;;
+	🚶🏾‍♂️‍➡️;;
+	🚶🏿‍♂️‍➡️;;
+🧍;;
+	🧍🏻;;
+	🧍🏼;;
+	🧍🏽;;
+	🧍🏾;;
+	🧍🏿;;
+🧍‍♂️;;
+	🧍🏻‍♂️;;
+	🧍🏼‍♂️;;
+	🧍🏽‍♂️;;
+	🧍🏾‍♂️;;
+	🧍🏿‍♂️;;
+🧍‍♀️;;
+	🧍🏻‍♀️;;
+	🧍🏼‍♀️;;
+	🧍🏽‍♀️;;
+	🧍🏾‍♀️;;
+	🧍🏿‍♀️;;
+🧎;;
+	🧎🏻;;
+	🧎🏼;;
+	🧎🏽;;
+	🧎🏾;;
+	🧎🏿;;
+🧎‍♂️;;
+	🧎🏻‍♂️;;
+	🧎🏼‍♂️;;
+	🧎🏽‍♂️;;
+	🧎🏾‍♂️;;
+	🧎🏿‍♂️;;
+🧎‍♀️;;
+	🧎🏻‍♀️;;
+	🧎🏼‍♀️;;
+	🧎🏽‍♀️;;
+	🧎🏾‍♀️;;
+	🧎🏿‍♀️;;
+🧎‍➡️;;
+	🧎🏻‍➡️;;
+	🧎🏼‍➡️;;
+	🧎🏽‍➡️;;
+	🧎🏾‍➡️;;
+	🧎🏿‍➡️;;
+🧎‍♀️‍➡️;;
+	🧎🏻‍♀️‍➡️;;
+	🧎🏼‍♀️‍➡️;;
+	🧎🏽‍♀️‍➡️;;
+	🧎🏾‍♀️‍➡️;;
+	🧎🏿‍♀️‍➡️;;
+🧎‍♂️‍➡️;;
+	🧎🏻‍♂️‍➡️;;
+	🧎🏼‍♂️‍➡️;;
+	🧎🏽‍♂️‍➡️;;
+	🧎🏾‍♂️‍➡️;;
+	🧎🏿‍♂️‍➡️;;
+🧑‍🦯;;
+	🧑🏻‍🦯;;
+	🧑🏼‍🦯;;
+	🧑🏽‍🦯;;
+	🧑🏾‍🦯;;
+	🧑🏿‍🦯;;
+🧑‍🦯‍➡️;;
+	🧑🏻‍🦯‍➡️;;
+	🧑🏼‍🦯‍➡️;;
+	🧑🏽‍🦯‍➡️;;
+	🧑🏾‍🦯‍➡️;;
+	🧑🏿‍🦯‍➡️;;
+👨‍🦯;;
+	👨🏻‍🦯;;
+	👨🏼‍🦯;;
+	👨🏽‍🦯;;
+	👨🏾‍🦯;;
+	👨🏿‍🦯;;
+👨‍🦯‍➡️;;
+	👨🏻‍🦯‍➡️;;
+	👨🏼‍🦯‍➡️;;
+	👨🏽‍🦯‍➡️;;
+	👨🏾‍🦯‍➡️;;
+	👨🏿‍🦯‍➡️;;
+👩‍🦯;;
+	👩🏻‍🦯;;
+	👩🏼‍🦯;;
+	👩🏽‍🦯;;
+	👩🏾‍🦯;;
+	👩🏿‍🦯;;
+👩‍🦯‍➡️;;
+	👩🏻‍🦯‍➡️;;
+	👩🏼‍🦯‍➡️;;
+	👩🏽‍🦯‍➡️;;
+	👩🏾‍🦯‍➡️;;
+	👩🏿‍🦯‍➡️;;
+🧑‍🦼;;
+	🧑🏻‍🦼;;
+	🧑🏼‍🦼;;
+	🧑🏽‍🦼;;
+	🧑🏾‍🦼;;
+	🧑🏿‍🦼;;
+🧑‍🦼‍➡️;;
+	🧑🏻‍🦼‍➡️;;
+	🧑🏼‍🦼‍➡️;;
+	🧑🏽‍🦼‍➡️;;
+	🧑🏾‍🦼‍➡️;;
+	🧑🏿‍🦼‍➡️;;
+👨‍🦼;;
+	👨🏻‍🦼;;
+	👨🏼‍🦼;;
+	👨🏽‍🦼;;
+	👨🏾‍🦼;;
+	👨🏿‍🦼;;
+👨‍🦼‍➡️;;
+	👨🏻‍🦼‍➡️;;
+	👨🏼‍🦼‍➡️;;
+	👨🏽‍🦼‍➡️;;
+	👨🏾‍🦼‍➡️;;
+	👨🏿‍🦼‍➡️;;
+👩‍🦼;;
+	👩🏻‍🦼;;
+	👩🏼‍🦼;;
+	👩🏽‍🦼;;
+	👩🏾‍🦼;;
+	👩🏿‍🦼;;
+👩‍🦼‍➡️;;
+	👩🏻‍🦼‍➡️;;
+	👩🏼‍🦼‍➡️;;
+	👩🏽‍🦼‍➡️;;
+	👩🏾‍🦼‍➡️;;
+	👩🏿‍🦼‍➡️;;
+🧑‍🦽;;
+	🧑🏻‍🦽;;
+	🧑🏼‍🦽;;
+	🧑🏽‍🦽;;
+	🧑🏾‍🦽;;
+	🧑🏿‍🦽;;
+🧑‍🦽‍➡️;;
+	🧑🏻‍🦽‍➡️;;
+	🧑🏼‍🦽‍➡️;;
+	🧑🏽‍🦽‍➡️;;
+	🧑🏾‍🦽‍➡️;;
+	🧑🏿‍🦽‍➡️;;
+👨‍🦽;;
+	👨🏻‍🦽;;
+	👨🏼‍🦽;;
+	👨🏽‍🦽;;
+	👨🏾‍🦽;;
+	👨🏿‍🦽;;
+👨‍🦽‍➡️;;
+	👨🏻‍🦽‍➡️;;
+	👨🏼‍🦽‍➡️;;
+	👨🏽‍🦽‍➡️;;
+	👨🏾‍🦽‍➡️;;
+	👨🏿‍🦽‍➡️;;
+👩‍🦽;;
+	👩🏻‍🦽;;
+	👩🏼‍🦽;;
+	👩🏽‍🦽;;
+	👩🏾‍🦽;;
+	👩🏿‍🦽;;
+👩‍🦽‍➡️;;
+	👩🏻‍🦽‍➡️;;
+	👩🏼‍🦽‍➡️;;
+	👩🏽‍🦽‍➡️;;
+	👩🏾‍🦽‍➡️;;
+	👩🏿‍🦽‍➡️;;
+🏃;;
+	🏃🏻;;
+	🏃🏼;;
+	🏃🏽;;
+	🏃🏾;;
+	🏃🏿;;
+🏃‍♂️;;
+	🏃🏻‍♂️;;
+	🏃🏼‍♂️;;
+	🏃🏽‍♂️;;
+	🏃🏾‍♂️;;
+	🏃🏿‍♂️;;
+🏃‍♀️;;
+	🏃🏻‍♀️;;
+	🏃🏼‍♀️;;
+	🏃🏽‍♀️;;
+	🏃🏾‍♀️;;
+	🏃🏿‍♀️;;
+🏃‍➡️;;
+	🏃🏻‍➡️;;
+	🏃🏼‍➡️;;
+	🏃🏽‍➡️;;
+	🏃🏾‍➡️;;
+	🏃🏿‍➡️;;
+🏃‍♀️‍➡️;;
+	🏃🏻‍♀️‍➡️;;
+	🏃🏼‍♀️‍➡️;;
+	🏃🏽‍♀️‍➡️;;
+	🏃🏾‍♀️‍➡️;;
+	🏃🏿‍♀️‍➡️;;
+🏃‍♂️‍➡️;;
+	🏃🏻‍♂️‍➡️;;
+	🏃🏼‍♂️‍➡️;;
+	🏃🏽‍♂️‍➡️;;
+	🏃🏾‍♂️‍➡️;;
+	🏃🏿‍♂️‍➡️;;
+💃;;
+	💃🏻;;
+	💃🏼;;
+	💃🏽;;
+	💃🏾;;
+	💃🏿;;
+🕺;;
+	🕺🏻;;
+	🕺🏼;;
+	🕺🏽;;
+	🕺🏾;;
+	🕺🏿;;
+🕴️;;
+	🕴🏻;;
+	🕴🏼;;
+	🕴🏽;;
+	🕴🏾;;
+	🕴🏿;;
+👯;;
+👯‍♂️;;
+👯‍♀️;;
+🧖;;
+	🧖🏻;;
+	🧖🏼;;
+	🧖🏽;;
+	🧖🏾;;
+	🧖🏿;;
+🧖‍♂️;;
+	🧖🏻‍♂️;;
+	🧖🏼‍♂️;;
+	🧖🏽‍♂️;;
+	🧖🏾‍♂️;;
+	🧖🏿‍♂️;;
+🧖‍♀️;;
+	🧖🏻‍♀️;;
+	🧖🏼‍♀️;;
+	🧖🏽‍♀️;;
+	🧖🏾‍♀️;;
+	🧖🏿‍♀️;;
+🧗;;
+	🧗🏻;;
+	🧗🏼;;
+	🧗🏽;;
+	🧗🏾;;
+	🧗🏿;;
+🧗‍♂️;;
+	🧗🏻‍♂️;;
+	🧗🏼‍♂️;;
+	🧗🏽‍♂️;;
+	🧗🏾‍♂️;;
+	🧗🏿‍♂️;;
+🧗‍♀️;;
+	🧗🏻‍♀️;;
+	🧗🏼‍♀️;;
+	🧗🏽‍♀️;;
+	🧗🏾‍♀️;;
+	🧗🏿‍♀️;;
+🤺;;
+🏇;;
+	🏇🏻;;
+	🏇🏼;;
+	🏇🏽;;
+	🏇🏾;;
+	🏇🏿;;
+⛷️;;
+🏂;;
+	🏂🏻;;
+	🏂🏼;;
+	🏂🏽;;
+	🏂🏾;;
+	🏂🏿;;
+🏌️;;
+	🏌🏻;;
+	🏌🏼;;
+	🏌🏽;;
+	🏌🏾;;
+	🏌🏿;;
+🏌️‍♂️;;
+	🏌🏻‍♂️;;
+	🏌🏼‍♂️;;
+	🏌🏽‍♂️;;
+	🏌🏾‍♂️;;
+	🏌🏿‍♂️;;
+🏌️‍♀️;;
+	🏌🏻‍♀️;;
+	🏌🏼‍♀️;;
+	🏌🏽‍♀️;;
+	🏌🏾‍♀️;;
+	🏌🏿‍♀️;;
+🏄;;
+	🏄🏻;;
+	🏄🏼;;
+	🏄🏽;;
+	🏄🏾;;
+	🏄🏿;;
+🏄‍♂️;;
+	🏄🏻‍♂️;;
+	🏄🏼‍♂️;;
+	🏄🏽‍♂️;;
+	🏄🏾‍♂️;;
+	🏄🏿‍♂️;;
+🏄‍♀️;;
+	🏄🏻‍♀️;;
+	🏄🏼‍♀️;;
+	🏄🏽‍♀️;;
+	🏄🏾‍♀️;;
+	🏄🏿‍♀️;;
+🚣;;
+	🚣🏻;;
+	🚣🏼;;
+	🚣🏽;;
+	🚣🏾;;
+	🚣🏿;;
+🚣‍♂️;;
+	🚣🏻‍♂️;;
+	🚣🏼‍♂️;;
+	🚣🏽‍♂️;;
+	🚣🏾‍♂️;;
+	🚣🏿‍♂️;;
+🚣‍♀️;;
+	🚣🏻‍♀️;;
+	🚣🏼‍♀️;;
+	🚣🏽‍♀️;;
+	🚣🏾‍♀️;;
+	🚣🏿‍♀️;;
+🏊;;
+	🏊🏻;;
+	🏊🏼;;
+	🏊🏽;;
+	🏊🏾;;
+	🏊🏿;;
+🏊‍♂️;;
+	🏊🏻‍♂️;;
+	🏊🏼‍♂️;;
+	🏊🏽‍♂️;;
+	🏊🏾‍♂️;;
+	🏊🏿‍♂️;;
+🏊‍♀️;;
+	🏊🏻‍♀️;;
+	🏊🏼‍♀️;;
+	🏊🏽‍♀️;;
+	🏊🏾‍♀️;;
+	🏊🏿‍♀️;;
+⛹️;;
+	⛹🏻;;
+	⛹🏼;;
+	⛹🏽;;
+	⛹🏾;;
+	⛹🏿;;
+⛹️‍♂️;;
+	⛹🏻‍♂️;;
+	⛹🏼‍♂️;;
+	⛹🏽‍♂️;;
+	⛹🏾‍♂️;;
+	⛹🏿‍♂️;;
+⛹️‍♀️;;
+	⛹🏻‍♀️;;
+	⛹🏼‍♀️;;
+	⛹🏽‍♀️;;
+	⛹🏾‍♀️;;
+	⛹🏿‍♀️;;
+🏋️;;
+	🏋🏻;;
+	🏋🏼;;
+	🏋🏽;;
+	🏋🏾;;
+	🏋🏿;;
+🏋️‍♂️;;
+	🏋🏻‍♂️;;
+	🏋🏼‍♂️;;
+	🏋🏽‍♂️;;
+	🏋🏾‍♂️;;
+	🏋🏿‍♂️;;
+🏋️‍♀️;;
+	🏋🏻‍♀️;;
+	🏋🏼‍♀️;;
+	🏋🏽‍♀️;;
+	🏋🏾‍♀️;;
+	🏋🏿‍♀️;;
+🚴;;
+	🚴🏻;;
+	🚴🏼;;
+	🚴🏽;;
+	🚴🏾;;
+	🚴🏿;;
+🚴‍♂️;;
+	🚴🏻‍♂️;;
+	🚴🏼‍♂️;;
+	🚴🏽‍♂️;;
+	🚴🏾‍♂️;;
+	🚴🏿‍♂️;;
+🚴‍♀️;;
+	🚴🏻‍♀️;;
+	🚴🏼‍♀️;;
+	🚴🏽‍♀️;;
+	🚴🏾‍♀️;;
+	🚴🏿‍♀️;;
+🚵;;
+	🚵🏻;;
+	🚵🏼;;
+	🚵🏽;;
+	🚵🏾;;
+	🚵🏿;;
+🚵‍♂️;;
+	🚵🏻‍♂️;;
+	🚵🏼‍♂️;;
+	🚵🏽‍♂️;;
+	🚵🏾‍♂️;;
+	🚵🏿‍♂️;;
+🚵‍♀️;;
+	🚵🏻‍♀️;;
+	🚵🏼‍♀️;;
+	🚵🏽‍♀️;;
+	🚵🏾‍♀️;;
+	🚵🏿‍♀️;;
+🤸;;
+	🤸🏻;;
+	🤸🏼;;
+	🤸🏽;;
+	🤸🏾;;
+	🤸🏿;;
+🤸‍♂️;;
+	🤸🏻‍♂️;;
+	🤸🏼‍♂️;;
+	🤸🏽‍♂️;;
+	🤸🏾‍♂️;;
+	🤸🏿‍♂️;;
+🤸‍♀️;;
+	🤸🏻‍♀️;;
+	🤸🏼‍♀️;;
+	🤸🏽‍♀️;;
+	🤸🏾‍♀️;;
+	🤸🏿‍♀️;;
+🤼;;
+🤼‍♂️;;
+🤼‍♀️;;
+🤽;;
+	🤽🏻;;
+	🤽🏼;;
+	🤽🏽;;
+	🤽🏾;;
+	🤽🏿;;
+🤽‍♂️;;
+	🤽🏻‍♂️;;
+	🤽🏼‍♂️;;
+	🤽🏽‍♂️;;
+	🤽🏾‍♂️;;
+	🤽🏿‍♂️;;
+🤽‍♀️;;
+	🤽🏻‍♀️;;
+	🤽🏼‍♀️;;
+	🤽🏽‍♀️;;
+	🤽🏾‍♀️;;
+	🤽🏿‍♀️;;
+🤾;;
+	🤾🏻;;
+	🤾🏼;;
+	🤾🏽;;
+	🤾🏾;;
+	🤾🏿;;
+🤾‍♂️;;
+	🤾🏻‍♂️;;
+	🤾🏼‍♂️;;
+	🤾🏽‍♂️;;
+	🤾🏾‍♂️;;
+	🤾🏿‍♂️;;
+🤾‍♀️;;
+	🤾🏻‍♀️;;
+	🤾🏼‍♀️;;
+	🤾🏽‍♀️;;
+	🤾🏾‍♀️;;
+	🤾🏿‍♀️;;
+🤹;;
+	🤹🏻;;
+	🤹🏼;;
+	🤹🏽;;
+	🤹🏾;;
+	🤹🏿;;
+🤹‍♂️;;
+	🤹🏻‍♂️;;
+	🤹🏼‍♂️;;
+	🤹🏽‍♂️;;
+	🤹🏾‍♂️;;
+	🤹🏿‍♂️;;
+🤹‍♀️;;
+	🤹🏻‍♀️;;
+	🤹🏼‍♀️;;
+	🤹🏽‍♀️;;
+	🤹🏾‍♀️;;
+	🤹🏿‍♀️;;
+🧘;;
+	🧘🏻;;
+	🧘🏼;;
+	🧘🏽;;
+	🧘🏾;;
+	🧘🏿;;
+🧘‍♂️;;
+	🧘🏻‍♂️;;
+	🧘🏼‍♂️;;
+	🧘🏽‍♂️;;
+	🧘🏾‍♂️;;
+	🧘🏿‍♂️;;
+🧘‍♀️;;
+	🧘🏻‍♀️;;
+	🧘🏼‍♀️;;
+	🧘🏽‍♀️;;
+	🧘🏾‍♀️;;
+	🧘🏿‍♀️;;
+🛀;;
+	🛀🏻;;
+	🛀🏼;;
+	🛀🏽;;
+	🛀🏾;;
+	🛀🏿;;
+🛌;;
+	🛌🏻;;
+	🛌🏼;;
+	🛌🏽;;
+	🛌🏾;;
+	🛌🏿;;
+🧑‍🤝‍🧑;;
+	🧑🏻‍🤝‍🧑🏻;;
+	🧑🏻‍🤝‍🧑🏼;;
+	🧑🏻‍🤝‍🧑🏽;;
+	🧑🏻‍🤝‍🧑🏾;;
+	🧑🏻‍🤝‍🧑🏿;;
+	🧑🏼‍🤝‍🧑🏻;;
+	🧑🏼‍🤝‍🧑🏼;;
+	🧑🏼‍🤝‍🧑🏽;;
+	🧑🏼‍🤝‍🧑🏾;;
+	🧑🏼‍🤝‍🧑🏿;;
+	🧑🏽‍🤝‍🧑🏻;;
+	🧑🏽‍🤝‍🧑🏼;;
+	🧑🏽‍🤝‍🧑🏽;;
+	🧑🏽‍🤝‍🧑🏾;;
+	🧑🏽‍🤝‍🧑🏿;;
+	🧑🏾‍🤝‍🧑🏻;;
+	🧑🏾‍🤝‍🧑🏼;;
+	🧑🏾‍🤝‍🧑🏽;;
+	🧑🏾‍🤝‍🧑🏾;;
+	🧑🏾‍🤝‍🧑🏿;;
+	🧑🏿‍🤝‍🧑🏻;;
+	🧑🏿‍🤝‍🧑🏼;;
+	🧑🏿‍🤝‍🧑🏽;;
+	🧑🏿‍🤝‍🧑🏾;;
+	🧑🏿‍🤝‍🧑🏿;;
+👭;;
+	👭🏻;;
+	👩🏻‍🤝‍👩🏼;;
+	👩🏻‍🤝‍👩🏽;;
+	👩🏻‍🤝‍👩🏾;;
+	👩🏻‍🤝‍👩🏿;;
+	👩🏼‍🤝‍👩🏻;;
+	👭🏼;;
+	👩🏼‍🤝‍👩🏽;;
+	👩🏼‍🤝‍👩🏾;;
+	👩🏼‍🤝‍👩🏿;;
+	👩🏽‍🤝‍👩🏻;;
+	👩🏽‍🤝‍👩🏼;;
+	👭🏽;;
+	👩🏽‍🤝‍👩🏾;;
+	👩🏽‍🤝‍👩🏿;;
+	👩🏾‍🤝‍👩🏻;;
+	👩🏾‍🤝‍👩🏼;;
+	👩🏾‍🤝‍👩🏽;;
+	👭🏾;;
+	👩🏾‍🤝‍👩🏿;;
+	👩🏿‍🤝‍👩🏻;;
+	👩🏿‍🤝‍👩🏼;;
+	👩🏿‍🤝‍👩🏽;;
+	👩🏿‍🤝‍👩🏾;;
+	👭🏿;;
+👫;;
+	👫🏻;;
+	👩🏻‍🤝‍👨🏼;;
+	👩🏻‍🤝‍👨🏽;;
+	👩🏻‍🤝‍👨🏾;;
+	👩🏻‍🤝‍👨🏿;;
+	👩🏼‍🤝‍👨🏻;;
+	👫🏼;;
+	👩🏼‍🤝‍👨🏽;;
+	👩🏼‍🤝‍👨🏾;;
+	👩🏼‍🤝‍👨🏿;;
+	👩🏽‍🤝‍👨🏻;;
+	👩🏽‍🤝‍👨🏼;;
+	👫🏽;;
+	👩🏽‍🤝‍👨🏾;;
+	👩🏽‍🤝‍👨🏿;;
+	👩🏾‍🤝‍👨🏻;;
+	👩🏾‍🤝‍👨🏼;;
+	👩🏾‍🤝‍👨🏽;;
+	👫🏾;;
+	👩🏾‍🤝‍👨🏿;;
+	👩🏿‍🤝‍👨🏻;;
+	👩🏿‍🤝‍👨🏼;;
+	👩🏿‍🤝‍👨🏽;;
+	👩🏿‍🤝‍👨🏾;;
+	👫🏿;;
+👬;;
+	👬🏻;;
+	👨🏻‍🤝‍👨🏼;;
+	👨🏻‍🤝‍👨🏽;;
+	👨🏻‍🤝‍👨🏾;;
+	👨🏻‍🤝‍👨🏿;;
+	👨🏼‍🤝‍👨🏻;;
+	👬🏼;;
+	👨🏼‍🤝‍👨🏽;;
+	👨🏼‍🤝‍👨🏾;;
+	👨🏼‍🤝‍👨🏿;;
+	👨🏽‍🤝‍👨🏻;;
+	👨🏽‍🤝‍👨🏼;;
+	👬🏽;;
+	👨🏽‍🤝‍👨🏾;;
+	👨🏽‍🤝‍👨🏿;;
+	👨🏾‍🤝‍👨🏻;;
+	👨🏾‍🤝‍👨🏼;;
+	👨🏾‍🤝‍👨🏽;;
+	👬🏾;;
+	👨🏾‍🤝‍👨🏿;;
+	👨🏿‍🤝‍👨🏻;;
+	👨🏿‍🤝‍👨🏼;;
+	👨🏿‍🤝‍👨🏽;;
+	👨🏿‍🤝‍👨🏾;;
+	👬🏿;;
+💏;;
+	💏🏻;;
+	💏🏼;;
+	💏🏽;;
+	💏🏾;;
+	💏🏿;;
+	🧑🏻‍❤️‍💋‍🧑🏼;;
+	🧑🏻‍❤️‍💋‍🧑🏽;;
+	🧑🏻‍❤️‍💋‍🧑🏾;;
+	🧑🏻‍❤️‍💋‍🧑🏿;;
+	🧑🏼‍❤️‍💋‍🧑🏻;;
+	🧑🏼‍❤️‍💋‍🧑🏽;;
+	🧑🏼‍❤️‍💋‍🧑🏾;;
+	🧑🏼‍❤️‍💋‍🧑🏿;;
+	🧑🏽‍❤️‍💋‍🧑🏻;;
+	🧑🏽‍❤️‍💋‍🧑🏼;;
+	🧑🏽‍❤️‍💋‍🧑🏾;;
+	🧑🏽‍❤️‍💋‍🧑🏿;;
+	🧑🏾‍❤️‍💋‍🧑🏻;;
+	🧑🏾‍❤️‍💋‍🧑🏼;;
+	🧑🏾‍❤️‍💋‍🧑🏽;;
+	🧑🏾‍❤️‍💋‍🧑🏿;;
+	🧑🏿‍❤️‍💋‍🧑🏻;;
+	🧑🏿‍❤️‍💋‍🧑🏼;;
+	🧑🏿‍❤️‍💋‍🧑🏽;;
+	🧑🏿‍❤️‍💋‍🧑🏾;;
+👩‍❤️‍💋‍👨;;
+	👩🏻‍❤️‍💋‍👨🏻;;
+	👩🏻‍❤️‍💋‍👨🏼;;
+	👩🏻‍❤️‍💋‍👨🏽;;
+	👩🏻‍❤️‍💋‍👨🏾;;
+	👩🏻‍❤️‍💋‍👨🏿;;
+	👩🏼‍❤️‍💋‍👨🏻;;
+	👩🏼‍❤️‍💋‍👨🏼;;
+	👩🏼‍❤️‍💋‍👨🏽;;
+	👩🏼‍❤️‍💋‍👨🏾;;
+	👩🏼‍❤️‍💋‍👨🏿;;
+	👩🏽‍❤️‍💋‍👨🏻;;
+	👩🏽‍❤️‍💋‍👨🏼;;
+	👩🏽‍❤️‍💋‍👨🏽;;
+	👩🏽‍❤️‍💋‍👨🏾;;
+	👩🏽‍❤️‍💋‍👨🏿;;
+	👩🏾‍❤️‍💋‍👨🏻;;
+	👩🏾‍❤️‍💋‍👨🏼;;
+	👩🏾‍❤️‍💋‍👨🏽;;
+	👩🏾‍❤️‍💋‍👨🏾;;
+	👩🏾‍❤️‍💋‍👨🏿;;
+	👩🏿‍❤️‍💋‍👨🏻;;
+	👩🏿‍❤️‍💋‍👨🏼;;
+	👩🏿‍❤️‍💋‍👨🏽;;
+	👩🏿‍❤️‍💋‍👨🏾;;
+	👩🏿‍❤️‍💋‍👨🏿;;
+👨‍❤️‍💋‍👨;;
+	👨🏻‍❤️‍💋‍👨🏻;;
+	👨🏻‍❤️‍💋‍👨🏼;;
+	👨🏻‍❤️‍💋‍👨🏽;;
+	👨🏻‍❤️‍💋‍👨🏾;;
+	👨🏻‍❤️‍💋‍👨🏿;;
+	👨🏼‍❤️‍💋‍👨🏻;;
+	👨🏼‍❤️‍💋‍👨🏼;;
+	👨🏼‍❤️‍💋‍👨🏽;;
+	👨🏼‍❤️‍💋‍👨🏾;;
+	👨🏼‍❤️‍💋‍👨🏿;;
+	👨🏽‍❤️‍💋‍👨🏻;;
+	👨🏽‍❤️‍💋‍👨🏼;;
+	👨🏽‍❤️‍💋‍👨🏽;;
+	👨🏽‍❤️‍💋‍👨🏾;;
+	👨🏽‍❤️‍💋‍👨🏿;;
+	👨🏾‍❤️‍💋‍👨🏻;;
+	👨🏾‍❤️‍💋‍👨🏼;;
+	👨🏾‍❤️‍💋‍👨🏽;;
+	👨🏾‍❤️‍💋‍👨🏾;;
+	👨🏾‍❤️‍💋‍👨🏿;;
+	👨🏿‍❤️‍💋‍👨🏻;;
+	👨🏿‍❤️‍💋‍👨🏼;;
+	👨🏿‍❤️‍💋‍👨🏽;;
+	👨🏿‍❤️‍💋‍👨🏾;;
+	👨🏿‍❤️‍💋‍👨🏿;;
+👩‍❤️‍💋‍👩;;
+	👩🏻‍❤️‍💋‍👩🏻;;
+	👩🏻‍❤️‍💋‍👩🏼;;
+	👩🏻‍❤️‍💋‍👩🏽;;
+	👩🏻‍❤️‍💋‍👩🏾;;
+	👩🏻‍❤️‍💋‍👩🏿;;
+	👩🏼‍❤️‍💋‍👩🏻;;
+	👩🏼‍❤️‍💋‍👩🏼;;
+	👩🏼‍❤️‍💋‍👩🏽;;
+	👩🏼‍❤️‍💋‍👩🏾;;
+	👩🏼‍❤️‍💋‍👩🏿;;
+	👩🏽‍❤️‍💋‍👩🏻;;
+	👩🏽‍❤️‍💋‍👩🏼;;
+	👩🏽‍❤️‍💋‍👩🏽;;
+	👩🏽‍❤️‍💋‍👩🏾;;
+	👩🏽‍❤️‍💋‍👩🏿;;
+	👩🏾‍❤️‍💋‍👩🏻;;
+	👩🏾‍❤️‍💋‍👩🏼;;
+	👩🏾‍❤️‍💋‍👩🏽;;
+	👩🏾‍❤️‍💋‍👩🏾;;
+	👩🏾‍❤️‍💋‍👩🏿;;
+	👩🏿‍❤️‍💋‍👩🏻;;
+	👩🏿‍❤️‍💋‍👩🏼;;
+	👩🏿‍❤️‍💋‍👩🏽;;
+	👩🏿‍❤️‍💋‍👩🏾;;
+	👩🏿‍❤️‍💋‍👩🏿;;
+💑;;
+	💑🏻;;
+	💑🏼;;
+	💑🏽;;
+	💑🏾;;
+	💑🏿;;
+	🧑🏻‍❤️‍🧑🏼;;
+	🧑🏻‍❤️‍🧑🏽;;
+	🧑🏻‍❤️‍🧑🏾;;
+	🧑🏻‍❤️‍🧑🏿;;
+	🧑🏼‍❤️‍🧑🏻;;
+	🧑🏼‍❤️‍🧑🏽;;
+	🧑🏼‍❤️‍🧑🏾;;
+	🧑🏼‍❤️‍🧑🏿;;
+	🧑🏽‍❤️‍🧑🏻;;
+	🧑🏽‍❤️‍🧑🏼;;
+	🧑🏽‍❤️‍🧑🏾;;
+	🧑🏽‍❤️‍🧑🏿;;
+	🧑🏾‍❤️‍🧑🏻;;
+	🧑🏾‍❤️‍🧑🏼;;
+	🧑🏾‍❤️‍🧑🏽;;
+	🧑🏾‍❤️‍🧑🏿;;
+	🧑🏿‍❤️‍🧑🏻;;
+	🧑🏿‍❤️‍🧑🏼;;
+	🧑🏿‍❤️‍🧑🏽;;
+	🧑🏿‍❤️‍🧑🏾;;
+👩‍❤️‍👨;;
+	👩🏻‍❤️‍👨🏻;;
+	👩🏻‍❤️‍👨🏼;;
+	👩🏻‍❤️‍👨🏽;;
+	👩🏻‍❤️‍👨🏾;;
+	👩🏻‍❤️‍👨🏿;;
+	👩🏼‍❤️‍👨🏻;;
+	👩🏼‍❤️‍👨🏼;;
+	👩🏼‍❤️‍👨🏽;;
+	👩🏼‍❤️‍👨🏾;;
+	👩🏼‍❤️‍👨🏿;;
+	👩🏽‍❤️‍👨🏻;;
+	👩🏽‍❤️‍👨🏼;;
+	👩🏽‍❤️‍👨🏽;;
+	👩🏽‍❤️‍👨🏾;;
+	👩🏽‍❤️‍👨🏿;;
+	👩🏾‍❤️‍👨🏻;;
+	👩🏾‍❤️‍👨🏼;;
+	👩🏾‍❤️‍👨🏽;;
+	👩🏾‍❤️‍👨🏾;;
+	👩🏾‍❤️‍👨🏿;;
+	👩🏿‍❤️‍👨🏻;;
+	👩🏿‍❤️‍👨🏼;;
+	👩🏿‍❤️‍👨🏽;;
+	👩🏿‍❤️‍👨🏾;;
+	👩🏿‍❤️‍👨🏿;;
+👨‍❤️‍👨;;
+	👨🏻‍❤️‍👨🏻;;
+	👨🏻‍❤️‍👨🏼;;
+	👨🏻‍❤️‍👨🏽;;
+	👨🏻‍❤️‍👨🏾;;
+	👨🏻‍❤️‍👨🏿;;
+	👨🏼‍❤️‍👨🏻;;
+	👨🏼‍❤️‍👨🏼;;
+	👨🏼‍❤️‍👨🏽;;
+	👨🏼‍❤️‍👨🏾;;
+	👨🏼‍❤️‍👨🏿;;
+	👨🏽‍❤️‍👨🏻;;
+	👨🏽‍❤️‍👨🏼;;
+	👨🏽‍❤️‍👨🏽;;
+	👨🏽‍❤️‍👨🏾;;
+	👨🏽‍❤️‍👨🏿;;
+	👨🏾‍❤️‍👨🏻;;
+	👨🏾‍❤️‍👨🏼;;
+	👨🏾‍❤️‍👨🏽;;
+	👨🏾‍❤️‍👨🏾;;
+	👨🏾‍❤️‍👨🏿;;
+	👨🏿‍❤️‍👨🏻;;
+	👨🏿‍❤️‍👨🏼;;
+	👨🏿‍❤️‍👨🏽;;
+	👨🏿‍❤️‍👨🏾;;
+	👨🏿‍❤️‍👨🏿;;
+👩‍❤️‍👩;;
+	👩🏻‍❤️‍👩🏻;;
+	👩🏻‍❤️‍👩🏼;;
+	👩🏻‍❤️‍👩🏽;;
+	👩🏻‍❤️‍👩🏾;;
+	👩🏻‍❤️‍👩🏿;;
+	👩🏼‍❤️‍👩🏻;;
+	👩🏼‍❤️‍👩🏼;;
+	👩🏼‍❤️‍👩🏽;;
+	👩🏼‍❤️‍👩🏾;;
+	👩🏼‍❤️‍👩🏿;;
+	👩🏽‍❤️‍👩🏻;;
+	👩🏽‍❤️‍👩🏼;;
+	👩🏽‍❤️‍👩🏽;;
+	👩🏽‍❤️‍👩🏾;;
+	👩🏽‍❤️‍👩🏿;;
+	👩🏾‍❤️‍👩🏻;;
+	👩🏾‍❤️‍👩🏼;;
+	👩🏾‍❤️‍👩🏽;;
+	👩🏾‍❤️‍👩🏾;;
+	👩🏾‍❤️‍👩🏿;;
+	👩🏿‍❤️‍👩🏻;;
+	👩🏿‍❤️‍👩🏼;;
+	👩🏿‍❤️‍👩🏽;;
+	👩🏿‍❤️‍👩🏾;;
+	👩🏿‍❤️‍👩🏿;;
+👨‍👩‍👦;;
+👨‍👩‍👧;;
+👨‍👩‍👧‍👦;;
+👨‍👩‍👦‍👦;;
+👨‍👩‍👧‍👧;;
+👨‍👨‍👦;;
+👨‍👨‍👧;;
+👨‍👨‍👧‍👦;;
+👨‍👨‍👦‍👦;;
+👨‍👨‍👧‍👧;;
+👩‍👩‍👦;;
+👩‍👩‍👧;;
+👩‍👩‍👧‍👦;;
+👩‍👩‍👦‍👦;;
+👩‍👩‍👧‍👧;;
+👨‍👦;;
+👨‍👦‍👦;;
+👨‍👧;;
+👨‍👧‍👦;;
+👨‍👧‍👧;;
+👩‍👦;;
+👩‍👦‍👦;;
+👩‍👧;;
+👩‍👧‍👦;;
+👩‍👧‍👧;;
+🗣️;;
+👤;;
+👥;;
+🫂;;
+👪;;
+🧑‍🧑‍🧒;;
+🧑‍🧑‍🧒‍🧒;;
+🧑‍🧒;;
+🧑‍🧒‍🧒;;
+👣;;
+
+[animals_nature]
+🐵;;
+🐒;;
+🦍;;
+🦧;;
+🐶;;
+🐕;;
+🦮;;
+🐕‍🦺;;
+🐩;;
+🐺;;
+🦊;;
+🦝;;
+🐱;;
+🐈;;
+🐈‍⬛;;
+🦁;;
+🐯;;
+🐅;;
+🐆;;
+🐴;;
+🫎;;
+🫏;;
+🐎;;
+🦄;;
+🦓;;
+🦌;;
+🦬;;
+🐮;;
+🐂;;
+🐃;;
+🐄;;
+🐷;;
+🐖;;
+🐗;;
+🐽;;
+🐏;;
+🐑;;
+🐐;;
+🐪;;
+🐫;;
+🦙;;
+🦒;;
+🐘;;
+🦣;;
+🦏;;
+🦛;;
+🐭;;
+🐁;;
+🐀;;
+🐹;;
+🐰;;
+🐇;;
+🐿️;;
+🦫;;
+🦔;;
+🦇;;
+🐻;;
+🐻‍❄️;;
+🐨;;
+🐼;;
+🦥;;
+🦦;;
+🦨;;
+🦘;;
+🦡;;
+🐾;;
+🦃;;
+🐔;;
+🐓;;
+🐣;;
+🐤;;
+🐥;;
+🐦;;
+🐧;;
+🕊️;;
+🦅;;
+🦆;;
+🦢;;
+🦉;;
+🦤;;
+🪶;;
+🦩;;
+🦚;;
+🦜;;
+🪽;;
+🐦‍⬛;;
+🪿;;
+🐦‍🔥;;
+🐸;;
+🐊;;
+🐢;;
+🦎;;
+🐍;;
+🐲;;
+🐉;;
+🦕;;
+🦖;;
+🐳;;
+🐋;;
+🐬;;
+🦭;;
+🐟;;
+🐠;;
+🐡;;
+🦈;;
+🐙;;
+🐚;;
+🪸;;
+🪼;;
+🐌;;
+🦋;;
+🐛;;
+🐜;;
+🐝;;
+🪲;;
+🐞;;
+🦗;;
+🪳;;
+🕷️;;
+🕸️;;
+🦂;;
+🦟;;
+🪰;;
+🪱;;
+🦠;;
+💐;;
+🌸;;
+💮;;
+🪷;;
+🏵️;;
+🌹;;
+🥀;;
+🌺;;
+🌻;;
+🌼;;
+🌷;;
+🪻;;
+🌱;;
+🪴;;
+🌲;;
+🌳;;
+🌴;;
+🌵;;
+🌾;;
+🌿;;
+☘️;;
+🍀;;
+🍁;;
+🍂;;
+🍃;;
+🪹;;
+🪺;;
+🍄;;
+
+[food_drink]
+🍇;;
+🍈;;
+🍉;;
+🍊;;
+🍋;;
+🍋‍🟩;;
+🍌;;
+🍍;;
+🥭;;
+🍎;;
+🍏;;
+🍐;;
+🍑;;
+🍒;;
+🍓;;
+🫐;;
+🥝;;
+🍅;;
+🫒;;
+🥥;;
+🥑;;
+🍆;;
+🥔;;
+🥕;;
+🌽;;
+🌶️;;
+🫑;;
+🥒;;
+🥬;;
+🥦;;
+🧄;;
+🧅;;
+🥜;;
+🫘;;
+🌰;;
+🫚;;
+🫛;;
+🍄‍🟫;;
+🍞;;
+🥐;;
+🥖;;
+🫓;;
+🥨;;
+🥯;;
+🥞;;
+🧇;;
+🧀;;
+🍖;;
+🍗;;
+🥩;;
+🥓;;
+🍔;;
+🍟;;
+🍕;;
+🌭;;
+🥪;;
+🌮;;
+🌯;;
+🫔;;
+🥙;;
+🧆;;
+🥚;;
+🍳;;
+🥘;;
+🍲;;
+🫕;;
+🥣;;
+🥗;;
+🍿;;
+🧈;;
+🧂;;
+🥫;;
+🍱;;
+🍘;;
+🍙;;
+🍚;;
+🍛;;
+🍜;;
+🍝;;
+🍠;;
+🍢;;
+🍣;;
+🍤;;
+🍥;;
+🥮;;
+🍡;;
+🥟;;
+🥠;;
+🥡;;
+🦀;;
+🦞;;
+🦐;;
+🦑;;
+🦪;;
+🍦;;
+🍧;;
+🍨;;
+🍩;;
+🍪;;
+🎂;;
+🍰;;
+🧁;;
+🥧;;
+🍫;;
+🍬;;
+🍭;;
+🍮;;
+🍯;;
+🍼;;
+🥛;;
+☕;;
+🫖;;
+🍵;;
+🍶;;
+🍾;;
+🍷;;
+🍸;;
+🍹;;
+🍺;;
+🍻;;
+🥂;;
+🥃;;
+🫗;;
+🥤;;
+🧋;;
+🧃;;
+🧉;;
+🧊;;
+🥢;;
+🍽️;;
+🍴;;
+🥄;;
+🔪;;
+🫙;;
+🏺;;
+
+[travel_places]
+🌍;;
+🌎;;
+🌏;;
+🌐;;
+🗺️;;
+🗾;;
+🧭;;
+🏔️;;
+⛰️;;
+🌋;;
+🗻;;
+🏕️;;
+🏖️;;
+🏜️;;
+🏝️;;
+🏞️;;
+🏟️;;
+🏛️;;
+🏗️;;
+🧱;;
+🪨;;
+🪵;;
+🛖;;
+🏘️;;
+🏚️;;
+🏠;;
+🏡;;
+🏢;;
+🏣;;
+🏤;;
+🏥;;
+🏦;;
+🏨;;
+🏩;;
+🏪;;
+🏫;;
+🏬;;
+🏭;;
+🏯;;
+🏰;;
+💒;;
+🗼;;
+🗽;;
+⛪;;
+🕌;;
+🛕;;
+🕍;;
+⛩️;;
+🕋;;
+⛲;;
+⛺;;
+🌁;;
+🌃;;
+🏙️;;
+🌄;;
+🌅;;
+🌆;;
+🌇;;
+🌉;;
+♨️;;
+🎠;;
+🛝;;
+🎡;;
+🎢;;
+💈;;
+🎪;;
+🚂;;
+🚃;;
+🚄;;
+🚅;;
+🚆;;
+🚇;;
+🚈;;
+🚉;;
+🚊;;
+🚝;;
+🚞;;
+🚋;;
+🚌;;
+🚍;;
+🚎;;
+🚐;;
+🚑;;
+🚒;;
+🚓;;
+🚔;;
+🚕;;
+🚖;;
+🚗;;
+🚘;;
+🚙;;
+🛻;;
+🚚;;
+🚛;;
+🚜;;
+🏎️;;
+🏍️;;
+🛵;;
+🦽;;
+🦼;;
+🛺;;
+🚲;;
+🛴;;
+🛹;;
+🛼;;
+🚏;;
+🛣️;;
+🛤️;;
+🛢️;;
+⛽;;
+🛞;;
+🚨;;
+🚥;;
+🚦;;
+🛑;;
+🚧;;
+⚓;;
+🛟;;
+⛵;;
+🛶;;
+🚤;;
+🛳️;;
+⛴️;;
+🛥️;;
+🚢;;
+✈️;;
+🛩️;;
+🛫;;
+🛬;;
+🪂;;
+💺;;
+🚁;;
+🚟;;
+🚠;;
+🚡;;
+🛰️;;
+🚀;;
+🛸;;
+🛎️;;
+🧳;;
+⌛;;
+⏳;;
+⌚;;
+⏰;;
+⏱️;;
+⏲️;;
+🕰️;;
+🕛;;
+🕧;;
+🕐;;
+🕜;;
+🕑;;
+🕝;;
+🕒;;
+🕞;;
+🕓;;
+🕟;;
+🕔;;
+🕠;;
+🕕;;
+🕡;;
+🕖;;
+🕢;;
+🕗;;
+🕣;;
+🕘;;
+🕤;;
+🕙;;
+🕥;;
+🕚;;
+🕦;;
+🌑;;
+🌒;;
+🌓;;
+🌔;;
+🌕;;
+🌖;;
+🌗;;
+🌘;;
+🌙;;
+🌚;;
+🌛;;
+🌜;;
+🌡️;;
+☀️;;
+🌝;;
+🌞;;
+🪐;;
+⭐;;
+🌟;;
+🌠;;
+🌌;;
+☁️;;
+⛅;;
+⛈️;;
+🌤️;;
+🌥️;;
+🌦️;;
+🌧️;;
+🌨️;;
+🌩️;;
+🌪️;;
+🌫️;;
+🌬️;;
+🌀;;
+🌈;;
+🌂;;
+☂️;;
+☔;;
+⛱️;;
+⚡;;
+❄️;;
+☃️;;
+⛄;;
+☄️;;
+🔥;;
+💧;;
+🌊;;
+
+[activities]
+🎃;;
+🎄;;
+🎆;;
+🎇;;
+🧨;;
+✨;;
+🎈;;
+🎉;;
+🎊;;
+🎋;;
+🎍;;
+🎎;;
+🎏;;
+🎐;;
+🎑;;
+🧧;;
+🎀;;
+🎁;;
+🎗️;;
+🎟️;;
+🎫;;
+🎖️;;
+🏆;;
+🏅;;
+🥇;;
+🥈;;
+🥉;;
+⚽;;
+⚾;;
+🥎;;
+🏀;;
+🏐;;
+🏈;;
+🏉;;
+🎾;;
+🥏;;
+🎳;;
+🏏;;
+🏑;;
+🏒;;
+🥍;;
+🏓;;
+🏸;;
+🥊;;
+🥋;;
+🥅;;
+⛳;;
+⛸️;;
+🎣;;
+🤿;;
+🎽;;
+🎿;;
+🛷;;
+🥌;;
+🎯;;
+🪀;;
+🪁;;
+🔫;;
+🎱;;
+🔮;;
+🪄;;
+🎮;;
+🕹️;;
+🎰;;
+🎲;;
+🧩;;
+🧸;;
+🪅;;
+🪩;;
+🪆;;
+♠️;;
+♥️;;
+♦️;;
+♣️;;
+♟️;;
+🃏;;
+🀄;;
+🎴;;
+🎭;;
+🖼️;;
+🎨;;
+🧵;;
+🪡;;
+🧶;;
+🪢;;
+
+[objects]
+👓;;
+🕶️;;
+🥽;;
+🥼;;
+🦺;;
+👔;;
+👕;;
+👖;;
+🧣;;
+🧤;;
+🧥;;
+🧦;;
+👗;;
+👘;;
+🥻;;
+🩱;;
+🩲;;
+🩳;;
+👙;;
+👚;;
+🪭;;
+👛;;
+👜;;
+👝;;
+🛍️;;
+🎒;;
+🩴;;
+👞;;
+👟;;
+🥾;;
+🥿;;
+👠;;
+👡;;
+🩰;;
+👢;;
+🪮;;
+👑;;
+👒;;
+🎩;;
+🎓;;
+🧢;;
+🪖;;
+⛑️;;
+📿;;
+💄;;
+💍;;
+💎;;
+🔇;;
+🔈;;
+🔉;;
+🔊;;
+📢;;
+📣;;
+📯;;
+🔔;;
+🔕;;
+🎼;;
+🎵;;
+🎶;;
+🎙️;;
+🎚️;;
+🎛️;;
+🎤;;
+🎧;;
+📻;;
+🎷;;
+🪗;;
+🎸;;
+🎹;;
+🎺;;
+🎻;;
+🪕;;
+🥁;;
+🪘;;
+🪇;;
+🪈;;
+📱;;
+📲;;
+☎️;;
+📞;;
+📟;;
+📠;;
+🔋;;
+🪫;;
+🔌;;
+💻;;
+🖥️;;
+🖨️;;
+⌨️;;
+🖱️;;
+🖲️;;
+💽;;
+💾;;
+💿;;
+📀;;
+🧮;;
+🎥;;
+🎞️;;
+📽️;;
+🎬;;
+📺;;
+📷;;
+📸;;
+📹;;
+📼;;
+🔍;;
+🔎;;
+🕯️;;
+💡;;
+🔦;;
+🏮;;
+🪔;;
+📔;;
+📕;;
+📖;;
+📗;;
+📘;;
+📙;;
+📚;;
+📓;;
+📒;;
+📃;;
+📜;;
+📄;;
+📰;;
+🗞️;;
+📑;;
+🔖;;
+🏷️;;
+💰;;
+🪙;;
+💴;;
+💵;;
+💶;;
+💷;;
+💸;;
+💳;;
+🧾;;
+💹;;
+✉️;;
+📧;;
+📨;;
+📩;;
+📤;;
+📥;;
+📦;;
+📫;;
+📪;;
+📬;;
+📭;;
+📮;;
+🗳️;;
+✏️;;
+✒️;;
+🖋️;;
+🖊️;;
+🖌️;;
+🖍️;;
+📝;;
+💼;;
+📁;;
+📂;;
+🗂️;;
+📅;;
+📆;;
+🗒️;;
+🗓️;;
+📇;;
+📈;;
+📉;;
+📊;;
+📋;;
+📌;;
+📍;;
+📎;;
+🖇️;;
+📏;;
+📐;;
+✂️;;
+🗃️;;
+🗄️;;
+🗑️;;
+🔒;;
+🔓;;
+🔏;;
+🔐;;
+🔑;;
+🗝️;;
+🔨;;
+🪓;;
+⛏️;;
+⚒️;;
+🛠️;;
+🗡️;;
+⚔️;;
+💣;;
+🪃;;
+🏹;;
+🛡️;;
+🪚;;
+🔧;;
+🪛;;
+🔩;;
+⚙️;;
+🗜️;;
+⚖️;;
+🦯;;
+🔗;;
+⛓️‍💥;;
+⛓️;;
+🪝;;
+🧰;;
+🧲;;
+🪜;;
+⚗️;;
+🧪;;
+🧫;;
+🧬;;
+🔬;;
+🔭;;
+📡;;
+💉;;
+🩸;;
+💊;;
+🩹;;
+🩼;;
+🩺;;
+🩻;;
+🚪;;
+🛗;;
+🪞;;
+🪟;;
+🛏️;;
+🛋️;;
+🪑;;
+🚽;;
+🪠;;
+🚿;;
+🛁;;
+🪤;;
+🪒;;
+🧴;;
+🧷;;
+🧹;;
+🧺;;
+🧻;;
+🪣;;
+🧼;;
+🫧;;
+🪥;;
+🧽;;
+🧯;;
+🛒;;
+🚬;;
+⚰️;;
+🪦;;
+⚱️;;
+🧿;;
+🪬;;
+🗿;;
+🪧;;
+🪪;;
+
+[symbols]
+🏧;signo de cassa automatic;automatic|banca|billetes|cassa|distributor|signo de cassa automatic
+🚮;signo de receptaculo de immunditias;immunditias|jectar|receptaculo|recipiente|signo de receptaculo de immunditias
+🚰;aqua potabile;aqua|biber|bibibile|potabile
+♿;symbolo de sedia rolante;accesso|rolante|rotas|sede|sedia|symbolo de sedia rolante
+🚹;lavatorio pro homines;cabinetto|homine|lavatorio|lavatorio pro homines|toilette|wc
+🚺;lavatorio pro feminas;cabinetto|femina|lavatorio|lavatorio pro feminas|toilette|wc
+🚻;lavatorio;cabinetto|lavatorio|toilette|toilettes|wc
+🚼;symbolo de bebe;baby|bebe|cambiar|fascia|neonato|symbolo de bebe
+🚾;water-closet;aqua|cabinetto|lavatorio|toilette|water-closet|wc
+🛂;controlo de passaportos;controlo|controlo de passaportos|passaporto
+🛃;doana;doana
+🛄;collecta de bagage;bagage|collecta|collecta de bagage|reception|retiro
+🛅;deposito de bagage;bagage|consigna|deposito|deposito de bagage
+⚠️;aviso;advertimento|attention|aviso
+🚸;transversata de infantes;infante|passage|pedones|traffico|transversata|transversata de infantes
+⛔;entrata prohibite;direction unic|entrata prohibite|senso unic|traffico|unidirectional
+🚫;prohibite;entrata|no|non|prohibite|sin
+🚳;bicyclettas prohibite;bicycletta|bicyclettas prohibite|bicyclo|no|prohibite|sin
+🚭;non fumar;fumar|fumo|no|non|prohibite
+🚯;non abandonar immunditias;immunditias|jectar|lassar cader|non abandonar immunditias|prohibite
+🚱;aqua non potabile;aqua|aqua non potabile|non bibibile|non potabile
+🚷;prohibite al pedones;accesso|interdicite|pedon|pedones|prohibite|prohibite al pedones
+📵;telephonos mobile prohibite;interdicite|mobile|portabile|prohibite|telephono|telephonos mobile prohibite
+🔞;;
+☢️;;
+☣️;;
+⬆️;;
+↗️;;
+➡️;;
+↘️;;
+⬇️;;
+↙️;;
+⬅️;;
+↖️;;
+↕️;;
+↔️;;
+↩️;;
+↪️;;
+⤴️;;
+⤵️;;
+🔃;;
+🔄;;
+🔙;;
+🔚;;
+🔛;;
+🔜;;
+🔝;;
+🛐;;
+⚛️;;
+🕉️;;
+✡️;;
+☸️;;
+☯️;;
+✝️;;
+☦️;;
+☪️;;
+☮️;;
+🕎;;
+🔯;;
+🪯;;
+♈;;
+♉;;
+♊;;
+♋;;
+♌;;
+♍;;
+♎;;
+♏;;
+♐;;
+♑;;
+♒;;
+♓;;
+⛎;;
+🔀;;
+🔁;;
+🔂;;
+▶️;;
+⏩;;
+⏭️;;
+⏯️;;
+◀️;;
+⏪;;
+⏮️;;
+🔼;;
+⏫;;
+🔽;;
+⏬;;
+⏸️;;
+⏹️;;
+⏺️;;
+⏏️;;
+🎦;;
+🔅;;
+🔆;;
+📶;;
+🛜;;
+📳;;
+📴;;
+♀️;;
+♂️;;
+⚧️;;
+✖️;multiplication;multiplication
+➕;plus;plus
+➖;minus;minus
+➗;division;÷|divider|division|mathematica|signo
+🟰;;
+♾️;;
+‼️;;
+⁉️;;
+❓;;
+❔;;
+❕;;
+❗;;
+〰️;;
+💱;;
+💲;;
+⚕️;;
+♻️;;
+⚜️;;
+🔱;;
+📛;;
+🔰;;
+⭕;;
+✅;;
+☑️;;
+✔️;;
+❌;;
+❎;;
+➰;;
+➿;;
+〽️;;
+✳️;;
+✴️;;
+❇️;;
+©️;;
+®️;;
+™️;;
+#️⃣;clave: #;clave|clave: #
+*️⃣;clave: *;clave|clave: *
+0️⃣;clave: 0;clave|clave: 0
+1️⃣;clave: 1;clave|clave: 1
+2️⃣;clave: 2;clave|clave: 2
+3️⃣;clave: 3;clave|clave: 3
+4️⃣;clave: 4;clave|clave: 4
+5️⃣;clave: 5;clave|clave: 5
+6️⃣;clave: 6;clave|clave: 6
+7️⃣;clave: 7;clave|clave: 7
+8️⃣;clave: 8;clave|clave: 8
+9️⃣;clave: 9;clave|clave: 9
+🔟;clave: 10;clave|clave: 10
+🔠;;
+🔡;;
+🔢;;
+🔣;;
+🔤;;
+🅰️;;
+🆎;;
+🅱️;;
+🆑;;
+🆒;;
+🆓;;
+ℹ️;;
+🆔;;
+Ⓜ️;;
+🆕;;
+🆖;;
+🅾️;;
+🆗;;
+🅿️;;
+🆘;;
+🆙;;
+🆚;;
+🈁;;
+🈂️;;
+🈷️;;
+🈶;;
+🈯;;
+🉐;;
+🈹;;
+🈚;;
+🈲;;
+🉑;;
+🈸;;
+🈴;;
+🈳;;
+㊗️;;
+㊙️;;
+🈺;;
+🈵;;
+🔴;;
+🟠;;
+🟡;;
+🟢;;
+🔵;;
+🟣;;
+🟤;;
+⚫;;
+⚪;;
+🟥;;
+🟧;;
+🟨;;
+🟩;;
+🟦;;
+🟪;;
+🟫;;
+⬛;;
+⬜;;
+◼️;;
+◻️;;
+◾;;
+◽;;
+▪️;;
+▫️;;
+🔶;;
+🔷;;
+🔸;;
+🔹;;
+🔺;;
+🔻;;
+💠;;
+🔘;;
+🔳;;
+🔲;;
+
+[flags]
+🏁;bandiera a quadros;bandiera|bandiera a quadros|currer|cursa|quadrettos|quadros
+🚩;bandiera triangular;bandiera triangular|palo
+🎌;bandieras cruciate;bandieras cruciate|celebration|cruce|cruciate|japonese
+🏴;bandiera nigre;agitante|bandiera nigre|flottante|undulante
+🏳️;bandiera blanc;agitante|bandiera blanc|flottante|undulante
+🏳️‍🌈;bandiera iride;arco del celo|bandiera iride|bandiera iris|iride|iris
+🏳️‍⚧️;;
+🏴‍☠️;bandiera de pirata;bandiera de pirata|cranio|ossos|piliage|pirata|tresor
+🇦🇨;bandiera: Insula del Ascension;bandiera|bandiera: Insula del Ascension
+🇦🇩;bandiera: Andorra;bandiera|bandiera: Andorra
+🇦🇪;bandiera: Emiratos Arabe Unite;bandiera|bandiera: Emiratos Arabe Unite
+🇦🇫;bandiera: Afghanistan;bandiera|bandiera: Afghanistan
+🇦🇬;bandiera: Antigua e Barbuda;bandiera|bandiera: Antigua e Barbuda
+🇦🇮;bandiera: Anguilla;bandiera|bandiera: Anguilla
+🇦🇱;bandiera: Albania;bandiera|bandiera: Albania
+🇦🇲;bandiera: Armenia;bandiera|bandiera: Armenia
+🇦🇴;bandiera: Angola;bandiera|bandiera: Angola
+🇦🇶;bandiera: Antarctica;bandiera|bandiera: Antarctica
+🇦🇷;bandiera: Argentina;bandiera|bandiera: Argentina
+🇦🇸;bandiera: Samoa american;bandiera|bandiera: Samoa american
+🇦🇹;bandiera: Austria;bandiera|bandiera: Austria
+🇦🇺;bandiera: Australia;bandiera|bandiera: Australia
+🇦🇼;bandiera: Aruba;bandiera|bandiera: Aruba
+🇦🇽;bandiera: Insulas Åland;bandiera|bandiera: Insulas Åland
+🇦🇿;bandiera: Azerbaidzhan;bandiera|bandiera: Azerbaidzhan
+🇧🇦;bandiera: Bosnia e Herzegovina;bandiera|bandiera: Bosnia e Herzegovina
+🇧🇧;bandiera: Barbados;bandiera|bandiera: Barbados
+🇧🇩;bandiera: Bangladesh;bandiera|bandiera: Bangladesh
+🇧🇪;bandiera: Belgica;bandiera|bandiera: Belgica
+🇧🇫;bandiera: Burkina Faso;bandiera|bandiera: Burkina Faso
+🇧🇬;bandiera: Bulgaria;bandiera|bandiera: Bulgaria
+🇧🇭;bandiera: Bahrain;bandiera|bandiera: Bahrain
+🇧🇮;bandiera: Burundi;bandiera|bandiera: Burundi
+🇧🇯;bandiera: Benin;bandiera|bandiera: Benin
+🇧🇱;bandiera: Sancte Bartholomeo;bandiera|bandiera: Sancte Bartholomeo
+🇧🇲;bandiera: Bermuda;bandiera|bandiera: Bermuda
+🇧🇳;bandiera: Brunei;bandiera|bandiera: Brunei
+🇧🇴;bandiera: Bolivia;bandiera|bandiera: Bolivia
+🇧🇶;bandiera: Paises Basse caribe;bandiera|bandiera: Paises Basse caribe
+🇧🇷;bandiera: Brasil;bandiera|bandiera: Brasil
+🇧🇸;bandiera: Bahamas;bandiera|bandiera: Bahamas
+🇧🇹;bandiera: Bhutan;bandiera|bandiera: Bhutan
+🇧🇻;bandiera: Insula de Bouvet;bandiera|bandiera: Insula de Bouvet
+🇧🇼;bandiera: Botswana;bandiera|bandiera: Botswana
+🇧🇾;bandiera: Bielorussia;bandiera|bandiera: Bielorussia
+🇧🇿;bandiera: Belize;bandiera|bandiera: Belize
+🇨🇦;bandiera: Canada;bandiera|bandiera: Canada
+🇨🇨;bandiera: Insulas Cocos (Keeling);bandiera|bandiera: Insulas Cocos (Keeling)
+🇨🇩;bandiera: Congo - Kinshasa;bandiera|bandiera: Congo - Kinshasa
+🇨🇫;bandiera: Republica African Central;bandiera|bandiera: Republica African Central
+🇨🇬;bandiera: Congo - Brazzaville;bandiera|bandiera: Congo - Brazzaville
+🇨🇭;bandiera: Suissa;bandiera|bandiera: Suissa
+🇨🇮;bandiera: Costa de Ebore;bandiera|bandiera: Costa de Ebore
+🇨🇰;bandiera: Insulas Cook;bandiera|bandiera: Insulas Cook
+🇨🇱;bandiera: Chile;bandiera|bandiera: Chile
+🇨🇲;bandiera: Camerun;bandiera|bandiera: Camerun
+🇨🇳;bandiera: China;bandiera|bandiera: China
+🇨🇴;bandiera: Colombia;bandiera|bandiera: Colombia
+🇨🇵;bandiera: Insula Clipperton;bandiera|bandiera: Insula Clipperton
+🇨🇷;bandiera: Costa Rica;bandiera|bandiera: Costa Rica
+🇨🇺;bandiera: Cuba;bandiera|bandiera: Cuba
+🇨🇻;bandiera: Capo Verde;bandiera|bandiera: Capo Verde
+🇨🇼;bandiera: Curaçao;bandiera|bandiera: Curaçao
+🇨🇽;bandiera: Insula de Natal;bandiera|bandiera: Insula de Natal
+🇨🇾;bandiera: Cypro;bandiera|bandiera: Cypro
+🇨🇿;bandiera: Chechia;bandiera|bandiera: Chechia
+🇩🇪;bandiera: Germania;bandiera|bandiera: Germania
+🇩🇬;bandiera: Diego Garcia;bandiera|bandiera: Diego Garcia
+🇩🇯;bandiera: Djibuti;bandiera|bandiera: Djibuti
+🇩🇰;bandiera: Danmark;bandiera|bandiera: Danmark
+🇩🇲;bandiera: Dominica;bandiera|bandiera: Dominica
+🇩🇴;bandiera: Republica Dominican;bandiera|bandiera: Republica Dominican
+🇩🇿;bandiera: Algeria;bandiera|bandiera: Algeria
+🇪🇦;bandiera: Ceuta e Melilla;bandiera|bandiera: Ceuta e Melilla
+🇪🇨;bandiera: Ecuador;bandiera|bandiera: Ecuador
+🇪🇪;bandiera: Estonia;bandiera|bandiera: Estonia
+🇪🇬;bandiera: Egypto;bandiera|bandiera: Egypto
+🇪🇭;bandiera: Sahara occidental;bandiera|bandiera: Sahara occidental
+🇪🇷;bandiera: Eritrea;bandiera|bandiera: Eritrea
+🇪🇸;bandiera: Espania;bandiera|bandiera: Espania
+🇪🇹;bandiera: Ethiopia;bandiera|bandiera: Ethiopia
+🇪🇺;bandiera: Union Europee;bandiera|bandiera: Union Europee
+🇫🇮;bandiera: Finlandia;bandiera|bandiera: Finlandia
+🇫🇯;bandiera: Fiji;bandiera|bandiera: Fiji
+🇫🇰;bandiera: Insulas Falkland;bandiera|bandiera: Insulas Falkland
+🇫🇲;bandiera: Micronesia;bandiera|bandiera: Micronesia
+🇫🇴;bandiera: Insulas Feroe;bandiera|bandiera: Insulas Feroe
+🇫🇷;bandiera: Francia;bandiera|bandiera: Francia
+🇬🇦;bandiera: Gabon;bandiera|bandiera: Gabon
+🇬🇧;bandiera: Regno Unite;bandiera|bandiera: Regno Unite
+🇬🇩;bandiera: Grenada;bandiera|bandiera: Grenada
+🇬🇪;bandiera: Georgia;bandiera|bandiera: Georgia
+🇬🇫;bandiera: Guyana francese;bandiera|bandiera: Guyana francese
+🇬🇬;bandiera: Guernsey;bandiera|bandiera: Guernsey
+🇬🇭;bandiera: Ghana;bandiera|bandiera: Ghana
+🇬🇮;bandiera: Gibraltar;bandiera|bandiera: Gibraltar
+🇬🇱;bandiera: Groenlandia;bandiera|bandiera: Groenlandia
+🇬🇲;bandiera: Gambia;bandiera|bandiera: Gambia
+🇬🇳;bandiera: Guinea;bandiera|bandiera: Guinea
+🇬🇵;bandiera: Guadeloupe;bandiera|bandiera: Guadeloupe
+🇬🇶;bandiera: Guinea equatorial;bandiera|bandiera: Guinea equatorial
+🇬🇷;bandiera: Grecia;bandiera|bandiera: Grecia
+🇬🇸;bandiera: Georgia del Sud e Insulas Sandwich Austral;bandiera|bandiera: Georgia del Sud e Insulas Sandwich Austral
+🇬🇹;bandiera: Guatemala;bandiera|bandiera: Guatemala
+🇬🇺;bandiera: Guam;bandiera|bandiera: Guam
+🇬🇼;bandiera: Guinea-Bissau;bandiera|bandiera: Guinea-Bissau
+🇬🇾;bandiera: Guyana;bandiera|bandiera: Guyana
+🇭🇰;bandiera: Hongkong, R.A.S. de China;bandiera|bandiera: Hongkong, R.A.S. de China
+🇭🇲;bandiera: Insulas Heard e McDonald;bandiera|bandiera: Insulas Heard e McDonald
+🇭🇳;bandiera: Honduras;bandiera|bandiera: Honduras
+🇭🇷;bandiera: Croatia;bandiera|bandiera: Croatia
+🇭🇹;bandiera: Haiti;bandiera|bandiera: Haiti
+🇭🇺;bandiera: Hungaria;bandiera|bandiera: Hungaria
+🇮🇨;bandiera: Insulas Canari;bandiera|bandiera: Insulas Canari
+🇮🇩;bandiera: Indonesia;bandiera|bandiera: Indonesia
+🇮🇪;bandiera: Irlanda;bandiera|bandiera: Irlanda
+🇮🇱;bandiera: Israel;bandiera|bandiera: Israel
+🇮🇲;bandiera: Insula de Man;bandiera|bandiera: Insula de Man
+🇮🇳;bandiera: India;bandiera|bandiera: India
+🇮🇴;bandiera: Territorio oceanic britanno-indian;bandiera|bandiera: Territorio oceanic britanno-indian
+🇮🇶;bandiera: Irak;bandiera|bandiera: Irak
+🇮🇷;bandiera: Iran;bandiera|bandiera: Iran
+🇮🇸;bandiera: Islanda;bandiera|bandiera: Islanda
+🇮🇹;bandiera: Italia;bandiera|bandiera: Italia
+🇯🇪;bandiera: Jersey;bandiera|bandiera: Jersey
+🇯🇲;bandiera: Jamaica;bandiera|bandiera: Jamaica
+🇯🇴;bandiera: Jordania;bandiera|bandiera: Jordania
+🇯🇵;bandiera: Japon;bandiera|bandiera: Japon
+🇰🇪;bandiera: Kenya;bandiera|bandiera: Kenya
+🇰🇬;bandiera: Kirghizistan;bandiera|bandiera: Kirghizistan
+🇰🇭;bandiera: Cambodgia;bandiera|bandiera: Cambodgia
+🇰🇮;bandiera: Kiribati;bandiera|bandiera: Kiribati
+🇰🇲;bandiera: Comoros;bandiera|bandiera: Comoros
+🇰🇳;bandiera: Sancte Christophoro e Nevis;bandiera|bandiera: Sancte Christophoro e Nevis
+🇰🇵;bandiera: Corea del Nord;bandiera|bandiera: Corea del Nord
+🇰🇷;bandiera: Corea del Sud;bandiera|bandiera: Corea del Sud
+🇰🇼;bandiera: Kuwait;bandiera|bandiera: Kuwait
+🇰🇾;bandiera: Insulas de Caiman;bandiera|bandiera: Insulas de Caiman
+🇰🇿;bandiera: Kazakhstan;bandiera|bandiera: Kazakhstan
+🇱🇦;bandiera: Laos;bandiera|bandiera: Laos
+🇱🇧;bandiera: Libano;bandiera|bandiera: Libano
+🇱🇨;bandiera: Sancte Lucia;bandiera|bandiera: Sancte Lucia
+🇱🇮;bandiera: Liechtenstein;bandiera|bandiera: Liechtenstein
+🇱🇰;bandiera: Sri Lanka;bandiera|bandiera: Sri Lanka
+🇱🇷;bandiera: Liberia;bandiera|bandiera: Liberia
+🇱🇸;bandiera: Lesotho;bandiera|bandiera: Lesotho
+🇱🇹;bandiera: Lituania;bandiera|bandiera: Lituania
+🇱🇺;bandiera: Luxemburg;bandiera|bandiera: Luxemburg
+🇱🇻;bandiera: Lettonia;bandiera|bandiera: Lettonia
+🇱🇾;bandiera: Libya;bandiera|bandiera: Libya
+🇲🇦;bandiera: Marocco;bandiera|bandiera: Marocco
+🇲🇨;bandiera: Monaco;bandiera|bandiera: Monaco
+🇲🇩;bandiera: Moldavia;bandiera|bandiera: Moldavia
+🇲🇪;bandiera: Montenegro;bandiera|bandiera: Montenegro
+🇲🇫;bandiera: Sancte Martino francese;bandiera|bandiera: Sancte Martino francese
+🇲🇬;bandiera: Madagascar;bandiera|bandiera: Madagascar
+🇲🇭;bandiera: Insulas Marshall;bandiera|bandiera: Insulas Marshall
+🇲🇰;bandiera: Macedonia del Nord;bandiera|bandiera: Macedonia del Nord
+🇲🇱;bandiera: Mali;bandiera|bandiera: Mali
+🇲🇲;bandiera: Myanmar (Birmania);bandiera|bandiera: Myanmar (Birmania)
+🇲🇳;bandiera: Mongolia;bandiera|bandiera: Mongolia
+🇲🇴;bandiera: Macao, R.A.S. de China;bandiera|bandiera: Macao, R.A.S. de China
+🇲🇵;bandiera: Insulas Marianna del Nord;bandiera|bandiera: Insulas Marianna del Nord
+🇲🇶;bandiera: Martinica;bandiera|bandiera: Martinica
+🇲🇷;bandiera: Mauritania;bandiera|bandiera: Mauritania
+🇲🇸;bandiera: Montserrat;bandiera|bandiera: Montserrat
+🇲🇹;bandiera: Malta;bandiera|bandiera: Malta
+🇲🇺;bandiera: Mauritio;bandiera|bandiera: Mauritio
+🇲🇻;bandiera: Maldivas;bandiera|bandiera: Maldivas
+🇲🇼;bandiera: Malawi;bandiera|bandiera: Malawi
+🇲🇽;bandiera: Mexico;bandiera|bandiera: Mexico
+🇲🇾;bandiera: Malaysia;bandiera|bandiera: Malaysia
+🇲🇿;bandiera: Mozambique;bandiera|bandiera: Mozambique
+🇳🇦;bandiera: Namibia;bandiera|bandiera: Namibia
+🇳🇨;bandiera: Nove Caledonia;bandiera|bandiera: Nove Caledonia
+🇳🇪;bandiera: Niger;bandiera|bandiera: Niger
+🇳🇫;bandiera: Insula Norfolk;bandiera|bandiera: Insula Norfolk
+🇳🇬;bandiera: Nigeria;bandiera|bandiera: Nigeria
+🇳🇮;bandiera: Nicaragua;bandiera|bandiera: Nicaragua
+🇳🇱;bandiera: Nederlandia;bandiera|bandiera: Nederlandia
+🇳🇴;bandiera: Norvegia;bandiera|bandiera: Norvegia
+🇳🇵;bandiera: Nepal;bandiera|bandiera: Nepal
+🇳🇷;bandiera: Nauru;bandiera|bandiera: Nauru
+🇳🇺;bandiera: Niue;bandiera|bandiera: Niue
+🇳🇿;bandiera: Nove Zelanda;bandiera|bandiera: Nove Zelanda
+🇴🇲;bandiera: Oman;bandiera|bandiera: Oman
+🇵🇦;bandiera: Panama;bandiera|bandiera: Panama
+🇵🇪;bandiera: Peru;bandiera|bandiera: Peru
+🇵🇫;bandiera: Polynesia francese;bandiera|bandiera: Polynesia francese
+🇵🇬;bandiera: Papua Nove Guinea;bandiera|bandiera: Papua Nove Guinea
+🇵🇭;bandiera: Philippinas;bandiera|bandiera: Philippinas
+🇵🇰;bandiera: Pakistan;bandiera|bandiera: Pakistan
+🇵🇱;bandiera: Polonia;bandiera|bandiera: Polonia
+🇵🇲;bandiera: St. Pierre e Miquelon;bandiera|bandiera: St. Pierre e Miquelon
+🇵🇳;bandiera: Insulas Pitcairn;bandiera|bandiera: Insulas Pitcairn
+🇵🇷;bandiera: Porto Rico;bandiera|bandiera: Porto Rico
+🇵🇸;bandiera: Territorios palestin;bandiera|bandiera: Territorios palestin
+🇵🇹;bandiera: Portugal;bandiera|bandiera: Portugal
+🇵🇼;bandiera: Palau;bandiera|bandiera: Palau
+🇵🇾;bandiera: Paraguay;bandiera|bandiera: Paraguay
+🇶🇦;bandiera: Qatar;bandiera|bandiera: Qatar
+🇷🇪;bandiera: Reunion;bandiera|bandiera: Reunion
+🇷🇴;bandiera: Romania;bandiera|bandiera: Romania
+🇷🇸;bandiera: Serbia;bandiera|bandiera: Serbia
+🇷🇺;bandiera: Russia;bandiera|bandiera: Russia
+🇷🇼;bandiera: Ruanda;bandiera|bandiera: Ruanda
+🇸🇦;bandiera: Arabia Saudita;bandiera|bandiera: Arabia Saudita
+🇸🇧;bandiera: Insulas Solomon;bandiera|bandiera: Insulas Solomon
+🇸🇨;bandiera: Seychelles;bandiera|bandiera: Seychelles
+🇸🇩;bandiera: Sudan;bandiera|bandiera: Sudan
+🇸🇪;bandiera: Svedia;bandiera|bandiera: Svedia
+🇸🇬;bandiera: Singapur;bandiera|bandiera: Singapur
+🇸🇭;bandiera: Sancte Helena;bandiera|bandiera: Sancte Helena
+🇸🇮;bandiera: Slovenia;bandiera|bandiera: Slovenia
+🇸🇯;bandiera: Svalbard e Jan Mayen;bandiera|bandiera: Svalbard e Jan Mayen
+🇸🇰;bandiera: Slovachia;bandiera|bandiera: Slovachia
+🇸🇱;bandiera: Sierra Leone;bandiera|bandiera: Sierra Leone
+🇸🇲;bandiera: San Marino;bandiera|bandiera: San Marino
+🇸🇳;bandiera: Senegal;bandiera|bandiera: Senegal
+🇸🇴;bandiera: Somalia;bandiera|bandiera: Somalia
+🇸🇷;bandiera: Suriname;bandiera|bandiera: Suriname
+🇸🇸;bandiera: Sudan del Sud;bandiera|bandiera: Sudan del Sud
+🇸🇹;bandiera: São Tomé e Príncipe;bandiera|bandiera: São Tomé e Príncipe
+🇸🇻;bandiera: El Salvador;bandiera|bandiera: El Salvador
+🇸🇽;bandiera: Sancte Martino nederlandese;bandiera|bandiera: Sancte Martino nederlandese
+🇸🇾;bandiera: Syria;bandiera|bandiera: Syria
+🇸🇿;bandiera: Eswatini;bandiera|bandiera: Eswatini
+🇹🇦;bandiera: Tristan da Cunha;bandiera|bandiera: Tristan da Cunha
+🇹🇨;bandiera: Insulas Turcos e Caicos;bandiera|bandiera: Insulas Turcos e Caicos
+🇹🇩;bandiera: Tchad;bandiera|bandiera: Tchad
+🇹🇫;bandiera: Territorios meridional francese;bandiera|bandiera: Territorios meridional francese
+🇹🇬;bandiera: Togo;bandiera|bandiera: Togo
+🇹🇭;bandiera: Thailandia;bandiera|bandiera: Thailandia
+🇹🇯;bandiera: Tadzhikistan;bandiera|bandiera: Tadzhikistan
+🇹🇰;bandiera: Tokelau;bandiera|bandiera: Tokelau
+🇹🇱;bandiera: Timor del Est;bandiera|bandiera: Timor del Est
+🇹🇲;bandiera: Turkmenistan;bandiera|bandiera: Turkmenistan
+🇹🇳;bandiera: Tunisia;bandiera|bandiera: Tunisia
+🇹🇴;bandiera: Tonga;bandiera|bandiera: Tonga
+🇹🇷;bandiera: Turchia;bandiera|bandiera: Turchia
+🇹🇹;bandiera: Trinidad e Tobago;bandiera|bandiera: Trinidad e Tobago
+🇹🇻;bandiera: Tuvalu;bandiera|bandiera: Tuvalu
+🇹🇼;bandiera: Taiwan;bandiera|bandiera: Taiwan
+🇹🇿;bandiera: Tanzania;bandiera|bandiera: Tanzania
+🇺🇦;bandiera: Ukraina;bandiera|bandiera: Ukraina
+🇺🇬;bandiera: Uganda;bandiera|bandiera: Uganda
+🇺🇲;bandiera: Insulas peripheric del SUA;bandiera|bandiera: Insulas peripheric del SUA
+🇺🇳;bandiera: Nationes Unite;bandiera|bandiera: Nationes Unite
+🇺🇸;bandiera: Statos Unite;bandiera|bandiera: Statos Unite
+🇺🇾;bandiera: Uruguay;bandiera|bandiera: Uruguay
+🇺🇿;bandiera: Uzbekistan;bandiera|bandiera: Uzbekistan
+🇻🇦;bandiera: Citate del Vaticano;bandiera|bandiera: Citate del Vaticano
+🇻🇨;bandiera: Sancte Vincente e le Grenadinas;bandiera|bandiera: Sancte Vincente e le Grenadinas
+🇻🇪;bandiera: Venezuela;bandiera|bandiera: Venezuela
+🇻🇬;bandiera: Insulas Virgine britannic;bandiera|bandiera: Insulas Virgine britannic
+🇻🇮;bandiera: Insulas Virgine statounitese;bandiera|bandiera: Insulas Virgine statounitese
+🇻🇳;bandiera: Vietnam;bandiera|bandiera: Vietnam
+🇻🇺;bandiera: Vanuatu;bandiera|bandiera: Vanuatu
+🇼🇫;bandiera: Wallis e Futuna;bandiera|bandiera: Wallis e Futuna
+🇼🇸;bandiera: Samoa;bandiera|bandiera: Samoa
+🇽🇰;bandiera: Kosovo;bandiera|bandiera: Kosovo
+🇾🇪;bandiera: Yemen;bandiera|bandiera: Yemen
+🇾🇹;bandiera: Mayotte;bandiera|bandiera: Mayotte
+🇿🇦;bandiera: Africa del Sud;bandiera|bandiera: Africa del Sud
+🇿🇲;bandiera: Zambia;bandiera|bandiera: Zambia
+🇿🇼;bandiera: Zimbabwe;bandiera|bandiera: Zimbabwe
+🏴󠁧󠁢󠁥󠁮󠁧󠁿;;
+🏴󠁧󠁢󠁳󠁣󠁴󠁿;;
+🏴󠁧󠁢󠁷󠁬󠁳󠁿;;
+
