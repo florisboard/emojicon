@@ -78,6 +78,8 @@ def main(argv: list[str]):
             if not os.path.exists(out_dir):
                 os.makedirs(out_dir)
             for lang_code, mapping in cldr_annotation_mappings.items():
+                if "_" in lang_code:
+                    continue
                 out_path = f"{out_dir}/{lang_code}.txt"
                 if lang_code == LANG_CODE_ROOT:
                     write_emoji_data_file(out_path, emoji_data, CldrAnnotationMapping())
