@@ -15,12 +15,19 @@ To use this tool, make sure you have Python 3.10 or newer installed in your syst
 ### Actions
 
 ```
-build <lang_code>   Builds the emoji mapping file for specified language. If no language code
-                    is specified or 'root' is passed, all names and keywords will be left empty
-                    and the generated file name is 'root.txt' in the output dir.
-buildall            Builds the emoji mapping files for all langugaes including root.
-clean               Removes the output directory and all built files.
-help                Shows this help message.
+build <cldr_version> <lang_code>
+    Builds the emoji mapping file for specified language. If no language code
+    is specified or 'root' is passed, all names and keywords will be left empty
+    and the generated file name is 'root.txt' in the output dir.
+
+buildall <cldr_version>
+    Builds the emoji mapping files for all languages, including root.
+
+clean
+    Removes the output directory and all built files.
+
+help
+    Shows this help message.
 ```
 
 ## Project info
@@ -28,8 +35,6 @@ help                Shows this help message.
 This project is structured in the following:
 
 ```
-cldr/               Git submodule of the Unicode CLDR repository, checked out on a specific
-                    release, mostly the latest stable release.
 prebuilt/           Pre-built emoji mapping files, which are intended for usage in the main
                     FlorisBoard repository (https://github.com/florisboard/florisboard)
 src/                The Python source code of the Emojicon tool.
